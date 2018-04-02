@@ -1,0 +1,132 @@
+variable,description,source,year_created,Community_safety,Demographics,Health,Housing,Income_employment,Education,Transportation
+PER3CHRO,% Reporting 3+ Chronic Health Issues,ACC Health Needs Assessment 2015,2015,0,0,1,0,0,0,0
+PERBARRI,%Reporting Barriers to Health Care Access,ACC Health Needs Assessment 2015,2015,0,0,1,0,0,0,0
+PERAFFOR,% Reporting Inability to Afford Health Care Access,ACC Health Needs Assessment 2015,2015,0,0,1,0,0,0,0
+PERUNINS,% Reporting Being Uninsured ,ACC Health Needs Assessment 2015,2015,0,0,1,0,0,0,0
+CRIMECLE,Crime Clearance Percentage 2000-2015,ACC Police Department; American Community Survey 2010-2014 5 year estimate,2015,1,0,0,0,0,0,0
+P1CRIME,Part I Crime Rate 2000-2015 (Average),ACC Police Department; U.S. Census 2000; U.S. Census 2010; American Community Survey 2010-2014 5 year estimate,2015,1,0,0,0,0,0,0
+P2CRIME,Part II Crime Rate 2000-2015 (Average),ACC Police Department; U.S. Census 2000; U.S. Census 2010; American Community Survey 2010-2014 5 year estimate,2015,1,0,0,0,0,0,0
+SAFO,Sexual Assault and Family Offense Rates 2000-2015 (Average),ACC Police Department; U.S. Census 2000; U.S. Census 2010; American Community Survey 2010-2014 5 year estimate,2015,1,0,0,0,0,0,0
+SIDEWALK,Sidewalks (sqft) per Road Mile,American Community Survey 2010-2014 5 year estimate; ACC,2015,1,0,0,0,0,0,0
+L1000,"Streetlights per 1,000 People",American Community Survey 2010-2014 5 year estimate; ACC,2015,1,0,0,0,0,0,0
+DRIVEWAY,Driveways per Household,American Community Survey 2010-2014 5 year estimate; ACC,2015,1,0,0,0,0,0,0
+VIOL_REF,Violent Referrals per 100 Students,American Community Survey 2010-2014 5 year estimate; Clark County School District,2015,1,0,0,0,0,0,0
+DOMCRIME,Domestic Crime Rates Over 15 years,American Community Survey 2010-2014 5 year estimate; Clark County School District,2015,1,0,0,0,0,0,0
+BROADS,% of Roads with Bike Lanes,Athens Clarke County Planning Department (bike lanes) and Georgia Department of Transportation (roads),2015,0,0,0,0,0,0,0
+PERCONSE,Percent Conservation Easement,Athens Land Trust (ALT),2015,0,0,1,0,0,0,0
+NUMSGARD,Number of School Gardens,Athens Land Trust (ALT),2015,0,0,1,0,0,0,0
+NUMCOMGAR,Number of Community Gardens,Athens Land Trust (ALT),2015,0,0,1,0,0,0,0
+R_SROAD,Area Ratio Public Sidewalk to Road,Athens-Clarke County Planning Department,2015,0,0,0,0,0,0,0
+R_SPERS,Ratio Public Sidewalk Area (sq ft) per person,Athens-Clarke County Planning Department,2015,0,0,0,0,0,0,0
+BUSZONE,% school zone covered by bus service area,Athens-Clarke County Planning Department,2015,0,0,0,0,0,0,0
+CCRASH,Count of crashes per 1000,Athens-Clarke County Police Department,2015,0,0,0,0,0,0,0
+ELATTEND,Elementary Attendance Rates,Clarke County School District,2015,0,0,0,0,0,1,0
+EYEAREXP,Elementary Average Teacher Years of Experience,Clarke County School District,2015,0,0,0,0,0,1,0
+ELCSIZE,Elemantary Average Class Size,Clarke County School District,2015,0,0,0,0,0,1,0
+ESTRATIO,Elementary Student-Teacher Ratio,Clarke County School District,2015,0,0,0,0,0,1,0
+AVAIANSP,Avian Species Richness,eBird (2010 - 2015),2015,0,0,1,0,0,0,0
+NUMTOXIC,Number of Toxic Release Inventory Sites,Environmental Protection Agency (EPA) (2014),2015,0,0,1,0,0,0,0
+ACCMILE,Traffic Accidents per Road Mile,Georgia Department of Transportation (GDOT) (2013-2015); ACC,2015,1,0,0,0,0,0,0
+PBA10M,Pedestrian/Bicycle Accidents per 10 Road Miles,Georgia Department of Transportation (GDOT) (2013-2015); ACC,2015,1,0,0,0,0,0,0
+PERIMSTR,Percent of Streams Impaired,Georgia Environmental Protection Division (2012),2015,0,0,1,0,0,0,0
+PERGREEN,Percent Green Space,National Land Cover Database (2011),2015,0,0,1,0,0,0,0
+MEANHVAL,Mean Home Value,Parcel data from ACC Planning Department,2015,0,0,0,1,0,0,0
+PER1MPRE,% Population within 1 Mile of Pre-K/Nursery,Quality Care for Children,2015,0,0,0,0,0,1,0
+PER3MPRE,% Population within 3 Miles of Pre-K/Nursery,Quality Care for Children,2015,0,0,0,0,0,1,0
+NUMFOODP,Number of Food Pantries,Suntopia.org,2015,0,0,1,0,0,0,0
+TotPop,Total population,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_WhtNH ,White non-hispanic population,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_BlkNH,Black non-hispanic pouplation,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_AsnNH,Asian non-hispanic population,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_Hisp,Hispanic/latinx population,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_AI,American Indian/non-hispanic population,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_HPI,Hawaiian/Pacific Islander population,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Rce_OthNH,Other race non-hispanic,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Age05,Age under 5 years,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+AgeU18,Age under 18 years,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+AgeO65,Age 75 and older,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Age18_24,Age 18-24 years,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Pov_Und18,Poverty under 18,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+Pov_Ov65,Poverty over 65,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,0,0,0,0
+HInsur_Nat,Has health insurance native born,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,1,0,0,0,0
+HInsur_FBNat,Has health insurance foreign born and naturalized,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,1,0,0,0,0
+HInsur_FBNC,Has health insurance foreign born non-citizen,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,1,0,0,0,0
+HousUnits,Total housing units,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,1,0,1,0,0,0
+HousPop,Total population in housing units,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,1,0,0,0
+HousOwn,Total population in owner occupied housing,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,1,0,0,0
+HousRent,Total population in renter occupied housing,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,1,0,0,0
+Rent30,Population whose gross rent is >30% of income,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,1,1,0,0
+Empl_unemp,Total population unemployed,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Sch_Kpre,Total enrolled in nursery school & kindergarten,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Sch_ugrad,Total in undergraduate,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Sch_grad,Total in grad school,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Trn_car,"Commute: used car, truck, or van alone","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Trn_carpool,Commute: carpooled in car,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Trn_pub,Commute: used public transit,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Trn_walk,Walked to work,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Trn_taxi,"Commute: other--taxi, motorcycle, or bicycle","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Trn_home,Commute: Worked at home,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Trn_noveh,Commute: no available vehicle,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,0,1
+Inc_10K,"Houshold income < $10,000","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc10K_24K,"Houshold income $10,000 - $24,999","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc25K_49K,"Houshold income $25,000 - $49,999","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc50K_74K,"Houshold income $50,000 - $74,999","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc75K_99K,"Houshold income $75,000 - $99,999","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc100K_149K,"Houshold income $100,000 - $149,999","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc150K_199K,"Houshold income $150,000 - $199,999","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Inc_200K,"Houshold income > $200,000","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_ag,Total population for ag forestry fishing and hunting,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_const,Population employed in construction,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_manf,Population employed in manufacturing,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_whlsl,Population employed in wholesale trade,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_retail,Population employed in retail,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_trans,"Population employed in transportation, warehousing, and utilites","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_info,Population employed in information,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_finan,"Population employed in finance, insurance, and real estate","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_prof,"Population employed in professional, scientific and management, administration, or waste services","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_edhlth,"Population employed in educational services, health care, or social assistance","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_arts,"Population employed in arts, entertainment, and recreation","American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_pubad,Population employed in public administration,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ind_other,Population employed in other services,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+Ed_lesshs,Less than high school graduate,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Ed_hsgrad,High school diploma or GED,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Ed_somecol,Some college or Associate's Degree,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Ed_ba,Bachelor's degree,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Ed_ma,MA degree,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Ed_prof_doc,Professional/doctorate degree,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,0,1,0
+Pov_pop,Population below poverty line,"American Community Survey, 5 year sample ending in 2013 or 2016 (label ends .y13 or .y16)",2018,0,0,0,0,1,0,0
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
