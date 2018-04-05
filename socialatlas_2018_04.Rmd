@@ -19,14 +19,14 @@ output:
 library(flexdashboard)
 library(shiny)
 library(leaflet)
-library(rgdal)
+#library(rgdal)
 library(RColorBrewer)
 library(classInt)
 library(highcharter)
 library(plotly)
 library(ggplot2)
-library(reshape2)
-library(readxl)
+#library(reshape2)
+#library(readxl)
 library(sf)
 library(tidyverse)
 #library(googlesheets)
@@ -36,12 +36,14 @@ library(tidyverse)
 #metadata<-gs_read(sheet,ws="Metadata")
 #atlasdata<-melt(atlasdata_wide,id.vars=c("School","SchoolID"))
 
-atlasdata_wide<-read_excel("Athens Social Atlas Data_complete.xlsx",sheet="Data")
-districts<-st_read("ElementarySchoolDistricts_data.shp") %>%
+atlasdata<-read_csv("data/AthensSocialAtlasData_2018_02_05.csv")
+atlasdata_wide<-atlasdata %>% 
+  select(-moe) %>%
+  spread(var,est) 
+districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
   select(SchoolID) %>%
   left_join(atlasdata_wide)
-atlasdata<-melt(atlasdata_wide,id.vars=c("School","SchoolID"))
-metadata<-read_excel("Athens Social Atlas Data_complete.xlsx",sheet="Metadata")
+metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
 
 ```
 
