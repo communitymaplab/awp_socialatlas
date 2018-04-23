@@ -36,13 +36,13 @@ library(tidyverse)
 #metadata<-gs_read(sheet,ws="Metadata")
 #atlasdata<-melt(atlasdata_wide,id.vars=c("School","SchoolID"))
 
-atlasdata<-read_csv("data/AthensSocialAtlasData_2018_04_23.csv")
+
 # atlasdata_wide<-atlasdata %>% 
 #   select(-moe) %>%
 #   spread(var,est) 
 districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
-  select(SchoolID) %>%
-  left_join(atlasdata_wide)
+  select(SchoolID) 
+atlasdata<-read_csv("data/AthensSocialAtlasData_2018_04_23.csv")
 metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
 
 # Adding variable description to old data. Will delete eventually.
@@ -202,7 +202,8 @@ Column {data-width=450}
 
 
  filter_metadata<-reactive({
-     metadata[metadata$var_val==variable(),]
+     var_code<-metadata %>%
+          filter(metadata$description==variable())
    })
 
  output$text<-renderUI(
@@ -220,8 +221,9 @@ Column {data-width=450}
 #Right now this is subsetted from a shapefile that had all the data.
 #Now I'd prefer you do a leftjoin with the csv data to a geojson file that just has school ID.
 filteredData_variable<-reactive({
-  dist<-districts %>%
-    select(ES_short)
+  dist<-atlasdata %>%
+    filter(description==variable()) %>% ####Here is where you need to filter the atlasdata based on the dropdown
+    left_join(districts)
   dist
 })
 
