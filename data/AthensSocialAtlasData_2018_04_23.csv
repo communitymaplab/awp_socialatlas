@@ -1,0 +1,1505 @@
+School,SchoolID,Mschool,Latitude,Longitude,Hschool,var,est,moe,description
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,P1CRIME,9910.1,-99,Part I Crime Rate 2000-2015 (Average)
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,P1CRIME,3630.92,-99,Part I Crime Rate 2000-2015 (Average)
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,P1CRIME,4022.34,-99,Part I Crime Rate 2000-2015 (Average)
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,P1CRIME,4335.36,-99,Part I Crime Rate 2000-2015 (Average)
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,P1CRIME,6851.07,-99,Part I Crime Rate 2000-2015 (Average)
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,P1CRIME,9614.76,-99,Part I Crime Rate 2000-2015 (Average)
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,P1CRIME,8699.06,-99,Part I Crime Rate 2000-2015 (Average)
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,P1CRIME,8757.7,-99,Part I Crime Rate 2000-2015 (Average)
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,P1CRIME,10086.16,-99,Part I Crime Rate 2000-2015 (Average)
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,P1CRIME,5254.66,-99,Part I Crime Rate 2000-2015 (Average)
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,P1CRIME,8107.34,-99,Part I Crime Rate 2000-2015 (Average)
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,P1CRIME,5695.38,-99,Part I Crime Rate 2000-2015 (Average)
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,P1CRIME,4381.21,-99,Part I Crime Rate 2000-2015 (Average)
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,P1CRIME,1730.82,-99,Part I Crime Rate 2000-2015 (Average)
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,P1CRIME,3913.63,-99,Part I Crime Rate 2000-2015 (Average)
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,P1CRIME,5883.14,-99,Part I Crime Rate 2000-2015 (Average)
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,P2CRIME,13920.44,-99,Part II Crime Rate 2000-2015 (Average)
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,P2CRIME,4270.91,-99,Part II Crime Rate 2000-2015 (Average)
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,P2CRIME,7207.07,-99,Part II Crime Rate 2000-2015 (Average)
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,P2CRIME,7220.24,-99,Part II Crime Rate 2000-2015 (Average)
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,P2CRIME,7879.87,-99,Part II Crime Rate 2000-2015 (Average)
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,P2CRIME,6218.31,-99,Part II Crime Rate 2000-2015 (Average)
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,P2CRIME,10113.14,-99,Part II Crime Rate 2000-2015 (Average)
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,P2CRIME,13332.55,-99,Part II Crime Rate 2000-2015 (Average)
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,P2CRIME,13680.43,-99,Part II Crime Rate 2000-2015 (Average)
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,P2CRIME,6485.1,-99,Part II Crime Rate 2000-2015 (Average)
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,P2CRIME,13059.71,-99,Part II Crime Rate 2000-2015 (Average)
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,P2CRIME,7103.49,-99,Part II Crime Rate 2000-2015 (Average)
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,P2CRIME,4100.1,-99,Part II Crime Rate 2000-2015 (Average)
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,P2CRIME,2392.55,-99,Part II Crime Rate 2000-2015 (Average)
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,P2CRIME,4508.41,-99,Part II Crime Rate 2000-2015 (Average)
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,P2CRIME,5686.6,-99,Part II Crime Rate 2000-2015 (Average)
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,SAFO,367.16,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,SAFO,132.62,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,SAFO,128.45,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,SAFO,286.14,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,SAFO,245.76,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,SAFO,233.15,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,SAFO,316.6,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,SAFO,434.89,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,SAFO,438.03,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,SAFO,299.83,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,SAFO,445.16,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,SAFO,246.87,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,SAFO,146.44,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,SAFO,112.46,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,SAFO,178.4,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,SAFO,168.86,-99,Sexual Assault and Family Offense Rates 2000-2015 (Average)
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,CRIMECLE,40.03,-99,Crime Clearance Percentage 2000-2015
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,CRIMECLE,32,-99,Crime Clearance Percentage 2000-2015
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,CRIMECLE,45.85,-99,Crime Clearance Percentage 2000-2015
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,CRIMECLE,33.73,-99,Crime Clearance Percentage 2000-2015
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,CRIMECLE,33.32,-99,Crime Clearance Percentage 2000-2015
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,CRIMECLE,37.99,-99,Crime Clearance Percentage 2000-2015
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,CRIMECLE,33.16,-99,Crime Clearance Percentage 2000-2015
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,CRIMECLE,37.34,-99,Crime Clearance Percentage 2000-2015
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,CRIMECLE,34.63,-99,Crime Clearance Percentage 2000-2015
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,CRIMECLE,32.65,-99,Crime Clearance Percentage 2000-2015
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,CRIMECLE,30.56,-99,Crime Clearance Percentage 2000-2015
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,CRIMECLE,32.17,-99,Crime Clearance Percentage 2000-2015
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,CRIMECLE,30.55,-99,Crime Clearance Percentage 2000-2015
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,CRIMECLE,29.33,-99,Crime Clearance Percentage 2000-2015
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,CRIMECLE,31.32,-99,Crime Clearance Percentage 2000-2015
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,CRIMECLE,37.63,-99,Crime Clearance Percentage 2000-2015
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,ACCMILE,50.5,-99,Traffic Accidents per Road Mile
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,ACCMILE,15.3,-99,Traffic Accidents per Road Mile
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,ACCMILE,45.6,-99,Traffic Accidents per Road Mile
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,ACCMILE,8,-99,Traffic Accidents per Road Mile
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,ACCMILE,31.5,-99,Traffic Accidents per Road Mile
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,ACCMILE,17.2,-99,Traffic Accidents per Road Mile
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,ACCMILE,16.9,-99,Traffic Accidents per Road Mile
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,ACCMILE,31.7,-99,Traffic Accidents per Road Mile
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,ACCMILE,17.2,-99,Traffic Accidents per Road Mile
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,ACCMILE,7,-99,Traffic Accidents per Road Mile
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,ACCMILE,19.4,-99,Traffic Accidents per Road Mile
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,ACCMILE,15.3,-99,Traffic Accidents per Road Mile
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,ACCMILE,20,-99,Traffic Accidents per Road Mile
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,ACCMILE,3.4,-99,Traffic Accidents per Road Mile
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,ACCMILE,9.5,-99,Traffic Accidents per Road Mile
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,ACCMILE,7.8,-99,Traffic Accidents per Road Mile
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PBA10M,7.19,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PBA10M,1.22,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PBA10M,7.34,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PBA10M,0.28,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PBA10M,3.04,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PBA10M,0.33,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PBA10M,1.26,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PBA10M,3.14,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PBA10M,1.79,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PBA10M,0.73,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PBA10M,2.24,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PBA10M,1.25,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PBA10M,0.26,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PBA10M,0,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PBA10M,0.2,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PBA10M,0.92,-99,Pedestrian/Bicycle Accidents per 10 Road Miles
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,SIDEWALK,17929.8,-99,Sidewalks (sqft) per Road Mile
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,SIDEWALK,6173.9,-99,Sidewalks (sqft) per Road Mile
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,SIDEWALK,36071.1,-99,Sidewalks (sqft) per Road Mile
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,SIDEWALK,1610.4,-99,Sidewalks (sqft) per Road Mile
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,SIDEWALK,14420.3,-99,Sidewalks (sqft) per Road Mile
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,SIDEWALK,2541.3,-99,Sidewalks (sqft) per Road Mile
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,SIDEWALK,2084.2,-99,Sidewalks (sqft) per Road Mile
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,SIDEWALK,11560.8,-99,Sidewalks (sqft) per Road Mile
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,SIDEWALK,9223.7,-99,Sidewalks (sqft) per Road Mile
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,SIDEWALK,116.2,-99,Sidewalks (sqft) per Road Mile
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,SIDEWALK,6834.4,-99,Sidewalks (sqft) per Road Mile
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,SIDEWALK,3928.3,-99,Sidewalks (sqft) per Road Mile
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,SIDEWALK,3428.5,-99,Sidewalks (sqft) per Road Mile
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,SIDEWALK,8146.4,-99,Sidewalks (sqft) per Road Mile
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,SIDEWALK,7901.9,-99,Sidewalks (sqft) per Road Mile
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,SIDEWALK,2746.2,-99,Sidewalks (sqft) per Road Mile
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,L1000,55.5,-99,"Streetlights per 1,000 People"
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,L1000,37.3,-99,"Streetlights per 1,000 People"
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,L1000,38.6,-99,"Streetlights per 1,000 People"
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,L1000,70.8,-99,"Streetlights per 1,000 People"
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,L1000,81.2,-99,"Streetlights per 1,000 People"
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,L1000,64,-99,"Streetlights per 1,000 People"
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,L1000,150.7,-99,"Streetlights per 1,000 People"
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,L1000,50,-99,"Streetlights per 1,000 People"
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,L1000,47.7,-99,"Streetlights per 1,000 People"
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,L1000,201.4,-99,"Streetlights per 1,000 People"
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,L1000,57.1,-99,"Streetlights per 1,000 People"
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,L1000,78.7,-99,"Streetlights per 1,000 People"
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,L1000,40.8,-99,"Streetlights per 1,000 People"
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,L1000,78,-99,"Streetlights per 1,000 People"
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,L1000,105.6,-99,"Streetlights per 1,000 People"
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,L1000,83.5,-99,"Streetlights per 1,000 People"
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,DRIVEWAY,0.3,-99,Driveways per Household
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,DRIVEWAY,0.54,-99,Driveways per Household
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,DRIVEWAY,0.32,-99,Driveways per Household
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,DRIVEWAY,0.83,-99,Driveways per Household
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,DRIVEWAY,0.56,-99,Driveways per Household
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,DRIVEWAY,0.8,-99,Driveways per Household
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,DRIVEWAY,0.96,-99,Driveways per Household
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,DRIVEWAY,0.45,-99,Driveways per Household
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,DRIVEWAY,0.45,-99,Driveways per Household
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,DRIVEWAY,0.8,-99,Driveways per Household
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,DRIVEWAY,0.58,-99,Driveways per Household
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,DRIVEWAY,0.58,-99,Driveways per Household
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,DRIVEWAY,0.53,-99,Driveways per Household
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,DRIVEWAY,0.87,-99,Driveways per Household
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,DRIVEWAY,0.91,-99,Driveways per Household
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,DRIVEWAY,0.78,-99,Driveways per Household
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,VIOL_REF,30.72,-99,Violent Referrals per 100 Students
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,VIOL_REF,10.22,-99,Violent Referrals per 100 Students
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,VIOL_REF,16.91,-99,Violent Referrals per 100 Students
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,VIOL_REF,NA,-99,Violent Referrals per 100 Students
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,VIOL_REF,12.24,-99,Violent Referrals per 100 Students
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,VIOL_REF,13,-99,Violent Referrals per 100 Students
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,VIOL_REF,18.12,-99,Violent Referrals per 100 Students
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,VIOL_REF,32.9,-99,Violent Referrals per 100 Students
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,VIOL_REF,21.41,-99,Violent Referrals per 100 Students
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,VIOL_REF,3.31,-99,Violent Referrals per 100 Students
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,VIOL_REF,NA,-99,Violent Referrals per 100 Students
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,VIOL_REF,14.99,-99,Violent Referrals per 100 Students
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,VIOL_REF,8.22,-99,Violent Referrals per 100 Students
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,VIOL_REF,3.04,-99,Violent Referrals per 100 Students
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,VIOL_REF,2.58,-99,Violent Referrals per 100 Students
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,VIOL_REF,7.11,-99,Violent Referrals per 100 Students
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,DOMCRIME,1568.95,-99,Domestic Crime Rates Over 15 years
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,DOMCRIME,610.75,-99,Domestic Crime Rates Over 15 years
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,DOMCRIME,326.62,-99,Domestic Crime Rates Over 15 years
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,DOMCRIME,1009.59,-99,Domestic Crime Rates Over 15 years
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,DOMCRIME,1311.97,-99,Domestic Crime Rates Over 15 years
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,DOMCRIME,1143.64,-99,Domestic Crime Rates Over 15 years
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,DOMCRIME,1706.04,-99,Domestic Crime Rates Over 15 years
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,DOMCRIME,2591.79,-99,Domestic Crime Rates Over 15 years
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,DOMCRIME,1940.27,-99,Domestic Crime Rates Over 15 years
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,DOMCRIME,1131.07,-99,Domestic Crime Rates Over 15 years
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,DOMCRIME,1965.4,-99,Domestic Crime Rates Over 15 years
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,DOMCRIME,1059.93,-99,Domestic Crime Rates Over 15 years
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,DOMCRIME,613.56,-99,Domestic Crime Rates Over 15 years
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,DOMCRIME,886.38,-99,Domestic Crime Rates Over 15 years
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,DOMCRIME,829.24,-99,Domestic Crime Rates Over 15 years
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,DOMCRIME,951.59,-99,Domestic Crime Rates Over 15 years
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PER3CHRO,15.947,-99,% Reporting 3+ Chronic Health Issues
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PER3CHRO,11.458,-99,% Reporting 3+ Chronic Health Issues
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PER3CHRO,15.652,-99,% Reporting 3+ Chronic Health Issues
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PER3CHRO,10.714,-99,% Reporting 3+ Chronic Health Issues
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PER3CHRO,14.947,-99,% Reporting 3+ Chronic Health Issues
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PER3CHRO,10.377,-99,% Reporting 3+ Chronic Health Issues
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PER3CHRO,23.622,-99,% Reporting 3+ Chronic Health Issues
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PER3CHRO,19.937,-99,% Reporting 3+ Chronic Health Issues
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PER3CHRO,20.67,-99,% Reporting 3+ Chronic Health Issues
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PER3CHRO,27.419,-99,% Reporting 3+ Chronic Health Issues
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PER3CHRO,13.158,-99,% Reporting 3+ Chronic Health Issues
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PER3CHRO,14.085,-99,% Reporting 3+ Chronic Health Issues
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PER3CHRO,13.793,-99,% Reporting 3+ Chronic Health Issues
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PER3CHRO,10.667,-99,% Reporting 3+ Chronic Health Issues
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PER3CHRO,28.814,-99,% Reporting 3+ Chronic Health Issues
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PER3CHRO,17.986,-99,% Reporting 3+ Chronic Health Issues
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PERBARRI,33.555,-99,%Reporting Barriers to Health Care Access
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PERBARRI,16.667,-99,%Reporting Barriers to Health Care Access
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PERBARRI,29.739,-99,%Reporting Barriers to Health Care Access
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PERBARRI,28.571,-99,%Reporting Barriers to Health Care Access
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PERBARRI,32.211,-99,%Reporting Barriers to Health Care Access
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PERBARRI,24.528,-99,%Reporting Barriers to Health Care Access
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PERBARRI,33.071,-99,%Reporting Barriers to Health Care Access
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PERBARRI,17.089,-99,%Reporting Barriers to Health Care Access
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PERBARRI,21.788,-99,%Reporting Barriers to Health Care Access
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PERBARRI,43.548,-99,%Reporting Barriers to Health Care Access
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PERBARRI,12.5,-99,%Reporting Barriers to Health Care Access
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PERBARRI,28.169,-99,%Reporting Barriers to Health Care Access
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PERBARRI,26.724,-99,%Reporting Barriers to Health Care Access
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PERBARRI,13.333,-99,%Reporting Barriers to Health Care Access
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PERBARRI,25.424,-99,%Reporting Barriers to Health Care Access
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PERBARRI,17.986,-99,%Reporting Barriers to Health Care Access
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PERAFFOR,3.987,-99,% Reporting Inability to Afford Health Care Access
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PERAFFOR,4.688,-99,% Reporting Inability to Afford Health Care Access
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PERAFFOR,5.913,-99,% Reporting Inability to Afford Health Care Access
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PERAFFOR,5.357,-99,% Reporting Inability to Afford Health Care Access
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PERAFFOR,5.474,-99,% Reporting Inability to Afford Health Care Access
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PERAFFOR,0.943,-99,% Reporting Inability to Afford Health Care Access
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PERAFFOR,6.299,-99,% Reporting Inability to Afford Health Care Access
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PERAFFOR,10.443,-99,% Reporting Inability to Afford Health Care Access
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PERAFFOR,10.615,-99,% Reporting Inability to Afford Health Care Access
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PERAFFOR,3.226,-99,% Reporting Inability to Afford Health Care Access
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PERAFFOR,7.237,-99,% Reporting Inability to Afford Health Care Access
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PERAFFOR,0.939,-99,% Reporting Inability to Afford Health Care Access
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PERAFFOR,0.862,-99,% Reporting Inability to Afford Health Care Access
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PERAFFOR,7.333,-99,% Reporting Inability to Afford Health Care Access
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PERAFFOR,0,-99,% Reporting Inability to Afford Health Care Access
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PERAFFOR,7.194,-99,% Reporting Inability to Afford Health Care Access
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PERUNINS,15.615,-99,% Reporting Being Uninsured
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PERUNINS,8.854,-99,% Reporting Being Uninsured
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PERUNINS,16,-99,% Reporting Being Uninsured
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PERUNINS,17.857,-99,% Reporting Being Uninsured
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PERUNINS,14.737,-99,% Reporting Being Uninsured
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PERUNINS,4.717,-99,% Reporting Being Uninsured
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PERUNINS,22.047,-99,% Reporting Being Uninsured
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PERUNINS,18.038,-99,% Reporting Being Uninsured
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PERUNINS,24.022,-99,% Reporting Being Uninsured
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PERUNINS,25.806,-99,% Reporting Being Uninsured
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PERUNINS,8.553,-99,% Reporting Being Uninsured
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PERUNINS,10.329,-99,% Reporting Being Uninsured
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PERUNINS,6.034,-99,% Reporting Being Uninsured
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PERUNINS,8,-99,% Reporting Being Uninsured
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PERUNINS,8.475,-99,% Reporting Being Uninsured
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PERUNINS,13.669,-99,% Reporting Being Uninsured
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,AVAIANSP,65,-99,Avian Species Richness
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,AVAIANSP,142,-99,Avian Species Richness
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,AVAIANSP,200,-99,Avian Species Richness
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,AVAIANSP,71,-99,Avian Species Richness
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,AVAIANSP,40,-99,Avian Species Richness
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,AVAIANSP,152,-99,Avian Species Richness
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,AVAIANSP,188,-99,Avian Species Richness
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,AVAIANSP,85,-99,Avian Species Richness
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,AVAIANSP,86,-99,Avian Species Richness
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,AVAIANSP,122,-99,Avian Species Richness
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,AVAIANSP,118,-99,Avian Species Richness
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,AVAIANSP,63,-99,Avian Species Richness
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,AVAIANSP,72,-99,Avian Species Richness
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,AVAIANSP,125,-99,Avian Species Richness
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,AVAIANSP,68,-99,Avian Species Richness
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,AVAIANSP,153,-99,Avian Species Richness
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PERGREEN,31.05,-99,Percent Green Space
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PERGREEN,81.29,-99,Percent Green Space
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PERGREEN,49.75,-99,Percent Green Space
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PERGREEN,81.64,-99,Percent Green Space
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PERGREEN,40.94,-99,Percent Green Space
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PERGREEN,87.23,-99,Percent Green Space
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PERGREEN,84.21,-99,Percent Green Space
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PERGREEN,39.41,-99,Percent Green Space
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PERGREEN,70.05,-99,Percent Green Space
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PERGREEN,87.21,-99,Percent Green Space
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PERGREEN,48.64,-99,Percent Green Space
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PERGREEN,78.4,-99,Percent Green Space
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PERGREEN,62.18,-99,Percent Green Space
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PERGREEN,94.26,-99,Percent Green Space
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PERGREEN,75.41,-99,Percent Green Space
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PERGREEN,90.98,-99,Percent Green Space
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PERIMSTR,39.13,-99,Percent of Streams Impaired
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PERIMSTR,33.37,-99,Percent of Streams Impaired
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PERIMSTR,34.57,-99,Percent of Streams Impaired
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PERIMSTR,23.39,-99,Percent of Streams Impaired
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PERIMSTR,19.43,-99,Percent of Streams Impaired
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PERIMSTR,7.21,-99,Percent of Streams Impaired
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PERIMSTR,11.73,-99,Percent of Streams Impaired
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PERIMSTR,31.36,-99,Percent of Streams Impaired
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PERIMSTR,37.67,-99,Percent of Streams Impaired
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PERIMSTR,0,-99,Percent of Streams Impaired
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PERIMSTR,9.47,-99,Percent of Streams Impaired
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PERIMSTR,40.19,-99,Percent of Streams Impaired
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PERIMSTR,20.68,-99,Percent of Streams Impaired
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PERIMSTR,1.59,-99,Percent of Streams Impaired
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PERIMSTR,2.11,-99,Percent of Streams Impaired
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PERIMSTR,5.79,-99,Percent of Streams Impaired
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,NUMTOXIC,6,-99,Number of Toxic Release Inventory Sites
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,NUMTOXIC,6,-99,Number of Toxic Release Inventory Sites
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,NUMTOXIC,4,-99,Number of Toxic Release Inventory Sites
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,NUMTOXIC,3,-99,Number of Toxic Release Inventory Sites
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,NUMTOXIC,0,-99,Number of Toxic Release Inventory Sites
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,NUMTOXIC,3,-99,Number of Toxic Release Inventory Sites
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,NUMTOXIC,6,-99,Number of Toxic Release Inventory Sites
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PERCONSE,0,-99,Percent Conservation Easement
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PERCONSE,4,-99,Percent Conservation Easement
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PERCONSE,0,-99,Percent Conservation Easement
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PERCONSE,0,-99,Percent Conservation Easement
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PERCONSE,0.72,-99,Percent Conservation Easement
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PERCONSE,10.14,-99,Percent Conservation Easement
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PERCONSE,0,-99,Percent Conservation Easement
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PERCONSE,0,-99,Percent Conservation Easement
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PERCONSE,0.06,-99,Percent Conservation Easement
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PERCONSE,0.32,-99,Percent Conservation Easement
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PERCONSE,0,-99,Percent Conservation Easement
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PERCONSE,6.95,-99,Percent Conservation Easement
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PERCONSE,1.5,-99,Percent Conservation Easement
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PERCONSE,2,-99,Percent Conservation Easement
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PERCONSE,0.43,-99,Percent Conservation Easement
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PERCONSE,5.7,-99,Percent Conservation Easement
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,NUMFOODP,1,-99,Number of Food Pantries
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,NUMFOODP,0,-99,Number of Food Pantries
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,NUMFOODP,1,-99,Number of Food Pantries
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,NUMFOODP,1,-99,Number of Food Pantries
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,NUMFOODP,3,-99,Number of Food Pantries
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,NUMFOODP,0,-99,Number of Food Pantries
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,NUMFOODP,1,-99,Number of Food Pantries
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,NUMFOODP,2,-99,Number of Food Pantries
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,NUMFOODP,0,-99,Number of Food Pantries
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,NUMFOODP,0,-99,Number of Food Pantries
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,NUMFOODP,0,-99,Number of Food Pantries
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,NUMFOODP,0,-99,Number of Food Pantries
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,NUMFOODP,1,-99,Number of Food Pantries
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,NUMFOODP,0,-99,Number of Food Pantries
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,NUMFOODP,0,-99,Number of Food Pantries
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,NUMFOODP,0,-99,Number of Food Pantries
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,NUMSGARD,2,-99,Number of School Gardens
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,NUMSGARD,2,-99,Number of School Gardens
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,NUMSGARD,2,-99,Number of School Gardens
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,NUMSGARD,0,-99,Number of School Gardens
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,NUMSGARD,1,-99,Number of School Gardens
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,NUMSGARD,0,-99,Number of School Gardens
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,NUMSGARD,1,-99,Number of School Gardens
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,NUMSGARD,2,-99,Number of School Gardens
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,NUMSGARD,1,-99,Number of School Gardens
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,NUMSGARD,1,-99,Number of School Gardens
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,NUMSGARD,2,-99,Number of School Gardens
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,NUMSGARD,1,-99,Number of School Gardens
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,NUMSGARD,1,-99,Number of School Gardens
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,NUMSGARD,1,-99,Number of School Gardens
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,NUMSGARD,1,-99,Number of School Gardens
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,NUMSGARD,1,-99,Number of School Gardens
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,NUMCOMGAR,3,-99,Number of Community Gardens
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,NUMCOMGAR,1,-99,Number of Community Gardens
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,NUMCOMGAR,1,-99,Number of Community Gardens
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,NUMCOMGAR,0,-99,Number of Community Gardens
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,NUMCOMGAR,4,-99,Number of Community Gardens
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,NUMCOMGAR,0,-99,Number of Community Gardens
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,NUMCOMGAR,1,-99,Number of Community Gardens
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,NUMCOMGAR,0,-99,Number of Community Gardens
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,NUMCOMGAR,1,-99,Number of Community Gardens
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,NUMCOMGAR,1,-99,Number of Community Gardens
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,NUMCOMGAR,0,-99,Number of Community Gardens
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,NUMCOMGAR,1,-99,Number of Community Gardens
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,NUMCOMGAR,0,-99,Number of Community Gardens
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,NUMCOMGAR,0,-99,Number of Community Gardens
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,NUMCOMGAR,0,-99,Number of Community Gardens
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,NUMCOMGAR,0,-99,Number of Community Gardens
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,MEANHVAL,157393.65,-99,Mean Home Value
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,MEANHVAL,131086.69,-99,Mean Home Value
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,MEANHVAL,259721.05,-99,Mean Home Value
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,MEANHVAL,75612.13,-99,Mean Home Value
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,MEANHVAL,181510.42,-99,Mean Home Value
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,MEANHVAL,110227.98,-99,Mean Home Value
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,MEANHVAL,71262.48,-99,Mean Home Value
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,MEANHVAL,90948.24,-99,Mean Home Value
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,MEANHVAL,110377.44,-99,Mean Home Value
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,MEANHVAL,58543.99,-99,Mean Home Value
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,MEANHVAL,125450.59,-99,Mean Home Value
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,MEANHVAL,124076.77,-99,Mean Home Value
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,MEANHVAL,192582.47,-99,Mean Home Value
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,MEANHVAL,141321.86,-99,Mean Home Value
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,MEANHVAL,124259.19,-99,Mean Home Value
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,MEANHVAL,96424.8,-99,Mean Home Value
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PER1MPRE,0.963299,-99,% Population within 1 Mile of Pre-K/Nursery
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PER1MPRE,0.159206,-99,% Population within 1 Mile of Pre-K/Nursery
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PER1MPRE,0.430701,-99,% Population within 1 Mile of Pre-K/Nursery
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PER1MPRE,0.090838,-99,% Population within 1 Mile of Pre-K/Nursery
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PER1MPRE,0.631091,-99,% Population within 1 Mile of Pre-K/Nursery
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PER1MPRE,0.042612,-99,% Population within 1 Mile of Pre-K/Nursery
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PER1MPRE,0.200559,-99,% Population within 1 Mile of Pre-K/Nursery
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PER1MPRE,0.905161,-99,% Population within 1 Mile of Pre-K/Nursery
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PER1MPRE,0.547567,-99,% Population within 1 Mile of Pre-K/Nursery
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PER1MPRE,0.413715,-99,% Population within 1 Mile of Pre-K/Nursery
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PER1MPRE,0.603387,-99,% Population within 1 Mile of Pre-K/Nursery
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PER1MPRE,0.196836,-99,% Population within 1 Mile of Pre-K/Nursery
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PER1MPRE,0.565519,-99,% Population within 1 Mile of Pre-K/Nursery
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PER1MPRE,0.08299,-99,% Population within 1 Mile of Pre-K/Nursery
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PER1MPRE,0.445698,-99,% Population within 1 Mile of Pre-K/Nursery
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PER1MPRE,0.094604,-99,% Population within 1 Mile of Pre-K/Nursery
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,PER3MPRE,1,-99,% Population within 3 Miles of Pre-K/Nursery
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,PER3MPRE,0.578841,-99,% Population within 3 Miles of Pre-K/Nursery
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,PER3MPRE,0.786158,-99,% Population within 3 Miles of Pre-K/Nursery
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,PER3MPRE,0.635804,-99,% Population within 3 Miles of Pre-K/Nursery
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,PER3MPRE,0.892634,-99,% Population within 3 Miles of Pre-K/Nursery
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,PER3MPRE,0.294696,-99,% Population within 3 Miles of Pre-K/Nursery
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,PER3MPRE,0.457761,-99,% Population within 3 Miles of Pre-K/Nursery
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,PER3MPRE,1,-99,% Population within 3 Miles of Pre-K/Nursery
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,PER3MPRE,1,-99,% Population within 3 Miles of Pre-K/Nursery
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,PER3MPRE,0.738994,-99,% Population within 3 Miles of Pre-K/Nursery
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,PER3MPRE,1,-99,% Population within 3 Miles of Pre-K/Nursery
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,PER3MPRE,0.460044,-99,% Population within 3 Miles of Pre-K/Nursery
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,PER3MPRE,0.93864,-99,% Population within 3 Miles of Pre-K/Nursery
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,PER3MPRE,0.270275,-99,% Population within 3 Miles of Pre-K/Nursery
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,PER3MPRE,0.856759,-99,% Population within 3 Miles of Pre-K/Nursery
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,PER3MPRE,0.498501,-99,% Population within 3 Miles of Pre-K/Nursery
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,ELATTEND,0.949,-99,Elementary Attendance Rates
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,ELATTEND,0.963,-99,Elementary Attendance Rates
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,ELATTEND,0.965,-99,Elementary Attendance Rates
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,ELATTEND,NA,-99,Elementary Attendance Rates
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,ELATTEND,0.964,-99,Elementary Attendance Rates
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,ELATTEND,0.959,-99,Elementary Attendance Rates
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,ELATTEND,0.963,-99,Elementary Attendance Rates
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,ELATTEND,0.953,-99,Elementary Attendance Rates
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,ELATTEND,0.956,-99,Elementary Attendance Rates
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,ELATTEND,0.971,-99,Elementary Attendance Rates
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,ELATTEND,NA,-99,Elementary Attendance Rates
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,ELATTEND,0.959,-99,Elementary Attendance Rates
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,ELATTEND,0.968,-99,Elementary Attendance Rates
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,ELATTEND,0.963,-99,Elementary Attendance Rates
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,ELATTEND,NA,-99,Elementary Attendance Rates
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,ELATTEND,0.961,-99,Elementary Attendance Rates
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,EYEAREXP,9,-99,Elementary Average Teacher Years of Experience
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,EYEAREXP,14,-99,Elementary Average Teacher Years of Experience
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,EYEAREXP,9,-99,Elementary Average Teacher Years of Experience
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,EYEAREXP,NA,-99,Elementary Average Teacher Years of Experience
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,EYEAREXP,10,-99,Elementary Average Teacher Years of Experience
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,EYEAREXP,12,-99,Elementary Average Teacher Years of Experience
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,EYEAREXP,9,-99,Elementary Average Teacher Years of Experience
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,EYEAREXP,9,-99,Elementary Average Teacher Years of Experience
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,EYEAREXP,8,-99,Elementary Average Teacher Years of Experience
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,EYEAREXP,10,-99,Elementary Average Teacher Years of Experience
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,EYEAREXP,NA,-99,Elementary Average Teacher Years of Experience
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,EYEAREXP,12,-99,Elementary Average Teacher Years of Experience
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,EYEAREXP,10,-99,Elementary Average Teacher Years of Experience
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,EYEAREXP,8,-99,Elementary Average Teacher Years of Experience
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,EYEAREXP,NA,-99,Elementary Average Teacher Years of Experience
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,EYEAREXP,9,-99,Elementary Average Teacher Years of Experience
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,ELCSIZE,20.61,-99,Elemantary Average Class Size
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,ELCSIZE,20.56,-99,Elemantary Average Class Size
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,ELCSIZE,22.58,-99,Elemantary Average Class Size
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,ELCSIZE,NA,-99,Elemantary Average Class Size
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,ELCSIZE,19.14,-99,Elemantary Average Class Size
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,ELCSIZE,17.98,-99,Elemantary Average Class Size
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,ELCSIZE,18,-99,Elemantary Average Class Size
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,ELCSIZE,17.78,-99,Elemantary Average Class Size
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,ELCSIZE,17.68,-99,Elemantary Average Class Size
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,ELCSIZE,20.29,-99,Elemantary Average Class Size
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,ELCSIZE,NA,-99,Elemantary Average Class Size
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,ELCSIZE,17.09,-99,Elemantary Average Class Size
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,ELCSIZE,20.71,-99,Elemantary Average Class Size
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,ELCSIZE,22.09,-99,Elemantary Average Class Size
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,ELCSIZE,NA,-99,Elemantary Average Class Size
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,ELCSIZE,24.76,-99,Elemantary Average Class Size
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,ESTRATIO,10.74,-99,Elementary Student-Teacher Ratio
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,ESTRATIO,12.36,-99,Elementary Student-Teacher Ratio
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,ESTRATIO,12.77,-99,Elementary Student-Teacher Ratio
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,ESTRATIO,NA,-99,Elementary Student-Teacher Ratio
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,ESTRATIO,13.71,-99,Elementary Student-Teacher Ratio
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,ESTRATIO,10.11,-99,Elementary Student-Teacher Ratio
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,ESTRATIO,12.94,-99,Elementary Student-Teacher Ratio
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,ESTRATIO,12.09,-99,Elementary Student-Teacher Ratio
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,ESTRATIO,12.88,-99,Elementary Student-Teacher Ratio
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,ESTRATIO,16.18,-99,Elementary Student-Teacher Ratio
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,ESTRATIO,NA,-99,Elementary Student-Teacher Ratio
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,ESTRATIO,10.8,-99,Elementary Student-Teacher Ratio
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,ESTRATIO,14.81,-99,Elementary Student-Teacher Ratio
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,ESTRATIO,13.67,-99,Elementary Student-Teacher Ratio
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,ESTRATIO,NA,-99,Elementary Student-Teacher Ratio
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,ESTRATIO,15.07,-99,Elementary Student-Teacher Ratio
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,CCRASH,70,-99,Count of crashes per 1000
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,CCRASH,30,-99,Count of crashes per 1000
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,CCRASH,50,-99,Count of crashes per 1000
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,CCRASH,10,-99,Count of crashes per 1000
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,CCRASH,70,-99,Count of crashes per 1000
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,CCRASH,70,-99,Count of crashes per 1000
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,CCRASH,70,-99,Count of crashes per 1000
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,CCRASH,60,-99,Count of crashes per 1000
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,CCRASH,40,-99,Count of crashes per 1000
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,CCRASH,20,-99,Count of crashes per 1000
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,CCRASH,30,-99,Count of crashes per 1000
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,CCRASH,40,-99,Count of crashes per 1000
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,CCRASH,50,-99,Count of crashes per 1000
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,CCRASH,10,-99,Count of crashes per 1000
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,CCRASH,30,-99,Count of crashes per 1000
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,CCRASH,40,-99,Count of crashes per 1000
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,R_SROAD,1.28,-99,Area Ratio Public Sidewalk to Road
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,R_SROAD,0.49,-99,Area Ratio Public Sidewalk to Road
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,R_SROAD,6.48,-99,Area Ratio Public Sidewalk to Road
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,R_SROAD,0.14,-99,Area Ratio Public Sidewalk to Road
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,R_SROAD,1.96,-99,Area Ratio Public Sidewalk to Road
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,R_SROAD,1.75,-99,Area Ratio Public Sidewalk to Road
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,R_SROAD,0.25,-99,Area Ratio Public Sidewalk to Road
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,R_SROAD,0.86,-99,Area Ratio Public Sidewalk to Road
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,R_SROAD,0.8,-99,Area Ratio Public Sidewalk to Road
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,R_SROAD,0.01,-99,Area Ratio Public Sidewalk to Road
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,R_SROAD,0.42,-99,Area Ratio Public Sidewalk to Road
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,R_SROAD,0.38,-99,Area Ratio Public Sidewalk to Road
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,R_SROAD,1.41,-99,Area Ratio Public Sidewalk to Road
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,R_SROAD,1.05,-99,Area Ratio Public Sidewalk to Road
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,R_SROAD,0.98,-99,Area Ratio Public Sidewalk to Road
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,R_SROAD,0.47,-99,Area Ratio Public Sidewalk to Road
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,R_SPERS,86.53,-99,Ratio Public Sidewalk Area (sq ft) per person
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,R_SPERS,39.04,-99,Ratio Public Sidewalk Area (sq ft) per person
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,R_SPERS,134.06,-99,Ratio Public Sidewalk Area (sq ft) per person
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,R_SPERS,9.57,-99,Ratio Public Sidewalk Area (sq ft) per person
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,R_SPERS,111.31,-99,Ratio Public Sidewalk Area (sq ft) per person
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,R_SPERS,35.76,-99,Ratio Public Sidewalk Area (sq ft) per person
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,R_SPERS,28.98,-99,Ratio Public Sidewalk Area (sq ft) per person
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,R_SPERS,73.43,-99,Ratio Public Sidewalk Area (sq ft) per person
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,R_SPERS,69.46,-99,Ratio Public Sidewalk Area (sq ft) per person
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,R_SPERS,1.06,-99,Ratio Public Sidewalk Area (sq ft) per person
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,R_SPERS,35.84,-99,Ratio Public Sidewalk Area (sq ft) per person
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,R_SPERS,32.04,-99,Ratio Public Sidewalk Area (sq ft) per person
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,R_SPERS,26.16,-99,Ratio Public Sidewalk Area (sq ft) per person
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,R_SPERS,86.6,-99,Ratio Public Sidewalk Area (sq ft) per person
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,R_SPERS,68.24,-99,Ratio Public Sidewalk Area (sq ft) per person
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,R_SPERS,39.8,-99,Ratio Public Sidewalk Area (sq ft) per person
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,BROADS,22.26,-99,% of Roads with Bike Lanes
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,BROADS,20.87,-99,% of Roads with Bike Lanes
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,BROADS,22.35,-99,% of Roads with Bike Lanes
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,BROADS,13.88,-99,% of Roads with Bike Lanes
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,BROADS,16.69,-99,% of Roads with Bike Lanes
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,BROADS,17.71,-99,% of Roads with Bike Lanes
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,BROADS,5.29,-99,% of Roads with Bike Lanes
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,BROADS,11.66,-99,% of Roads with Bike Lanes
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,BROADS,33.76,-99,% of Roads with Bike Lanes
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,BROADS,2.13,-99,% of Roads with Bike Lanes
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,BROADS,15.7,-99,% of Roads with Bike Lanes
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,BROADS,16.14,-99,% of Roads with Bike Lanes
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,BROADS,13.72,-99,% of Roads with Bike Lanes
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,BROADS,13.5,-99,% of Roads with Bike Lanes
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,BROADS,7.86,-99,% of Roads with Bike Lanes
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,BROADS,27.81,-99,% of Roads with Bike Lanes
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,BUSZONE,6.62,-99,% school zone covered by bus service area
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,BUSZONE,1.75,-99,% school zone covered by bus service area
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,BUSZONE,5.97,-99,% school zone covered by bus service area
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,BUSZONE,3.42,-99,% school zone covered by bus service area
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,BUSZONE,6.59,-99,% school zone covered by bus service area
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,BUSZONE,0.51,-99,% school zone covered by bus service area
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,BUSZONE,1.77,-99,% school zone covered by bus service area
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,BUSZONE,7.55,-99,% school zone covered by bus service area
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,BUSZONE,4.22,-99,% school zone covered by bus service area
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,BUSZONE,0.11,-99,% school zone covered by bus service area
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,BUSZONE,6.58,-99,% school zone covered by bus service area
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,BUSZONE,2.33,-99,% school zone covered by bus service area
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,BUSZONE,2.93,-99,% school zone covered by bus service area
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,BUSZONE,0.41,-99,% school zone covered by bus service area
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,BUSZONE,0.86,-99,% school zone covered by bus service area
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,BUSZONE,0.38,-99,% school zone covered by bus service area
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Age05.y16,7.28,3.63,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Age05.y16,4.87,2.26,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Age05.y16,2.25,1.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Age05.y16,5.96,2.75,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Age05.y16,5.76,2.41,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Age05.y16,10.05,3.21,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Age05.y16,6.03,3.47,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Age05.y16,6.89,2.7,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Age05.y16,6.84,3.31,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Age05.y16,4.82,2.95,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Age05.y16,7.76,3.27,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Age05.y16,8.11,3.42,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Age05.y16,5.74,3.19,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Age05.y16,7.78,2.78,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Age05.y16,6.85,3.05,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Age05.y16,5.61,2.27,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Age18_24.y16,18.91,7.33,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Age18_24.y16,40.08,9.05,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Age18_24.y16,63.84,8.69,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Age18_24.y16,21.25,6.81,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Age18_24.y16,20.58,5.99,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Age18_24.y16,9.29,3.33,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Age18_24.y16,15.43,5.35,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Age18_24.y16,9.96,3.18,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Age18_24.y16,23.77,7.06,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Age18_24.y16,33.16,8.96,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Age18_24.y16,8.71,3.34,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Age18_24.y16,15.02,5.65,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Age18_24.y16,17.42,6.15,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Age18_24.y16,11.9,4.01,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Age18_24.y16,10.29,4.16,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Age18_24.y16,7.8,2.65,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,AgeO65.y16,14.23,3.46,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,AgeO65.y16,7.88,2.27,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,AgeO65.y16,4.29,1.99,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,AgeO65.y16,6.64,2.59,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,AgeO65.y16,11.74,2.7,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,AgeO65.y16,7.33,1.84,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,AgeO65.y16,14.35,2.98,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,AgeO65.y16,6.99,2,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,AgeO65.y16,10.99,3.11,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,AgeO65.y16,4.79,2.29,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,AgeO65.y16,7.9,2.2,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,AgeO65.y16,14.44,3.36,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,AgeO65.y16,16.87,3.44,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,AgeO65.y16,13.24,2.94,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,AgeO65.y16,13.05,2.83,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,AgeO65.y16,12.43,2.58,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,AgeU18.y16,21.79,6.33,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,AgeU18.y16,11.88,3.33,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,AgeU18.y16,6.59,2.51,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,AgeU18.y16,18.48,4.93,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,AgeU18.y16,17.45,4.1,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,AgeU18.y16,35.71,5.72,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,AgeU18.y16,14.08,4.91,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,AgeU18.y16,26.63,5.91,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,AgeU18.y16,19.53,5.22,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,AgeU18.y16,19.63,5.8,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,AgeU18.y16,31.19,6.74,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,AgeU18.y16,16.1,4.63,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,AgeU18.y16,15.3,4.65,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,AgeU18.y16,22.32,4.47,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,AgeU18.y16,20.39,4.82,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,AgeU18.y16,25.6,5.21,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ed_ba.y16,20.96,5.59,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ed_ba.y16,27.67,7.65,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ed_ba.y16,34.53,10.64,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ed_ba.y16,25.94,6.76,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ed_ba.y16,19.59,5.37,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ed_ba.y16,9.69,3.26,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ed_ba.y16,21.54,5.64,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ed_ba.y16,5.31,2.46,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ed_ba.y16,14.96,5.62,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ed_ba.y16,9.95,5.77,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ed_ba.y16,7.83,3.82,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ed_ba.y16,21.25,5.68,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ed_ba.y16,24.06,5.84,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ed_ba.y16,21.46,5.68,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ed_ba.y16,18.56,4.38,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ed_ba.y16,14.6,3.71,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ed_hsgrad.y16,17.78,6.04,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ed_hsgrad.y16,12.87,5.78,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ed_hsgrad.y16,9.04,5.02,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ed_hsgrad.y16,20.98,7.92,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ed_hsgrad.y16,21.96,7.4,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ed_hsgrad.y16,32.98,8.59,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ed_hsgrad.y16,17.12,4.83,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ed_hsgrad.y16,37.47,8.89,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ed_hsgrad.y16,32.83,10.15,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ed_hsgrad.y16,30.06,9.34,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ed_hsgrad.y16,30.97,7.67,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ed_hsgrad.y16,16.58,4.81,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ed_hsgrad.y16,19.05,5.35,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ed_hsgrad.y16,16.84,5.43,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ed_hsgrad.y16,19.64,4.91,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ed_hsgrad.y16,32.27,6.35,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ed_lesshs.y16,15.94,7.01,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ed_lesshs.y16,6.59,4.04,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ed_lesshs.y16,4.68,3.47,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ed_lesshs.y16,10.19,4.41,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ed_lesshs.y16,8.42,4.38,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ed_lesshs.y16,30.41,7.08,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ed_lesshs.y16,12.61,6.46,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ed_lesshs.y16,27.89,8.56,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ed_lesshs.y16,22.27,6.7,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ed_lesshs.y16,18.35,7.38,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ed_lesshs.y16,34.47,9.13,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ed_lesshs.y16,14.87,6.49,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ed_lesshs.y16,11.01,6.16,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ed_lesshs.y16,7.61,3.32,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ed_lesshs.y16,7.62,4.62,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ed_lesshs.y16,16.17,5.03,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ed_ma.y16,10.94,4.01,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ed_ma.y16,17.3,6.05,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ed_ma.y16,17.61,6.53,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ed_ma.y16,14.2,4.64,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ed_ma.y16,14.23,4.27,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ed_ma.y16,3.57,2.01,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ed_ma.y16,11.23,3.92,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ed_ma.y16,3.31,2.17,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ed_ma.y16,5.1,2.21,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ed_ma.y16,4.72,3.21,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ed_ma.y16,3.62,2.24,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ed_ma.y16,13.13,4.23,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ed_ma.y16,12.03,4.31,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ed_ma.y16,14.87,4.31,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ed_ma.y16,16.67,6.29,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ed_ma.y16,11.99,4.09,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ed_prof_doc.y16,9.14,3.18,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ed_prof_doc.y16,14.75,4.92,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ed_prof_doc.y16,15.04,6.46,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ed_prof_doc.y16,8.35,3.66,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ed_prof_doc.y16,9.2,3.36,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ed_prof_doc.y16,1.85,1.32,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ed_prof_doc.y16,8.5,3.57,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ed_prof_doc.y16,0.66,1.15,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ed_prof_doc.y16,3,1.73,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ed_prof_doc.y16,0.96,1.38,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ed_prof_doc.y16,1.18,1.5,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ed_prof_doc.y16,6.73,2.84,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ed_prof_doc.y16,11.08,4.03,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ed_prof_doc.y16,13.29,3.8,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ed_prof_doc.y16,7.3,3,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ed_prof_doc.y16,4.26,1.67,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ed_somecol.y16,25.27,8.77,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ed_somecol.y16,20.85,6.77,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ed_somecol.y16,19.09,8.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ed_somecol.y16,20.32,6.55,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ed_somecol.y16,26.58,6.2,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ed_somecol.y16,21.54,6.02,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ed_somecol.y16,29.01,9.34,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ed_somecol.y16,25.39,6.33,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ed_somecol.y16,21.84,6.51,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ed_somecol.y16,36,9.79,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ed_somecol.y16,21.92,7.32,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ed_somecol.y16,27.37,8.7,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ed_somecol.y16,22.76,7.33,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ed_somecol.y16,25.93,5.94,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ed_somecol.y16,30.21,5.71,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ed_somecol.y16,20.73,3.99,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Empl_labor.y16,72.41,14.08,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Empl_labor.y16,64.16,9.89,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Empl_labor.y16,47.01,7.73,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Empl_labor.y16,74.52,11.6,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Empl_labor.y16,76.92,9.81,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Empl_labor.y16,76.36,10.88,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Empl_labor.y16,76.31,11.63,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Empl_labor.y16,76.73,10.98,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Empl_labor.y16,66.21,13.04,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Empl_labor.y16,61.54,11.21,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Empl_labor.y16,70.64,10.95,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Empl_labor.y16,79.12,10.96,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Empl_labor.y16,73.07,11.32,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Empl_labor.y16,77.72,9.62,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Empl_labor.y16,80.98,10.01,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Empl_labor.y16,77.33,9.37,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Empl_unemp.y16,7.96,4.18,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Empl_unemp.y16,4.87,3.11,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Empl_unemp.y16,4.26,2.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Empl_unemp.y16,5.84,3.64,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Empl_unemp.y16,4.33,2.53,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Empl_unemp.y16,9.03,4.39,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Empl_unemp.y16,5.94,3.72,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Empl_unemp.y16,8.72,4.58,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Empl_unemp.y16,8.08,4.89,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Empl_unemp.y16,5.49,2.94,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Empl_unemp.y16,7.73,4.27,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Empl_unemp.y16,5.57,3.71,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Empl_unemp.y16,5.34,3.54,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Empl_unemp.y16,3.04,2.07,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Empl_unemp.y16,7.08,4.04,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Empl_unemp.y16,10.25,4.68,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,HInsur_FBNat.y16,1.55,1.13,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,HInsur_FBNat.y16,2.04,1.39,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,HInsur_FBNat.y16,2.71,1.46,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,HInsur_FBNat.y16,0.94,0.79,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,HInsur_FBNat.y16,1.42,1.21,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,HInsur_FBNat.y16,2.5,1.55,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,HInsur_FBNat.y16,2.52,1.83,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,HInsur_FBNat.y16,1.08,1.06,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,HInsur_FBNat.y16,0.46,0.67,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,HInsur_FBNat.y16,1.72,1.32,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,HInsur_FBNat.y16,1.92,1.63,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,HInsur_FBNat.y16,2.9,2.42,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,HInsur_FBNat.y16,3.18,1.83,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,HInsur_FBNat.y16,1.83,1.19,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,HInsur_FBNat.y16,3.33,2.74,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,HInsur_FBNat.y16,1.59,1.41,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,HInsur_FBNC.y16,1.98,1.92,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,HInsur_FBNC.y16,5.08,3,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,HInsur_FBNC.y16,6.03,2.88,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,HInsur_FBNC.y16,4.49,3.39,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,HInsur_FBNC.y16,4,2.37,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,HInsur_FBNC.y16,5.09,3.78,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,HInsur_FBNC.y16,1.97,1.61,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,HInsur_FBNC.y16,2.85,1.71,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,HInsur_FBNC.y16,2.97,2.1,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,HInsur_FBNC.y16,0.5,0.59,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,HInsur_FBNC.y16,3.57,2.41,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,HInsur_FBNC.y16,1.54,1.26,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,HInsur_FBNC.y16,3.07,1.85,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,HInsur_FBNC.y16,3.46,2.33,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,HInsur_FBNC.y16,0.75,0.83,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,HInsur_FBNC.y16,3.19,2.74,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,HInsur_Nat.y16,78.97,10.8,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,HInsur_Nat.y16,79.97,9.89,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,HInsur_Nat.y16,83.34,8.61,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,HInsur_Nat.y16,80.93,9.97,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,HInsur_Nat.y16,79,9.15,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,HInsur_Nat.y16,63.88,7.76,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,HInsur_Nat.y16,77.79,10.74,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,HInsur_Nat.y16,64.99,10.34,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,HInsur_Nat.y16,79.32,10.75,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,HInsur_Nat.y16,80.87,12.4,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,HInsur_Nat.y16,61.07,10.46,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,HInsur_Nat.y16,77.49,9.77,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,HInsur_Nat.y16,77.97,9.68,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,HInsur_Nat.y16,78.97,8.27,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,HInsur_Nat.y16,82.3,8.17,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,HInsur_Nat.y16,77.02,7.74,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,HousOwn.y16,33.99,7.41,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,HousOwn.y16,31.15,6.3,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,HousOwn.y16,21.76,5.86,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,HousOwn.y16,36.14,7.87,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,HousOwn.y16,40.48,7.06,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,HousOwn.y16,50.72,13.8,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,HousOwn.y16,49.81,8.5,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,HousOwn.y16,48.1,10.22,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,HousOwn.y16,21.43,4.8,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,HousOwn.y16,16.86,5.51,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,HousOwn.y16,53.93,13.04,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,HousOwn.y16,58.5,8.88,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,HousOwn.y16,43.67,7.94,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,HousOwn.y16,58.38,7.88,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,HousOwn.y16,64.24,10.67,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,HousOwn.y16,48.47,8.01,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,HousRent.y16,65.99,13.23,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,HousRent.y16,68.86,10.38,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,HousRent.y16,78.24,12.23,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,HousRent.y16,63.86,11.37,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,HousRent.y16,59.52,8.37,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,HousRent.y16,49.28,8.77,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,HousRent.y16,50.21,9.79,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,HousRent.y16,51.88,12.2,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,HousRent.y16,78.57,12.87,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,HousRent.y16,83.14,13.22,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,HousRent.y16,46.1,12.26,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,HousRent.y16,41.52,8.9,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,HousRent.y16,56.33,9.42,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,HousRent.y16,41.62,9.12,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,HousRent.y16,35.76,10.32,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,HousRent.y16,51.53,11.11,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc_10K.y16,20.47,6.84,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc_10K.y16,24.34,7.27,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc_10K.y16,29.53,8.07,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc_10K.y16,17.63,7.16,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc_10K.y16,12.02,5.37,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc_10K.y16,15.89,7.95,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc_10K.y16,10.57,5.68,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc_10K.y16,12.4,5.79,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc_10K.y16,23.89,7,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc_10K.y16,27.81,9.44,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc_10K.y16,10.86,6.38,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc_10K.y16,8.63,4.89,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc_10K.y16,11.94,5.77,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc_10K.y16,6.57,4.67,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc_10K.y16,4.97,2.88,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc_10K.y16,8.99,4.29,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc_200K.y16,4.61,2.42,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc_200K.y16,3.55,2.08,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc_200K.y16,3.75,2.38,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc_200K.y16,1.61,1.44,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc_200K.y16,2.87,1.89,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc_200K.y16,1.95,1.62,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc_200K.y16,3.73,2.74,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc_200K.y16,0.71,1,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc_200K.y16,0.29,0.88,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc_200K.y16,0.16,0.92,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc_200K.y16,0.35,1.12,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc_200K.y16,3.95,2.7,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc_200K.y16,4.52,2.55,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc_200K.y16,4.75,2.57,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc_200K.y16,2.14,2.04,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc_200K.y16,1.21,0.76,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc100K_149K.y16,8.16,4.27,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc100K_149K.y16,8.3,4.62,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc100K_149K.y16,6.55,4.22,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc100K_149K.y16,8.4,4.12,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc100K_149K.y16,8.09,3.89,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc100K_149K.y16,8.15,3.43,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc100K_149K.y16,10.31,4.63,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc100K_149K.y16,5.85,3.6,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc100K_149K.y16,2.37,1.97,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc100K_149K.y16,2.67,2.87,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc100K_149K.y16,4.84,3.29,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc100K_149K.y16,11.02,4.89,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc100K_149K.y16,9.95,4.52,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc100K_149K.y16,13.11,4.91,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc100K_149K.y16,19.24,7.62,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc100K_149K.y16,12.03,4.25,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc10K_24K.y16,24.96,8.57,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc10K_24K.y16,22.12,7.29,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc10K_24K.y16,25.91,8.97,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc10K_24K.y16,27.63,9.5,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc10K_24K.y16,21.51,7.11,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc10K_24K.y16,20.88,8.75,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc10K_24K.y16,15.04,6.31,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc10K_24K.y16,32.31,8.98,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc10K_24K.y16,33.41,8.83,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc10K_24K.y16,37.45,12.07,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc10K_24K.y16,36.02,11.42,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc10K_24K.y16,13.57,5.62,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc10K_24K.y16,18.92,6.79,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc10K_24K.y16,14.3,5.86,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc10K_24K.y16,14.36,5.9,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc10K_24K.y16,21.77,7.15,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc150K_199K.y16,3.85,2.72,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc150K_199K.y16,1.95,1.68,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc150K_199K.y16,2.5,2.33,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc150K_199K.y16,2.07,1.87,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc150K_199K.y16,3.02,1.89,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc150K_199K.y16,0,1.14,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc150K_199K.y16,4.73,3.68,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc150K_199K.y16,0,0.95,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc150K_199K.y16,0.22,0.69,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc150K_199K.y16,0.64,1,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc150K_199K.y16,0,1.05,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc150K_199K.y16,4.99,3.8,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc150K_199K.y16,4.58,4.28,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc150K_199K.y16,4,2.73,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc150K_199K.y16,3.16,2.88,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc150K_199K.y16,2.28,1.61,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc25K_49K.y16,21.6,7.97,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc25K_49K.y16,21.42,7.79,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc25K_49K.y16,19.74,7.71,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc25K_49K.y16,21.34,7.83,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc25K_49K.y16,29.19,8.43,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc25K_49K.y16,26.33,8.28,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc25K_49K.y16,28.62,9.15,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc25K_49K.y16,27.41,8.45,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc25K_49K.y16,26.59,7.59,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc25K_49K.y16,18.21,7.25,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc25K_49K.y16,28.52,9.74,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc25K_49K.y16,26.63,8.74,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc25K_49K.y16,26.21,8.74,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc25K_49K.y16,25.5,9.15,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc25K_49K.y16,25.46,9.11,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc25K_49K.y16,27.4,8.18,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc50K_74K.y16,10.16,4.53,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc50K_74K.y16,11.13,4.47,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc50K_74K.y16,7.09,3.98,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc50K_74K.y16,15.56,5.65,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc50K_74K.y16,14.14,5.71,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc50K_74K.y16,18.05,7.14,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc50K_74K.y16,15.62,6.68,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc50K_74K.y16,13.29,5.08,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc50K_74K.y16,8.64,4.49,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc50K_74K.y16,10.2,6.06,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc50K_74K.y16,11.28,4.84,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc50K_74K.y16,19.81,7.18,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc50K_74K.y16,14.59,6.16,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc50K_74K.y16,18.14,6.22,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc50K_74K.y16,17.29,5.99,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc50K_74K.y16,18.82,5.95,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Inc75K_99K.y16,6.19,4.15,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Inc75K_99K.y16,7.23,3.57,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Inc75K_99K.y16,4.91,3.15,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Inc75K_99K.y16,5.82,3.45,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Inc75K_99K.y16,9.15,3.82,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Inc75K_99K.y16,8.75,3.77,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Inc75K_99K.y16,11.42,4.63,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Inc75K_99K.y16,7.97,5.73,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Inc75K_99K.y16,4.52,3.21,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Inc75K_99K.y16,2.87,2.71,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Inc75K_99K.y16,8.13,5.4,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Inc75K_99K.y16,11.34,4.78,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Inc75K_99K.y16,9.3,3.85,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Inc75K_99K.y16,13.54,4.71,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Inc75K_99K.y16,13.38,4.37,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Inc75K_99K.y16,7.47,3.08,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_ag.y16,0,1.03,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_ag.y16,0.52,0.95,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_ag.y16,0.75,1.43,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_ag.y16,1.13,1.52,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_ag.y16,0.75,1.14,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_ag.y16,0,0.72,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_ag.y16,4.32,5.49,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_ag.y16,0.36,0.9,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_ag.y16,0.22,0.79,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_ag.y16,0.07,0.75,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_ag.y16,1.86,1.86,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_ag.y16,4.71,5.66,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_ag.y16,3.55,4.39,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_ag.y16,1.52,1.88,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_ag.y16,0.46,0.92,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_ag.y16,1.46,1.61,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_arts.y16,23.93,14.06,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_arts.y16,14.14,6.27,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_arts.y16,26.17,9.47,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_arts.y16,23.64,9.18,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_arts.y16,15.91,6.67,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_arts.y16,15.81,5.66,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_arts.y16,11.74,7.09,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_arts.y16,10.15,4.31,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_arts.y16,17.15,7.04,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_arts.y16,20.15,9.59,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_arts.y16,11.58,5.82,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_arts.y16,14.4,6.88,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_arts.y16,10.44,6.45,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_arts.y16,11.03,5.59,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_arts.y16,9.2,4.69,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_arts.y16,8.14,4.03,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_const.y16,2.91,2.61,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_const.y16,2.68,2.59,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_const.y16,1.94,2.45,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_const.y16,2.49,2.47,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_const.y16,1.11,1.14,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_const.y16,7.44,3.59,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_const.y16,5.58,4.03,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_const.y16,10.1,5.61,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_const.y16,2.09,1.95,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_const.y16,1.6,1.92,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_const.y16,12.73,7.74,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_const.y16,4.26,3.5,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_const.y16,4.16,3.32,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_const.y16,1.91,1.79,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_const.y16,1.21,1.35,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_const.y16,4.82,3.28,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_edhlth.y16,26.36,8.73,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_edhlth.y16,37.4,8.73,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_edhlth.y16,37.09,9.17,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_edhlth.y16,33.19,7.85,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_edhlth.y16,36.03,7.12,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_edhlth.y16,20.46,6.13,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_edhlth.y16,32.49,8.01,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_edhlth.y16,15.67,4.49,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_edhlth.y16,28.1,8.38,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_edhlth.y16,28.89,10.09,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_edhlth.y16,16.81,6,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_edhlth.y16,28.76,6.84,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_edhlth.y16,37.2,8.89,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_edhlth.y16,38.28,7.44,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_edhlth.y16,45.24,10.65,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_edhlth.y16,30.2,6.31,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_finan.y16,5.67,4.12,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_finan.y16,3.87,2.66,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_finan.y16,4.98,3.47,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_finan.y16,2.49,2.07,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_finan.y16,1.05,1.05,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_finan.y16,2.03,1.39,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_finan.y16,4.03,2.98,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_finan.y16,5.25,3.59,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_finan.y16,0.65,1.05,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_finan.y16,2.67,2.7,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_finan.y16,4.44,3.78,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_finan.y16,5.21,3.15,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_finan.y16,4.92,3.84,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_finan.y16,4.33,2.57,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_finan.y16,4.23,2.84,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_finan.y16,4.07,2.87,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_info.y16,1.4,1.73,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_info.y16,2.16,2.42,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_info.y16,2.26,2.35,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_info.y16,4.38,3.04,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_info.y16,1.58,1.73,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_info.y16,0.72,0.93,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_info.y16,0.71,1.09,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_info.y16,0,0.72,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_info.y16,1.48,1.52,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_info.y16,0,0.89,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_info.y16,0,0.9,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_info.y16,1.22,1.29,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_info.y16,0.46,1.03,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_info.y16,0.81,1.08,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_info.y16,0.36,0.64,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_info.y16,1.72,1.61,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_manf.y16,5.49,4.57,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_manf.y16,7.93,6.2,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_manf.y16,1.05,1.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_manf.y16,5.3,3.7,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_manf.y16,3.83,2.21,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_manf.y16,16.48,6.51,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_manf.y16,6.5,4.91,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_manf.y16,18.72,7.41,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_manf.y16,11.05,5.27,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_manf.y16,7.75,4.8,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_manf.y16,16.99,8.04,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_manf.y16,7.79,4.98,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_manf.y16,6.28,5.04,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_manf.y16,9.03,4.18,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_manf.y16,6.14,4.76,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_manf.y16,14.82,7.73,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_other.y16,2.91,2.47,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_other.y16,3.91,2.96,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_other.y16,2.74,2.61,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_other.y16,4.38,3.38,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_other.y16,5.11,3.62,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_other.y16,7.14,5.24,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_other.y16,3.48,2.39,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_other.y16,4.45,2.87,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_other.y16,4.19,2.67,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_other.y16,5.44,4.34,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_other.y16,3.6,2.58,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_other.y16,3.95,2.51,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_other.y16,3.55,2.46,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_other.y16,3.95,2.57,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_other.y16,5.47,2.59,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_other.y16,5.52,2.76,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_prof.y16,10.86,6.85,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_prof.y16,9.94,4.79,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_prof.y16,6.84,3.95,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_prof.y16,9.24,4.28,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_prof.y16,11.84,5.83,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_prof.y16,9.89,4.86,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_prof.y16,9.69,5.03,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_prof.y16,7.05,3.5,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_prof.y16,13.62,7.55,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_prof.y16,10.95,7.71,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_prof.y16,8.16,4.5,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_prof.y16,10.26,5.02,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_prof.y16,8.44,4.26,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_prof.y16,11.06,4.84,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_prof.y16,10.33,5.47,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_prof.y16,8.62,4.63,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_pubad.y16,2.17,2.36,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_pubad.y16,2.11,2.35,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_pubad.y16,1.51,1.95,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_pubad.y16,2.28,2.05,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_pubad.y16,5.5,3.53,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_pubad.y16,3.21,2.66,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_pubad.y16,2.64,2.1,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_pubad.y16,5.75,3.95,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_pubad.y16,2.53,2.6,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_pubad.y16,0.14,0.85,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_pubad.y16,4.68,3.54,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_pubad.y16,4.1,2.66,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_pubad.y16,0.99,1.15,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_pubad.y16,3.5,2.24,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_pubad.y16,2.66,2.66,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_pubad.y16,2.95,1.75,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_retail.y16,11.05,6.15,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_retail.y16,11.75,6.43,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_retail.y16,11.54,5.56,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_retail.y16,8.87,4.85,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_retail.y16,13.97,5.95,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_retail.y16,8.24,4.02,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_retail.y16,13.75,6.08,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_retail.y16,15.09,7.68,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_retail.y16,10.62,5.49,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_retail.y16,15.78,6.97,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_retail.y16,14.29,7.86,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_retail.y16,10.56,4.37,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_retail.y16,16.05,7.43,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_retail.y16,10.49,5.62,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_retail.y16,10.55,4.62,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_retail.y16,12.39,5,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_trans.y16,4.23,3.76,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_trans.y16,2.44,2.09,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_trans.y16,2.24,2.45,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_trans.y16,1.26,1.65,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_trans.y16,1.26,1.61,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_trans.y16,3.63,2.7,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_trans.y16,2.35,1.89,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_trans.y16,4.71,3.01,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_trans.y16,5.63,5.27,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_trans.y16,6.4,4.3,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_trans.y16,3.54,2.64,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_trans.y16,2.24,1.82,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_trans.y16,2.2,2.62,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_trans.y16,2.87,2.45,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_trans.y16,1.42,1.63,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_trans.y16,1.9,1.83,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Ind_whlsl.y16,3.09,3.28,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Ind_whlsl.y16,1.12,1.28,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Ind_whlsl.y16,0.87,1.34,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Ind_whlsl.y16,1.34,1.71,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Ind_whlsl.y16,2.06,1.7,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Ind_whlsl.y16,4.95,4.18,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Ind_whlsl.y16,2.77,2.35,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Ind_whlsl.y16,2.65,2.29,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Ind_whlsl.y16,2.67,2.28,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Ind_whlsl.y16,0.18,0.85,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Ind_whlsl.y16,1.32,1.68,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Ind_whlsl.y16,2.55,2.39,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Ind_whlsl.y16,1.76,1.62,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Ind_whlsl.y16,1.26,1.26,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Ind_whlsl.y16,2.73,2.88,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Ind_whlsl.y16,3.36,2.54,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Pov_Ov65.y16,13.07,3.22,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Pov_Ov65.y16,7.88,1.66,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Pov_Ov65.y16,4.29,1.22,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Pov_Ov65.y16,6.23,2.04,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Pov_Ov65.y16,11.74,1.65,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Pov_Ov65.y16,6.1,1.55,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Pov_Ov65.y16,13.88,2.23,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Pov_Ov65.y16,6.99,1.12,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Pov_Ov65.y16,10.99,2.1,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Pov_Ov65.y16,4.79,1.82,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Pov_Ov65.y16,7.9,1.14,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Pov_Ov65.y16,12.74,2.38,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Pov_Ov65.y16,16.28,2.74,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Pov_Ov65.y16,13.24,1.92,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Pov_Ov65.y16,13.05,1.77,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Pov_Ov65.y16,12.43,2.4,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Pov_Und18.y16,21.63,7.41,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Pov_Und18.y16,11.88,3.1,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Pov_Und18.y16,6.22,2.15,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Pov_Und18.y16,18.4,4.46,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Pov_Und18.y16,17.24,3.49,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Pov_Und18.y16,34.41,6.02,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Pov_Und18.y16,13.42,5.19,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Pov_Und18.y16,26.63,7.53,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Pov_Und18.y16,19.52,4.9,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Pov_Und18.y16,19.63,6.94,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Pov_Und18.y16,31.19,8.26,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Pov_Und18.y16,15.64,4.33,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Pov_Und18.y16,15.22,4.78,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Pov_Und18.y16,22.25,3.98,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Pov_Und18.y16,20.39,5.82,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Pov_Und18.y16,25.6,5.84,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_AI.y16,0,0.44,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_AI.y16,0.3,0.66,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_AI.y16,0,0.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_AI.y16,0.34,0.81,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_AI.y16,0.42,0.76,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_AI.y16,0,0.29,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_AI.y16,0,0.35,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_AI.y16,1.19,1.6,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_AI.y16,0.02,0.34,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_AI.y16,0.03,0.32,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_AI.y16,0.5,0.9,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_AI.y16,0,0.46,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_AI.y16,0,0.33,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_AI.y16,0.37,0.72,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_AI.y16,0,0.33,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_AI.y16,0.1,0.36,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_AsnNH.y16,1.89,1.51,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_AsnNH.y16,6.16,3.31,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_AsnNH.y16,10.11,3.67,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_AsnNH.y16,0.9,0.71,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_AsnNH.y16,5.12,4.25,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_AsnNH.y16,0,0.29,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_AsnNH.y16,3.21,2.41,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_AsnNH.y16,0.15,0.52,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_AsnNH.y16,3.18,3.06,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_AsnNH.y16,1.26,1.13,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_AsnNH.y16,0.71,1.18,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_AsnNH.y16,2.66,2.34,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_AsnNH.y16,5.47,3.36,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_AsnNH.y16,3.14,3.01,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_AsnNH.y16,2.01,2.5,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_AsnNH.y16,2.27,2.43,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_BlkNH.y16,37.15,8.26,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_BlkNH.y16,14.18,4.41,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_BlkNH.y16,9.33,3.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_BlkNH.y16,25.05,8.09,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_BlkNH.y16,23.36,6.26,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_BlkNH.y16,35.81,6.02,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_BlkNH.y16,22.86,7.56,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_BlkNH.y16,51.86,10.94,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_BlkNH.y16,50.59,9.41,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_BlkNH.y16,56.62,12.48,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_BlkNH.y16,36.56,9.2,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_BlkNH.y16,24.55,6.33,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_BlkNH.y16,20.17,6.31,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_BlkNH.y16,24.87,5.68,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_BlkNH.y16,34.5,7.77,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_BlkNH.y16,40.82,9.09,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_Hisp.y16,6,4.92,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_Hisp.y16,5.17,3.8,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_Hisp.y16,4.26,2.29,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_Hisp.y16,6.19,3.57,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_Hisp.y16,6.34,4.79,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_Hisp.y16,45.31,10.28,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_Hisp.y16,10.94,6.65,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_Hisp.y16,24.55,8.82,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_Hisp.y16,8.45,6.66,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_Hisp.y16,3.25,2.29,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_Hisp.y16,38.52,10.55,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_Hisp.y16,10.09,6.63,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_Hisp.y16,12.24,7.07,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_Hisp.y16,5.57,4.07,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_Hisp.y16,7.14,4.75,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_Hisp.y16,11.71,6.96,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_HPI.y16,0,0.44,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_HPI.y16,0,0.29,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_HPI.y16,0,0.4,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_HPI.y16,0,0.42,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_HPI.y16,0,0.32,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_HPI.y16,0,0.29,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_HPI.y16,0,0.35,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_HPI.y16,0,0.33,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_HPI.y16,0,0.32,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_HPI.y16,0.05,0.33,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_HPI.y16,0,0.35,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_HPI.y16,0,0.46,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_HPI.y16,0,0.33,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_HPI.y16,0,0.29,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_HPI.y16,0,0.33,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_HPI.y16,0.03,0.28,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_OthNH.y16,0.95,1.6,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_OthNH.y16,0.11,0.36,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_OthNH.y16,0.06,0.38,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_OthNH.y16,0.61,1.1,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_OthNH.y16,0.19,0.4,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_OthNH.y16,0,0.29,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_OthNH.y16,0.27,0.57,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_OthNH.y16,0,0.33,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_OthNH.y16,0,0.32,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_OthNH.y16,0.08,0.39,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_OthNH.y16,0,0.35,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_OthNH.y16,0.02,0.48,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_OthNH.y16,0.57,0.86,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_OthNH.y16,0.32,0.52,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_OthNH.y16,0,0.33,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_OthNH.y16,0.08,0.35,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rce_WhtNH.y16,53.04,9.2,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rce_WhtNH.y16,72.54,9.55,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rce_WhtNH.y16,73.84,8.84,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rce_WhtNH.y16,64.62,9.47,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rce_WhtNH.y16,62.51,7.25,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rce_WhtNH.y16,16.79,2.78,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rce_WhtNH.y16,61.43,8.47,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rce_WhtNH.y16,21.39,7.11,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rce_WhtNH.y16,35.28,7.82,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rce_WhtNH.y16,38.6,9.6,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rce_WhtNH.y16,22.74,6.34,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rce_WhtNH.y16,60.65,7.95,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rce_WhtNH.y16,59.64,8.53,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rce_WhtNH.y16,64.37,7.64,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rce_WhtNH.y16,55.13,5.83,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rce_WhtNH.y16,43.77,6.32,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Rent30.y16,48.57,14.7,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Rent30.y16,53.82,13.19,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Rent30.y16,58.41,13.66,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Rent30.y16,42.67,13.93,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Rent30.y16,59.81,14.68,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Rent30.y16,45.22,16.12,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Rent30.y16,44.49,15.95,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Rent30.y16,57.26,16.55,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Rent30.y16,58.48,12.73,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Rent30.y16,64.95,13.9,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Rent30.y16,51.32,18.6,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Rent30.y16,40.36,15.76,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Rent30.y16,51.44,15.41,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Rent30.y16,44.86,16.17,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Rent30.y16,48.41,21.99,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Rent30.y16,55.91,17.73,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Sch_grad.y16,3.94,2.04,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Sch_grad.y16,8.57,3.35,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Sch_grad.y16,8.82,3.31,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Sch_grad.y16,7.26,3.01,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Sch_grad.y16,6.51,3.31,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Sch_grad.y16,1.93,1.22,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Sch_grad.y16,2.04,1.47,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Sch_grad.y16,1.24,1,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Sch_grad.y16,5.63,2.4,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Sch_grad.y16,2.74,1.87,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Sch_grad.y16,1.45,1.62,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Sch_grad.y16,2.7,1.67,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Sch_grad.y16,3.36,2.3,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Sch_grad.y16,3.39,2.15,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Sch_grad.y16,3.56,2.6,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Sch_grad.y16,4.37,2.56,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Sch_Kpre.y16,3.48,2.22,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Sch_Kpre.y16,0.91,0.93,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Sch_Kpre.y16,1.04,0.92,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Sch_Kpre.y16,4.48,2.53,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Sch_Kpre.y16,4.11,2.16,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Sch_Kpre.y16,6.73,3.13,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Sch_Kpre.y16,2.5,1.79,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Sch_Kpre.y16,4.42,2.42,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Sch_Kpre.y16,2.75,1.59,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Sch_Kpre.y16,3.33,2.2,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Sch_Kpre.y16,4.94,2.77,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Sch_Kpre.y16,2.68,1.73,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Sch_Kpre.y16,3.11,1.91,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Sch_Kpre.y16,2.37,1.48,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Sch_Kpre.y16,2.95,2.18,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Sch_Kpre.y16,2.25,1.42,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Sch_ugrad.y16,12.51,6.83,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Sch_ugrad.y16,32.1,7.26,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Sch_ugrad.y16,59.67,7.9,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Sch_ugrad.y16,14.13,5.41,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Sch_ugrad.y16,14.43,4.89,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Sch_ugrad.y16,2.82,1.64,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Sch_ugrad.y16,12.55,5.81,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Sch_ugrad.y16,4.31,1.94,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Sch_ugrad.y16,15.52,5.89,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Sch_ugrad.y16,31.35,7.98,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Sch_ugrad.y16,4.09,2.04,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Sch_ugrad.y16,10.19,5.04,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Sch_ugrad.y16,14.24,5.7,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Sch_ugrad.y16,6.54,2.94,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Sch_ugrad.y16,4.78,2.33,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Sch_ugrad.y16,3.4,1.62,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_car.y16,66.35,13.96,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_car.y16,77.09,13.84,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_car.y16,68.66,16.18,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_car.y16,68.8,13.36,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_car.y16,82.29,13.48,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_car.y16,71.71,12.93,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_car.y16,80.54,15.07,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_car.y16,81.63,12.44,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_car.y16,74.64,14.3,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_car.y16,80.9,17.56,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_car.y16,82.44,15.34,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_car.y16,82.23,14.22,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_car.y16,81.22,14.71,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_car.y16,81.71,12.21,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_car.y16,80.64,12.41,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_car.y16,77.89,12.75,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_carpool.y16,10.14,6.75,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_carpool.y16,13.1,7.78,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_carpool.y16,5.39,3.9,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_carpool.y16,8.69,5.08,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_carpool.y16,8.5,5.2,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_carpool.y16,19.29,6.66,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_carpool.y16,13.79,6.74,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_carpool.y16,12.58,5.74,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_carpool.y16,9.13,4.94,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_carpool.y16,11.17,6.1,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_carpool.y16,14.73,8.56,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_carpool.y16,10.55,5.35,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_carpool.y16,12.36,6.33,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_carpool.y16,11.1,5.54,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_carpool.y16,16.59,7.25,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_carpool.y16,13.51,8.68,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_home.y16,3.43,2.31,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_home.y16,2.47,1.97,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_home.y16,4.34,2.84,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_home.y16,3.04,2.5,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_home.y16,2.83,2.21,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_home.y16,1.34,1.69,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_home.y16,2.77,2.13,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_home.y16,0.96,1.09,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_home.y16,1.37,1.33,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_home.y16,1.51,2.05,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_home.y16,0.49,1.11,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_home.y16,3.71,2.62,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_home.y16,3,2.3,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_home.y16,3.24,2.51,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_home.y16,1.31,1.46,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_home.y16,2.38,1.66,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_noveh.y16,7.75,5.63,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_noveh.y16,1.51,1.62,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_noveh.y16,4.71,4.05,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_noveh.y16,4.32,3.34,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_noveh.y16,2.3,2.3,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_noveh.y16,6.49,5.88,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_noveh.y16,1.71,2.6,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_noveh.y16,2.78,2.51,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_noveh.y16,4.41,2.85,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_noveh.y16,11.06,9.26,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_noveh.y16,1.42,1.85,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_noveh.y16,1.6,2.3,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_noveh.y16,0.84,1.28,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_noveh.y16,1.44,1.59,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_noveh.y16,0.82,1.46,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_noveh.y16,0.64,0.91,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_pub.y16,5.94,7.09,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_pub.y16,5.19,2.96,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_pub.y16,8.27,5.06,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_pub.y16,4.43,3.61,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_pub.y16,2.02,1.62,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_pub.y16,1.51,1.38,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_pub.y16,1.45,2.52,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_pub.y16,0.32,0.59,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_pub.y16,4.49,3.16,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_pub.y16,6.03,6.61,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_pub.y16,0.12,0.86,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_pub.y16,1.33,1.8,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_pub.y16,3.33,3.95,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_pub.y16,0.64,0.86,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_pub.y16,0.75,1.38,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_pub.y16,2.83,2.15,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_taxi.y16,4.78,4.47,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_taxi.y16,0.77,1.11,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_taxi.y16,3.2,3.15,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_taxi.y16,7.06,5.32,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_taxi.y16,4.08,4.17,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_taxi.y16,5.8,7.01,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_taxi.y16,1.45,2.09,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_taxi.y16,3.97,3.78,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_taxi.y16,5.67,5.44,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_taxi.y16,0.36,1.15,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_taxi.y16,1.97,2.46,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_taxi.y16,2.15,2.19,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_taxi.y16,0,0.68,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_taxi.y16,1.9,1.77,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_taxi.y16,0,0.67,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_taxi.y16,2.49,2.53,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,Trn_walk.y16,9.41,6.52,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,Trn_walk.y16,1.36,1.6,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,Trn_walk.y16,10.13,5.13,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,Trn_walk.y16,7.96,4.78,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,Trn_walk.y16,0.31,0.87,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,Trn_walk.y16,0.39,0.65,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,Trn_walk.y16,0,0.68,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,Trn_walk.y16,0.55,0.91,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,Trn_walk.y16,4.75,2.78,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,Trn_walk.y16,0.04,0.93,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,Trn_walk.y16,0.25,1.05,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,Trn_walk.y16,0.08,0.94,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,Trn_walk.y16,0.1,0.6,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,Trn_walk.y16,1.41,2.39,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,Trn_walk.y16,0.71,1.16,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,Trn_walk.y16,0.91,1.43,NA
+Alps Road,1,Clarke Middle,33.9439455234,-83.4075447231,Clarke Central,TotPop.y16,6305,763,NA
+Barnett Shoals,2,Hilsman,33.9025447139,-83.3379342984,Cedar Shoals,TotPop.y16,11840,1171,NA
+Barrow,3,Clarke Middle,33.9415178881,-83.3829765063,Clarke Central,TotPop.y16,24064,2237,NA
+Chase Street,5,Clarke Middle,33.9647436136,-83.3941499392,Clarke Central,TotPop.y16,7369,759,NA
+Choice Zone-East,11,Hilsman,33.9353184771,-83.3256712448,Cedar Shoals,TotPop.y16,6194,542,NA
+Choice Zone-West,4,BHL,34.000537,-83.425467,Clarke Central,TotPop.y16,5800,626,NA
+Cleveland Road,6,BHL,33.9669974517,-83.5054071061,Clarke Central,TotPop.y16,4524,490,NA
+Fowler Drive,7,Coile,33.989722456,-83.3621713671,Cedar Shoals,TotPop.y16,4807,573,NA
+Gaines,8,Hilsman,33.9297014825,-83.3372271615,Cedar Shoals,TotPop.y16,6533,774,NA
+Howard B Stroud,9,Coile,33.9734994485,-83.3586638456,Cedar Shoals,TotPop.y16,6643,859,NA
+Judia Jackson Harris,10,Coile,34.0097015792,-83.3452724549,Cedar Shoals,TotPop.y16,4226,519,NA
+Oglethorpe,12,BHL,33.9633574328,-83.4224229953,Clarke Central,TotPop.y16,5006,494,NA
+Timothy Rd.,13,Clarke Middle,33.9373269012,-83.4457597895,Clarke Central,TotPop.y16,10688,1045,NA
+Whit Davis,14,Hilsman,33.9040036439,-83.3175820991,Cedar Shoals,TotPop.y16,6554,524,NA
+Whitehead Rd.,15,BHL,33.9810945049,-83.435788007,Clarke Central,TotPop.y16,5434,604,NA
+Winterville,16,Coile,33.9697303743,-83.2894646812,Cedar Shoals,TotPop.y16,6048,555,NA

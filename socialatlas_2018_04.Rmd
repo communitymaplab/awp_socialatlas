@@ -36,14 +36,22 @@ library(tidyverse)
 #metadata<-gs_read(sheet,ws="Metadata")
 #atlasdata<-melt(atlasdata_wide,id.vars=c("School","SchoolID"))
 
-atlasdata<-read_csv("data/AthensSocialAtlasData_2018_02_05.csv")
-atlasdata_wide<-atlasdata %>% 
-  select(-moe) %>%
-  spread(var,est) 
+atlasdata<-read_csv("data/AthensSocialAtlasData_2018_04_23.csv")
+# atlasdata_wide<-atlasdata %>% 
+#   select(-moe) %>%
+#   spread(var,est) 
 districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
   select(SchoolID) %>%
   left_join(atlasdata_wide)
 metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
+
+# Adding variable description to old data. Will delete eventually.
+# metadatashort<-metadata %>%
+#   select(variable,description) %>%
+#   rename("var"=variable)
+# atlasdata<-atlasdata %>%
+#   left_join(metadatashort)
+# write_csv(atlasdata,"data/AthensSocialAtlasData_2018_04_23.csv")
 
 #middle school data
 middleschool <- st_read("data/MiddleSchoolDistrictsWGS84.geojson")
