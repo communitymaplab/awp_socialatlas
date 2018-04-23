@@ -41,7 +41,7 @@ library(tidyverse)
 #   select(-moe) %>%
 #   spread(var,est) 
 districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
-  select(SchoolID) 
+  select(SchoolID, ES_short) 
 atlasdata<-read_csv("data/AthensSocialAtlasData_2018_04_23.csv")
 metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
 
@@ -227,18 +227,16 @@ filteredData_variable<-reactive({
   dist
 })
 
-
-
 ##Need to create popup with school name and variable value
 
 output$map <- renderLeaflet({
   
   nclassint=as.numeric(input$ngroups)
 
-  pal1<-colorQuantile(palette = "Reds", domain = filteredData_variable()$variable_dist,n=nclassint)
+  pal1<-colorQuantile(palette = "Reds", domain = filteredData_variable()$est,n=nclassint)
   
   popup<-paste("<b>School zone: </b>",filteredData_variable()$ES_short,"<br>",
-                    "<b>Variable value:</b> ",filteredData_variable()$variable_dist,
+                    "<b>Variable value:</b> ",filteredData_variable()$est,
                     sep="")
   
 leaflet(filteredData_variable()) %>% 
@@ -246,14 +244,14 @@ leaflet(filteredData_variable()) %>%
   addProviderTiles("CartoDB.Positron",
                    options = providerTileOptions(noWrap = TRUE)) %>%
   addPolygons(fillOpacity=.6,
-              fillColor=~pal1(variable_dist),
+              fillColor=~pal1(est),
               weight=1,
               color="#222222",
               popup=popup) %>%
   addLegend(position="bottomright",
             pal = pal1, 
             title="Legend",
-            values = ~variable_dist, 
+            values = ~est, 
             labFormat = function(type, cuts, p) {
                 n = length(cuts)
                 paste0(cuts[-n], " &ndash; ", cuts[-1])})
@@ -322,390 +320,6 @@ dataTableOutput('table')
 
 
 
-
-
-
-
-
-Two issues
-===================================== 
-
-Column {.sidebar}
------------------------------------------------------------------------
-
-####Variable selection
-
-```{r}
-selectInput("ngroups1","Classify school zones into how many equally sized groups?",c(3, 4,5,6),selected=4)
-
-
-
-#sliderInput("mapheight","Map height",min=400,max=1200,value=600)
-
-```
-
-**Variable 1:**
-```{r}
-selectInput("group1","Choose your variable domain:",
-             c("Community Safety"="Safety",
-               "Demographics"="Demog",
-               "Healthy People & Environments"="Health",
-               "Housing"="Housing",
-               "Income & Employment" = "Income",
-               "Lifelong Learning" = "Learning",
-               "Transportation" = "Transport"),
-             selected="Safety")
-
-conditionalPanel(
- condition="input.group1=='Safety'",
-  selectInput("variable1.1","Select your variable:",
-              choices = select_safety
-               )
-)
-
-conditionalPanel(
- condition="input.group1=='Demog'",
-  selectInput("variable2.1","Select your variable:",
-               choices = select_demo
-               )
-)
-
-conditionalPanel(
- condition="input.group1=='Health'",
-  selectInput("variable3.1","Select your variable:",
-              choices = select_health
-              )
-)
-
-conditionalPanel(
- condition="input.group1=='Housing'",
-  selectInput("variable4.1","Select your variable:",
-             choices = select_housing
-              )
-)
-
-conditionalPanel(
- condition="input.group1=='Income'",
-  selectInput("variable5.1","Select your variable:",
-              choices = select_incemploy
-              )
-)
-
-
-conditionalPanel(
- condition="input.group1=='Learning'",
-  selectInput("variable6.1","Select your variable:",
-              choices = select_edu
-              )
-)
-
-conditionalPanel(
- condition="input.group1=='Transport'",
-  selectInput("variable7.1","Select your variable:",
-             choices = select_trans
-              )
-)
-
-variable1<-reactive({
-    if(input$group1=="Safety"){
-    input$variable1.1
-  } else if (input$group1=="Demog") {
-    input$variable2.1
-  } else if (input$group1=="Health") {
-    input$variable3.1
-  } else if (input$group1=="Housing") {
-    input$variable4.1
-  } else if (input$group1=="Income") {
-    input$variable5.1
-  } else if (input$group1=="Learning") {
-    input$variable6.1
-  } else if (input$group1=="Transport") {
-    input$variable7.1 }
-  })
-
-```
-
-**Variable 2:**
-```{r}
-selectInput("group2","Choose your variable domain:",
-             c("Community Safety"="Safety",
-               "Demographics"="Demog",
-               "Healthy People & Environments"="Health",
-               "Housing"="Housing",
-               "Income & Employment" = "Income",
-               "Lifelong Learning" = "Learning",
-               "Transportation" = "Transport"),
-             selected="Safety")
-
-conditionalPanel(
- condition="input.group2=='Safety'",
-  selectInput("variable1.2","Select your variable:",
-               choices = select2_safety
-               )
-)
-
-conditionalPanel(
- condition="input.group2=='Demog'",
-  selectInput("variable2.2","Select your variable:",
-              choices = select2_demo
-               )
-)
-
-conditionalPanel(
- condition="input.group2=='Health'",
-  selectInput("variable3.2","Select your variable:",
-              choices = select2_health
-              )
-)
-
-conditionalPanel(
- condition="input.group2=='Housing'",
-  selectInput("variable4.2","Select your variable:",
-              choices = select2_housing
-              )
-)
-
-conditionalPanel(
- condition="input.group2=='Income'",
-  selectInput("variable5.2","Select your variable:",
-              choices = select2_incemploy
-              )
-)
-
-
-conditionalPanel(
- condition="input.group2=='Learning'",
-  selectInput("variable6.2","Select your variable:",
-              choices = select2_edu
-)
-)
-
-conditionalPanel(
- condition="input.group2=='Transport'",
-  selectInput("variable7.2","Select your variable:",
-              choices = select2_trans
-              )
-)
-
-variable2<-reactive({
-    if(input$group2=="Safety"){
-    input$variable1.2
-  } else if (input$group2=="Demog") {
-    input$variable2.2
-  } else if (input$group2=="Health") {
-    input$variable3.2
-  } else if (input$group2=="Housing") {
-    input$variable4.2
-  } else if (input$group2=="Income") {
-    input$variable5.2
-  } else if (input$group2=="Learning") {
-    input$variable6.2
-  } else if (input$group2=="Transport") {
-    input$variable7.2 }
-  })
-
-
-```
-
-Column {data-width=450}
------------------------------------------------------------------------
-**Click on the map for more information.**
-```{r}
-    filter_metadata1<-reactive({
-    metadata[metadata$var_val==variable1(),]
-    })
-
-output$text1<-renderUI(
-  HTML(paste("<b>Variable Name: </b>",filter_metadata1()$description,
-             "<br><b>Source: </b>",filter_metadata1()$source,"<br><br>",sep=""))
-)
-
-filteredData_variable1<-reactive({
-  dist<-subset(districts,select=c("ES_short",variable1()))
-  names(dist)<-c("ES_short","variable_dist")
-  dist
-})
-
-
-output$map1 <- renderLeaflet({
-
-  nclassint=as.numeric(input$ngroups1)
-
-  pal1<-colorQuantile(palette = "Reds", domain = filteredData_variable1()$variable_dist,n=nclassint)
-
-  popup<-paste("<b>School zone: </b>",filteredData_variable1()$ES_short,"<br>",
-                    "<b>Variable value:</b> ",filteredData_variable1()$variable_dist,
-                    sep="")
-
-leaflet(filteredData_variable1()) %>%
-  setView(lng = -83.3776, lat = 33.94, zoom = 11)%>%
-  addProviderTiles("CartoDB.Positron",
-                   options = providerTileOptions(noWrap = TRUE)) %>%
-  addPolygons(fillOpacity=.6,
-              fillColor=~pal1(variable_dist),
-              weight=1,
-              color="#222222",
-              popup=popup) %>%
-  addLegend(position="bottomright",
-            pal = pal1,
-            title="Legend",
-            values = ~variable_dist,
-            labFormat = function(type, cuts, p) {
-                n = length(cuts)
-                paste0(cuts[-n], " &ndash; ", cuts[-1])})
-})
-
-filter_metadata2<-reactive({
-    metadata[metadata$var_val==variable2(),]
-    })
-
-output$text2<-renderUI(
-  HTML(paste("<b>Variable Name: </b>",filter_metadata2()$description,
-             "<br><b>Source: </b>",filter_metadata2()$source,"<br><br>",sep="")))
-
-
-
-filteredData_variable2<-reactive({
-  dist<-subset(districts,select=c("ES_short",variable2()))
-  names(dist)<-c("ES_short","variable_dist")
-  dist
-})
-
-output$map2 <- renderLeaflet({
-  
-  nclassint=as.numeric(input$ngroups1)
-
-  pal2<-colorQuantile(palette = "Greens", domain = filteredData_variable2()$variable_dist,n=nclassint)
-
-  popup<-paste("<b>School zone: </b>",filteredData_variable2()$ES_short,"<br>",
-                    "<b>Variable value:</b> ",filteredData_variable2()$variable_dist,
-                    sep="")
-
-leaflet(filteredData_variable2()) %>%
-  setView(lng = -83.3776, lat = 33.94, zoom = 11)%>%
-  addProviderTiles("CartoDB.Positron",
-                   options = providerTileOptions(noWrap = TRUE)) %>%
-  addPolygons(fillOpacity=.6,
-              fillColor=~pal2(variable_dist),
-              weight=1,
-              color="#222222",
-              popup=popup) %>%
-  addLegend(position="bottomright",
-            pal = pal2,
-            title="Legend",
-            values = ~variable_dist,
-            labFormat = function(type, cuts, p) {
-                n = length(cuts)
-                paste0(cuts[-n], " &ndash; ", cuts[-1])})
-})
-
-
-htmlOutput("text1", height=50)
-leafletOutput('map1',height=600)
-htmlOutput("text2", height=50)
-leafletOutput('map2',height=600)                 
-
-
-```
-
-Column {.tabset data-width=300}
------------------------------------------------------------------------
-### Chart
-
-```{r}
-
-
-data.chart1<-reactive({
-  table1<-atlasdata[atlasdata$variable==variable1(),c(1,4)]
-
-   table2<-atlasdata[atlasdata$variable==variable2(),c(1,4)]
-   
-   tablemerge<-merge(table1,table2,by="School")
-   names(tablemerge)<-c("School","Variable1","Variable2")
-   
-   if(input$chart_sort=="School"){
-   tablemerge<-tablemerge[order(tablemerge$School),]
-   } else if (input$chart_sort=="Variable1"){
-     tablemerge<-tablemerge[order(-tablemerge$Variable1),]
-   } else if (input$chart_sort=="Variable2"){
-     tablemerge<-tablemerge[order(-tablemerge$Variable2),]
-   }
-   
-   tablemerge
-})
-
-output$highchart1<-renderHighchart(
-  hchart(data.chart1(),"bar",x=School,y=Variable1) %>%
-    hc_add_theme(hc_theme_gridlight()) %>%
-    hc_colors(c("#bd0026")) %>%
-    hc_yAxis(title = list(text = "Variable 1 value"))
-)
-output$highchart2<-renderHighchart(
-  hchart(data.chart1(),"bar",x=School,y=Variable2) %>%
-    hc_add_theme(hc_theme_gridlight()) %>%
-    hc_colors(c("#006d2c")) %>%
-    hc_yAxis(title = list(text = "Variable 2 value"))
-)
-
-fillCol(height="80%",flex=c(.15,1,1),
-        radioButtons("chart_sort","Sort the chart by what criteria?",
-            c("School name"="School",
-              "Variable 1"="Variable1",
-              "Variable 2"="Variable2"),inline=TRUE),
-highchartOutput('highchart1'),
-highchartOutput('highchart2')
-)
-
-```
-
-### Scatterplot
-Mouse over points to see school name and values.
-```{r}
-tables1<-reactive({
-   table1<-atlasdata[atlasdata$variable==variable1(),c(1,4)]
-
-   table2<-atlasdata[atlasdata$variable==variable2(),c(1,4)]
-   
-   tablemerge<-merge(table1,table2,by="School")
-   names(tablemerge)<-c("School","Variable1","Variable2")
-   tablemerge
-})
-
-output$chart3<-renderPlotly({
-  chart<-ggplot(tables1(),aes(x=Variable1,y=Variable2))+
-    geom_point(aes(text=School))+
-    stat_smooth()
-  chartly<-ggplotly(chart)
-  chartly
-})
-
-plotlyOutput('chart3')
-
-```
-
-### Table
-
-Values for this variable by school zone. Click on "Value" to sort.
-
-```{r}
-
-tables2<-reactive({
-   table1<-atlasdata[atlasdata$variable==variable1(),c(1,4)]
-
-   table2<-atlasdata[atlasdata$variable==variable2(),c(1,4)]
-   
-   tablemerge<-merge(table1,table2,by="School")
-   names(tablemerge)<-c("School","Variable 1","Variable 2")
-   tablemerge
-})
-
-output$table_compare<-renderDataTable(
-   tables2(),
-   options=list(paging=FALSE,searching=FALSE)
-)
-
-dataTableOutput('table_compare')
-```
 
 Middle School Data
 ===================================== 
