@@ -217,25 +217,6 @@ Column {data-width=450}
 ###Click on a school zone for more information.
 
 ```{r}
-#Create the variable to be mapped.
-#Right now this is subsetted from a shapefile that had all the data.
-#Now I'd prefer you do a leftjoin with the csv data to a geojson file that just has school ID.
-
-# filteredData_variable<-reactive({
-#   dist<-atlasdata %>%
-#     filter(description==variable()) %>% ####Here is where you need to filter the atlasdata based on the dropdown
-#     left_join(districts)
-#   dist
-# })
-
-#filteredData_variable <- reactive({
-#  dist <- left_join(dist, subset(atlasdata, atlasdata$description == variable()$description[1]),
-#  by = "SchoolID")
-#  districts
-
-#})
-
-   
  
 filteredData_variable <- reactive({
   
@@ -254,7 +235,7 @@ filteredData_variable <- reactive({
  })
 
 ##test
-filter1 <- atlasdata[atlasdata$description == "Has health insurance foreign born and naturalized",]
+#filter1 <- atlasdata[atlasdata$description == "Has health insurance foreign born and naturalized",]
 
 output$map <- renderLeaflet({
    
@@ -262,7 +243,11 @@ output$map <- renderLeaflet({
   mapdata <- filteredData_variable()
   
   nclassint= as.numeric(input$ngroups)
+  
   pal <- colorQuantile("Reds", mapdata$est, n = nclassint)
+  
+  #did this in order to make the values not show up as percentages
+ 
   
     popup<-paste("<b>School zone: </b>", mapdata$School,"<br>",
                     "<b>Variable value:</b> ", mapdata$est,
@@ -275,33 +260,22 @@ output$map <- renderLeaflet({
    addPolygons(
                 data = mapdata,
                 fillColor = ~pal(est),
-                fillOpacity = 6,
+                fillOpacity = .5,
                 color = "#222222",
                 weight = 1,
                 popup = popup
-               )
-
+               ) %>%
+    addLegend(position="bottomright",
+              pal = pal, 
+              title="Legend",
+              values = mapdata$est,
+              labFormat = function(type, cuts, p){
+                n = length(cuts)
+                paste0(cuts[-n], " &dash; ", cuts[-1])
+              })
 })
 
 
-  
-# leaflet(selected_variable()) %>% 
-#   setView(lng = -83.3776, lat = 33.94, zoom = 11)%>%
-#   addProviderTiles("CartoDB.Positron",
-#                    options = providerTileOptions(noWrap = TRUE)) %>%
-#   addPolygons(fillOpacity=.6,
-#               fillColor= ~pal1(selected_variable()$est),
-#               weight=1,
-#               color="#222222",
-#               popup=popup) %>%
-#   addLegend(position="bottomright",
-#             pal = pal1, 
-#             title="Legend",
-#             values = selected_variable()$est, 
-#             labFormat = function(type, cuts, p) {
-#                 n = length(cuts)
-#                 paste0(cuts[-n], " &ndash; ", cuts[-1])})
-# })
 
 leafletOutput("map", height="3000px")
                   
@@ -315,38 +289,44 @@ Column {.tabset data-width=300}
 ```{r}
 
 
+#This reactive variable is used to filter out the selected variable and chart it on a data chart. 
+#variable_h1 sorts the variables high to low.
+#variable_lh sorts the variables low to high.
 
-# data.chart<-reactive({
-#     data.chart1<-atlasdata[atlasdata$variable==variable(),]
-#     #data.chart<-data.chart1[order(-data.chart1$value),]
-#     
-#    if(input$chart_sort1=="School"){
-#    data.chart1<-data.chart1[order(data.chart1$School),]
-#    } else if (input$chart_sort1=="Variable_hl"){
-#      data.chart1<-data.chart1[order(-data.chart1$value),]
-#    } else if (input$chart_sort1=="Variable_lh"){
-#      data.chart1<-data.chart1[order(data.chart1$value),]
-#    }
-#     
-#     data.chart1
-# })
-# 
-# output$highchart<-renderHighchart(
-#   
-#   hchart(data.chart(),"bar",x=School,y=value) %>% 
-#     hc_add_theme(hc_theme_gridlight()) %>%
-#     hc_colors("#bd0026") %>%
-#     hc_yAxis(title = list(text = "Variable value"))
-# )
-# 
-# 
-# fillCol(height="80%",flex=c(.08,1),
-#       radioButtons("chart_sort1","Sort the chart by what criteria?",
-#             c("School name"="School",
-#               "Variable (high->low)"="Variable_hl",
-#               "Variable (low->high)"="Variable_lh"),inline=TRUE),
-# highchartOutput('highchart')
-# )
+#for 5/8/18 try deleting the variable names and create two reactive variables. See what happens.
+
+ data.chart<-reactive({
+     data.chart1<-atlasdata[atlasdata$variable==variable(),]
+     data.chart<-data.chart1[order(-data.chart1$est),]
+     
+    if(input$chart_sort1=="School"){
+    data.chart1<-data.chart1[order(data.chart1$School),]
+    } else if (input$chart_sort1=="Variable_hl"){
+      data.chart1<-data.chart1[order(-data.chart1$est),]
+    } else if (input$chart_sort1=="Variable_lh"){
+      data.chart1<-data.chart1[order(data.chart1$est),]
+    }
+     
+     data.chart1
+ })
+ 
+ output$highchart<-renderHighchart(
+   
+   hchart(data.chart(),"bar",x=School,y=value) %>% 
+     hc_add_theme(hc_theme_gridlight()) %>%
+     hc_colors("#bd0026") %>%
+     hc_yAxis(title = list(text = "Variable value"))
+ )
+ 
+ 
+ fillCol(height="80%",flex=c(.08,1),
+       radioButtons("chart_sort1","Sort the chart by what criteria?",
+             c("School name"="School",
+               "Variable (high->low)"="Variable_hl",
+               "Variable (low->high)"="Variable_lh"),inline=TRUE),
+       br(), br(),
+ highchartOutput('highchart')
+ )
 
 ```
 
