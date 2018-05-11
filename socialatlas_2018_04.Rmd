@@ -295,38 +295,55 @@ Column {.tabset data-width=300}
 
 #for 5/8/18 try deleting the variable names and create two reactive variables. See what happens.
 
- data.chart<-reactive({
-     data.chart1<-atlasdata[atlasdata$variable==variable(),]
-     data.chart<-data.chart1[order(-data.chart1$est),]
-     
-    if(input$chart_sort1=="School"){
-    data.chart1<-data.chart1[order(data.chart1$School),]
-    } else if (input$chart_sort1=="Variable_hl"){
-      data.chart1<-data.chart1[order(-data.chart1$est),]
-    } else if (input$chart_sort1=="Variable_lh"){
-      data.chart1<-data.chart1[order(data.chart1$est),]
-    }
-     
-     data.chart1
+ 
+
+ datachart<-reactive({
+    
+    #filtering the variable's data based on the selected category and assigning it to a new variable
+  if (input$chart_sort1 == "School"){
+     filteredvar <- atlasdata[atlasdata$description == variable(),]
+   
+  } else if (input$chart_sort1 == "Variable_hl"){
+    filteredvar <- atlasdata[atlasdata$description == variable(),]
+    filteredvar <- filteredvar[order(-filteredvar$est),]
+  } else if (input$chart_sort1 == "Variable_lh"){
+    filteredvar <- atlasdata[atlasdata$description == variable(),]
+    filteredvar <- filteredvar[order(filteredvar$est),]
+  }
+   
+   
+  filteredvar   
+    
+
  })
  
- output$highchart<-renderHighchart(
+
+###testing highchart###
+#filter1 <- atlasdata[atlasdata$description == "Mean Home Value",]
+
+#filter1 <- atlasdata[order(-atlasdata$est)]
+
+#hchart(filter1, "bar", hcaes(x = filter1$School, y = filter1$est))
+#######
+ output$highchart<-renderHighchart({
    
-   hchart(data.chart(),"bar",x=School,y=value) %>% 
+   #chartvar = datachart()
+
+   hchart(datachart(), "bar", hcaes(x=School, y=est)) %>% 
      hc_add_theme(hc_theme_gridlight()) %>%
      hc_colors("#bd0026") %>%
      hc_yAxis(title = list(text = "Variable value"))
- )
- 
+ })
  
  fillCol(height="80%",flex=c(.08,1),
        radioButtons("chart_sort1","Sort the chart by what criteria?",
              c("School name"="School",
                "Variable (high->low)"="Variable_hl",
                "Variable (low->high)"="Variable_lh"),inline=TRUE),
-       br(), br(),
+      # br(), br(),
  highchartOutput('highchart')
  )
+
 
 ```
 
