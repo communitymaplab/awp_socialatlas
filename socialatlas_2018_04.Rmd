@@ -352,12 +352,16 @@ Column {.tabset data-width=300}
 Values for this variable by school zone. Click on "Value" to sort.
 
 ```{r}
-# output$table<-renderDataTable(
-#     atlasdata[atlasdata$variable==variable(),c(1,4)],
-#   options=list(paging=FALSE,searching=FALSE)
-# )
-# 
-# dataTableOutput('table')
+
+
+
+ output$table<-renderDataTable(
+     atlasdata[atlasdata$description == variable(), c(1,8)] %>%
+       rename(Value = est),
+   options=list(paging=FALSE,searching=FALSE)
+ )
+ 
+ dataTableOutput('table')
 ```
 
 
