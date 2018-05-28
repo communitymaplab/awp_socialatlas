@@ -54,8 +54,21 @@ metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
 #   left_join(metadatashort)
 # write_csv(atlasdata,"data/AthensSocialAtlasData_2018_04_23.csv")
 
+
+##################################ADDING THE MIDDLE SCHOOL DATA#####################################
 #middle school data
-middleschool <- st_read("data/MiddleSchoolDistrictsWGS84.geojson")
+ms <- st_read("data/MiddleSchoolDistrictsWGS84.geojson")
+
+#renaming the columns so there's no issue with joining the data.
+middleschool <- ms %>% 
+  rename("Mschool" = "MS_Short")
+
+#I am going to rename "Clarke" to "Clarke Middle" so there's not issues with joining the data.
+levels(middleschool$Mschool)[levels(middleschool$Mschool) == "Clarke"] <- "Clarke Middle"
+####################################################################################################
+
+
+
 
 #First I subsetted the data based on category.
 #After that, I make sure to sorts all the variables  int that categroy in ascending order and remove duplicate fields.
@@ -82,7 +95,7 @@ transvariables <- subset(metadata, Transportation == 1)
 select_trans <- sort(unique(transvariables$description))
 
 
-#For the two issue page, I am doing the same as above for the second variable.
+#For the Middle School Data page, I am doing the same as above for the second variable.
 #safety variables
 select2_safety <- sort(unique(safetyvariables$description))
 #demographic variables
@@ -105,7 +118,7 @@ select2_trans <- sort(unique(transvariables$description))
 
 
 ```
-Single issue
+Elementary Schools
 ===================================== 
 
 Column {.sidebar}
@@ -293,9 +306,7 @@ Column {.tabset data-width=300}
 #variable_h1 sorts the variables high to low.
 #variable_lh sorts the variables low to high.
 
-#for 5/8/18 try deleting the variable names and create two reactive variables. See what happens.
 
- 
 
  datachart<-reactive({
     
@@ -368,7 +379,7 @@ Values for this variable by school zone. Click on "Value" to sort.
 
 
 
-Middle School Data
+Middle Schools
 ===================================== 
 
 Column {.sidebar}
@@ -389,4 +400,232 @@ radioButtons("group2","Choose your variable domain:",
               selected="Safety")
 
 
+ conditionalPanel(
+  condition="input.group2 =='Safety'",
+   selectInput("variable1_mid","Select your variable:",
+               choices = select_safety)
+ )
+ 
+ conditionalPanel(
+  condition="input.group2 =='Demog'",
+   selectInput("variable2_mid","Select your variable:",
+                choices = select_demo)
+ )
+ 
+ conditionalPanel(
+  condition="input.group2 =='Health'",
+   selectInput("variable3_mid","Select your variable:",
+               choices = select_health)
+ )
+ 
+ 
+ conditionalPanel(
+  condition="input.group2 =='Housing'",
+   selectInput("variable4_mid","Select your variable:",
+               choices = select_housing)
+ )
+ 
+ 
+ conditionalPanel(
+  condition="input.group2 =='Income'",
+   selectInput("variable5_mid","Select your variable:",
+               choices = select_incemploy)
+ 
+ ) 
+ 
+ conditionalPanel(
+  condition="input.group2 =='Learning'",
+   selectInput("variable6_mid","Select your variable:",
+              choices = select_edu)
+ )
+ 
+ conditionalPanel(
+  condition="input.group2 =='Transport'",
+   selectInput("variable7_mid","Select your variable:",
+               choices = select_trans)
+ )
+ 
+
+#Use the variable object to select the variable people choose
+ variable2 <-reactive({
+     if(input$group2=="Safety"){
+     input$variable1_mid
+   } else if (input$group2=="Demog") {
+     input$variable2_mid
+   } else if (input$group2=="Health") {
+     input$variable3_mid
+   } else if (input$group2=="Housing") {
+     input$variable4_mid
+   } else if (input$group2=="Income") {
+     input$variable5_mid
+   } else if (input$group2=="Learning") {
+     input$variable6_mid
+   } else if (input$group2=="Transport") {
+     input$variable7_mid }
+   })
+
+
 ```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+```{r fig.height=10}
+#Text box from the metadata file that shows what variable has been selected
+filter_metadata2<-reactive({
+     var_code<-metadata %>%
+          filter(metadata$description==variable2())
+   })
+
+ output$text2<-renderUI(
+   HTML(paste("<b>Variable name: </b>",filter_metadata2()$description,
+              "<br><b>Source: </b>",filter_metadata2()$source,"<br><br>",sep=""))
+ )
+
+ htmlOutput("text2")
+
+
+```
+
+###Click on a school zone for more information.
+```{r}
+#This will be where the map will be displayed
+filteredData_variable2 <- reactive({
+  
+  
+  
+  #filter the dataset based on input variables. The comma is used to specify rows.
+  middataset <- atlasdata[atlasdata$description == variable2(),] %>%
+    group_by(Mschool) %>%
+    summarise(mean_est = mean(est))
+  
+  #copy the data
+  middleschool_dist <- middleschool
+  
+  #subset the data
+  dist <- suppressWarnings(left_join(middleschool_dist, middataset, by = "Mschool"))
+  
+
+ })
+
+output$map2 <- renderLeaflet({
+   
+    
+  mapdata_mid <- filteredData_variable2()
+  
+  nclassint2= as.numeric(input$ngroups2)
+  
+  pal <- colorQuantile("Blues", mapdata_mid$mean_est, n = nclassint2)
+  
+  #did this in order to make the values not show up as percentages
+ 
+  
+    popup<-paste("<b>School zone: </b>", mapdata_mid$Mschool,"<br>",
+                    "<b>Variable value:</b> ", mapdata_mid$mean_est,
+                    sep="")
+  
+   leaflet(mapdata_mid) %>%
+  setView(lng = -83.3776, lat = 33.94, zoom = 11) %>%
+   addProviderTiles("CartoDB.Positron",
+                   options = providerTileOptions(noWrap = TRUE)) %>%
+   addPolygons(
+                data = mapdata_mid,
+                fillColor = ~pal(mean_est),
+                fillOpacity = .5,
+                color = "#222222",
+                weight = 1,
+                popup = popup
+               ) %>%
+    addLegend(position="bottomright",
+              pal = pal, 
+              title="Legend",
+              values = mapdata_mid$mean_est,
+              labFormat = function(type, cuts, p){
+                n = length(cuts)
+                paste0(cuts[-n], " &dash; ", cuts[-1])
+              })
+})
+
+
+
+leafletOutput("map2", height="3000px")
+
+
+```
+
+Column {.tabset data-width=300}
+-----------------------------------------------------------------------
+### Chart
+```{r}
+#This reactive variable is used to filter out the selected variable and chart it on a data chart. 
+#variable2_h1 sorts the variables high to low.
+#variable2_lh sorts the variables low to high.
+
+
+ datachart2<-reactive({
+    
+    #filtering the variable's data based on the selected category and assigning it to a new variable
+  if (input$chart_sort2 == "School"){
+     filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
+       group_by(Mschool) %>%
+       summarise(mean_est2 = mean(est))
+       
+  } else if (input$chart_sort2 == "Variable2_hl"){
+    filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
+      group_by(Mschool) %>%
+      summarise(mean_est2 = mean(est))
+    
+    filteredvar2 <- filteredvar2[order(-filteredvar2$mean_est2),]
+  } else if (input$chart_sort2 == "Variable2_lh"){
+    filteredvar2 <- atlasdata[atlasdata$description == variable2(),]
+    group_by(Mschool) %>%
+      summarise(mean_est2 = mean(est))
+    
+    filteredvar2 <- filteredvar2[order(filteredvar2$mean_est2),]
+  }
+   
+   
+  filteredvar2   
+    
+
+ })
+ 
+
+
+ output$highchart2<-renderHighchart({
+   
+   hchart(datachart2(), "bar", hcaes(x=Mschool, y=mean_est2)) %>% 
+     hc_add_theme(hc_theme_gridlight()) %>%
+     hc_colors("blue") %>%
+     hc_yAxis(title = list(text = "Variable value"))
+ })
+ 
+ fillCol(height="80%",flex=c(.08,1),
+       radioButtons("chart_sort2","Sort the chart by what criteria?",
+             c("School name"="School",
+               "Variable (high->low)"="Variable2_hl",
+               "Variable (low->high)"="Variable2_lh"),inline=TRUE),
+      # br(), br(),
+ highchartOutput('highchart2')
+ )
+
+
+
+```
+
+### Table 
+
+Values for this variable by school zone. Click on "Value" to sort.
+
+
+```{r}
+
+ output$table2<-renderDataTable(
+     atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
+       rename(Value = est),
+   options=list(paging=FALSE,searching=FALSE)
+ )
+ 
+ dataTableOutput('table2')
+
+```
+
