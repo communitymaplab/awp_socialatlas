@@ -43,8 +43,37 @@ options(shiny.error = browser)
 #   spread(var,est) 
 districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
   select(SchoolID, ES_short) 
+
+
+#####Changing the fields in the Atlas Data so these variables can work#####
+#5/29 note: I found out that the demographic category isn't showing because the description has NA values.
+#For the demographic variable
 atlasdata<-read_csv("data/AthensSocialAtlasData_2018_04_23.csv")
+atlasdata$description[atlasdata$var == "Age05.y16"] <- "Age under 5 years"
+atlasdata$description[atlasdata$var == "Age18_24.y16"] <- "Age 18-24 years"
+atlasdata$description[atlasdata$var == "AgeO65.y16"] <- "Age 65 and older"
+atlasdata$description[atlasdata$var == "AgeU18.y16"] <- "Age under 18 years"
+atlasdata$description[atlasdata$var == "Rce_AI.y16"] <- "American Indian/non-hispanic population"
+atlasdata$description[atlasdata$var == "Rce_AsnNH.y16"] <- "Asian non-hispanic population"
+atlasdata$description[atlasdata$var == "Rce_BlkNH.y16"] <- "Black non-hispanic population"
+atlasdata$description[atlasdata$var == "Rce_HPI.y16"] <- "Hawaiian/Pacific Islander population"
+atlasdata$description[atlasdata$var == "Rce_Hisp.y16"] <- "Hispanic/latinx population"
+atlasdata$description[atlasdata$var == "Rce_OthNH.y16"] <- "Other race non-hispanic"
+atlasdata$description[atlasdata$var == "Pov_Ov65.y16"] <- "Poverty over 65"
+atlasdata$description[atlasdata$var == "Pov_Und18.y16"] <- "Poverty under 18"
+atlasdata$description[atlasdata$var == "HousUnits.y16"] <- "Total housing units" #needs work
+atlasdata$description[atlasdata$var == "TotPop.y16"] <- "Total population"
+atlasdata$description[atlasdata$var == "Rce_WhtNH.y16"] <- "White non-hispanic population" #needswork
+
+
+  
 metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
+#####Changing the fields in the metadata to change an error in the demographic variables#####
+metadata$description[metadata$variable == "AgeO65"] <- "Age 65 and older"
+metadata$description[metadata$variable == "Rce_BlkNH"] <- "Black non-hispanic population"
+
+
+
 
 #Adding variable description to old data. Will delete eventually.
 # metadatashort<-metadata %>%
@@ -53,6 +82,7 @@ metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
  #atlasdata<-atlasdata %>%
 #   left_join(metadatashort)
 # write_csv(atlasdata,"data/AthensSocialAtlasData_2018_04_23.csv")
+
 
 
 ##################################ADDING THE MIDDLE SCHOOL DATA#####################################
@@ -257,7 +287,7 @@ output$map <- renderLeaflet({
   
   nclassint= as.numeric(input$ngroups)
   
-  pal <- colorQuantile("Reds", mapdata$est, n = nclassint)
+  pal <- colorBin("Reds", mapdata$est, n = nclassint)
   
   #did this in order to make the values not show up as percentages
  
@@ -573,13 +603,12 @@ Column {.tabset data-width=300}
     filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
       group_by(Mschool) %>%
       summarise(mean_est2 = mean(est))
-    
     filteredvar2 <- filteredvar2[order(-filteredvar2$mean_est2),]
-  } else if (input$chart_sort2 == "Variable2_lh"){
-    filteredvar2 <- atlasdata[atlasdata$description == variable2(),]
-    group_by(Mschool) %>%
-      summarise(mean_est2 = mean(est))
     
+  } else if (input$chart_sort2 == "Variable2_lh"){
+    filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
+      group_by(Mschool) %>%
+      summarise(mean_est2 = mean(est))
     filteredvar2 <- filteredvar2[order(filteredvar2$mean_est2),]
   }
    
@@ -619,9 +648,14 @@ Values for this variable by school zone. Click on "Value" to sort.
 
 ```{r}
 
+
  output$table2<-renderDataTable(
      atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
-       rename(Value = est),
+       group_by(Mschool) %>%
+       summarise(mean_est3 = mean(est)) %>%
+       rename(Value = mean_est3) %>%
+       rename ( School = Mschool),
+     
    options=list(paging=FALSE,searching=FALSE)
  )
  
