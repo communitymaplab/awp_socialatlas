@@ -29,6 +29,7 @@ library(ggplot2)
 #library(readxl)
 library(sf)
 library(tidyverse)
+library(dplyr)
 #library(googlesheets)
 options(shiny.error = browser)
 
@@ -117,12 +118,9 @@ atlasdata$description[atlasdata$var == "Trn_home.y16"] <- "Commute: Worked at ho
 atlasdata$description[atlasdata$var == "Trn_walk.y16"] <- "Walked to work"
 
 
-
-
-
-
-
-
+#deleting variables that are not there
+metadata %>%
+  filter(variable != "Pov_pop" & variable != "HousUnits" & variable != "HousPop")
 
 
 
@@ -358,7 +356,7 @@ output$map <- renderLeaflet({
   
   nclassint= as.numeric(input$ngroups)
   
-  pal <- colorBin("Reds", mapdata$est, n = nclassint)
+  pal <- colorBin("Reds", mapdata$est, bins = nclassint, pretty = FALSE)
   
   #did this in order to make the values not show up as percentages
  
@@ -383,12 +381,14 @@ output$map <- renderLeaflet({
               pal = pal, 
               title="Legend",
               values = mapdata$est,
-              labFormat = function(type, cuts, p){
-                n = length(cuts)
-                paste0(cuts[-n], " &dash; ", cuts[-1])
-              })
+              labFormat = labelFormat(digits = 2))
 })
 
+#Omitted this...don't think I need it.
+# labFormat = function(type, cuts, p){
+#                n = length(cuts)
+#                paste0(cuts[-n], " &dash; ", cuts[-1])
+#              }
 
 
 leafletOutput("map", height="3000px")
@@ -615,7 +615,7 @@ output$map2 <- renderLeaflet({
   
   nclassint2= as.numeric(input$ngroups2)
   
-  pal <- colorQuantile("Blues", mapdata_mid$mean_est, n = nclassint2)
+  pal <- colorBin("Blues", mapdata_mid$mean_est, bins = nclassint2, pretty = FALSE)
   
   #did this in order to make the values not show up as percentages
  
@@ -640,12 +640,14 @@ output$map2 <- renderLeaflet({
               pal = pal, 
               title="Legend",
               values = mapdata_mid$mean_est,
-              labFormat = function(type, cuts, p){
-                n = length(cuts)
-                paste0(cuts[-n], " &dash; ", cuts[-1])
-              })
+              labFormat = labelFormat(digits = 2))
 })
 
+##Omitted this...don't think I need it.
+#labFormat = function(type, cuts, p){
+#                n = length(cuts)
+#               paste0(cuts[-n], " &dash; ", cuts[-1])
+#              }
 
 
 leafletOutput("map2", height="3000px")
