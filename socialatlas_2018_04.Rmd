@@ -46,6 +46,8 @@ districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
   select(SchoolID, ES_short) 
 
 
+
+
 #####Changing the fields in the Atlas Data so these variables can work#####
 #5/29 note: I found out that the demographic category isn't showing because the description has NA values.
 #For the demographic domain
@@ -118,9 +120,8 @@ atlasdata$description[atlasdata$var == "Trn_home.y16"] <- "Commute: Worked at ho
 atlasdata$description[atlasdata$var == "Trn_walk.y16"] <- "Walked to work"
 
 
-#deleting variables that are not there
-metadata %>%
-  filter(variable != "Pov_pop" & variable != "HousUnits" & variable != "HousPop")
+
+
 
 
 
@@ -140,6 +141,10 @@ metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
 #####Changing the fields in the metadata to change an error in the demographic variables#####
 metadata$description[metadata$variable == "AgeO65"] <- "Age 65 and older"
 metadata$description[metadata$variable == "Rce_BlkNH"] <- "Black non-hispanic population"
+#removing variables in the metadata
+metadata <- metadata[!(metadata$variable == "Pov_pop"),]
+metadata <- metadata[!(metadata$variable == "HousUnits"),]
+metadata <- metadata[!(metadata$variable == "HousPop"),]
 
 
 
