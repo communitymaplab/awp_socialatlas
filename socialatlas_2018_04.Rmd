@@ -30,6 +30,8 @@ library(ggplot2)
 library(sf)
 library(tidyverse)
 library(dplyr)
+devtools::install_github("rstudio/DT")
+
 #library(googlesheets)
 options(shiny.error = browser)
 
@@ -471,14 +473,17 @@ Values for this variable by school zone. Click on "Value" to sort.
 ```{r}
 
 
-
- output$table<-renderDataTable(
-     atlasdata[atlasdata$description == variable(), c(1,8)] %>%
-       rename(Value = est),
-   options=list(paging=FALSE,searching=FALSE)
- )
- 
- dataTableOutput('table')
+DT::renderDataTable({
+  DT::datatable(atlasdata[atlasdata$description == variable(), c(1,8)], colnames = c("School", "Value"),
+                options = list(bPaginate = FALSE, dom = 't', order = list(list(2, 'asc'))))
+  
+})
+# output$table<-renderDataTable(
+#     atlasdata[atlasdata$description == variable(), c(1,8)] %>%
+#       rename(Value = est),
+#   options=list(paging=FALSE,searching=FALSE)
+# )
+#  dataTableOutput('table')
 ```
 
 
@@ -726,16 +731,26 @@ Values for this variable by school zone. Click on "Value" to sort.
 
 ```{r}
 
+DT::renderDataTable({
+  midschooldata <- atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
+    group_by(Mschool) %>%
+    summarise(mean_est3 = mean(est))
+  
+  DT::datatable(midschooldata, colnames = c("School", "Value"),
+                options = list(bPaginate = FALSE, dom = 't', order = list(list(2, 'asc'))))
+  
+})
 
- output$table2<-renderDataTable(
-     atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
-       group_by(Mschool) %>%
-       summarise(mean_est3 = mean(est)) %>%
-       rename(Value = mean_est3) %>%
-       rename ( School = Mschool),
-     
-   options=list(paging=FALSE,searching=FALSE)
- )
+
+# output$table2<-renderDataTable(
+#     atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
+#       group_by(Mschool) %>%
+#       summarise(mean_est3 = mean(est)) %>%
+#       rename(Value = mean_est3) %>%
+#       rename ( School = Mschool),
+#     
+#   options=list(paging=FALSE,searching=FALSE)
+# )
  
  dataTableOutput('table2')
 
