@@ -366,9 +366,13 @@ output$map <- renderLeaflet({
   
   #did this in order to make the values not show up as percentages
  
+  #Change -99 to NA in the popup
+  mapdata<-mapdata %>%
+    mutate(moe_disp=if_else(moe==-99,"NA",as.character(moe)))
   
     popup<-paste("<b>School zone: </b>", mapdata$School,"<br>",
-                    "<b>Variable value:</b> ", mapdata$est,
+                    "<b>Variable value:</b> ", mapdata$est,"<br>",
+                 "<b>Margin of error: </b>",mapdata$moe_disp,
                     sep="")
   
    leaflet(mapdata) %>%
@@ -419,8 +423,10 @@ Column {.tabset data-width=300}
     
     #filtering the variable's data based on the selected category and assigning it to a new variable
   if (input$chart_sort1 == "School"){
-     filteredvar <- atlasdata[atlasdata$description == variable(),]
-   
+#     filteredvar <- atlasdata[atlasdata$description == variable(),]
+      filteredvar<-atlasdata %>%
+        filter(description==variable())
+       
   } else if (input$chart_sort1 == "Variable_hl"){
     filteredvar <- atlasdata[atlasdata$description == variable(),]
     filteredvar <- filteredvar[order(-filteredvar$est),]
@@ -473,21 +479,26 @@ Values for this variable by school zone. Click on "Value" to sort.
 
 
 #That callback function allows the automatic row numbers to be renumbered to 1.
-
 DT::renderDataTable({
-  DT::datatable(atlasdata[atlasdata$description == variable(), c(1,8)], 
+  atlas_filter<-atlasdata %>%
+  filter(description==variable()) %>%
+  select(School,est) %>%
+    rename("% estimate"=est)
+
+  DT::datatable(
+                atlas_filter,
                 options = list(bPaginate = FALSE, dom = 't', order = list(list(2, 'asc'))),
                 callback=JS("table.on( 'order.dt search.dt', function () {
                                 table.column(0, {search:'applied', order:'applied'}).nodes().each( function (cell, i) {
                                       cell.innerHTML = i+1;});}).draw();")
-                ) 
+                )
   })
-# output$table<-renderDataTable(
-#     atlasdata[atlasdata$description == variable(), c(1,8)] %>%
-#       rename(Value = est),
-#   options=list(paging=FALSE,searching=FALSE)
-# )
-#  dataTableOutput('table')
+output$table<-renderDataTable(
+    atlasdata[atlasdata$description == variable(), c(1,8)] %>%
+      rename(Value = est),
+  options=list(paging=FALSE,searching=FALSE)
+)
+ dataTableOutput('table')
 ```
 
 
