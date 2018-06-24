@@ -35,192 +35,11 @@ devtools::install_github("rstudio/DT")
 #library(googlesheets)
 options(shiny.error = browser)
 
-#atlasgoogle<-gs_url("https://docs.google.com/spreadsheets/d/1ACdNruOZAI7jlzJ3RR49S788jtK1_1qSGWBXSumuLLg/edit?usp=sharing")
-#atlasdata_wide<-gs_read(sheet,ws="Data")
-#metadata<-gs_read(sheet,ws="Metadata")
-#atlasdata<-melt(atlasdata_wide,id.vars=c("School","SchoolID"))
+#this will load the helpers file. This helpers file contains the code which loads the shapefiles/geojsons for the 
+#elementary and middle school districts, formats the data, and joins the data. This file was made in order to reduce
+#the amount of code in this file.
 
-
-# atlasdata_wide<-atlasdata %>% 
-#   select(-moe) %>%
-#   spread(var,est) 
-districts<-st_read("app_old/ElementarySchoolDistricts_data.shp") %>%
-  select(SchoolID, ES_short) 
-
-
-
-
-#####Changing the fields in the Atlas Data so these variables can work#####
-#5/29 note: I found out that the demographic category isn't showing because the description has NA values.
-#For the demographic domain
-atlasdata<-read_csv("data/AthensSocialAtlasData_2018_04_23.csv")
-atlasdata$description[atlasdata$var == "Age05.y16"] <- "Age under 5 years"
-atlasdata$description[atlasdata$var == "Age18_24.y16"] <- "Age 18-24 years"
-atlasdata$description[atlasdata$var == "AgeO65.y16"] <- "Age 65 and older"
-atlasdata$description[atlasdata$var == "AgeU18.y16"] <- "Age under 18 years"
-atlasdata$description[atlasdata$var == "Rce_AI.y16"] <- "American Indian/non-hispanic population"
-atlasdata$description[atlasdata$var == "Rce_AsnNH.y16"] <- "Asian non-hispanic population"
-atlasdata$description[atlasdata$var == "Rce_BlkNH.y16"] <- "Black non-hispanic population"
-atlasdata$description[atlasdata$var == "Rce_HPI.y16"] <- "Hawaiian/Pacific Islander population"
-atlasdata$description[atlasdata$var == "Rce_Hisp.y16"] <- "Hispanic/latinx population"
-atlasdata$description[atlasdata$var == "Rce_OthNH.y16"] <- "Other race non-hispanic"
-atlasdata$description[atlasdata$var == "Pov_Ov65.y16"] <- "Poverty over 65"
-atlasdata$description[atlasdata$var == "Pov_Und18.y16"] <- "Poverty under 18"
-atlasdata$description[atlasdata$var == "HousUnits.y16"] <- "Total housing units" #needs work
-atlasdata$description[atlasdata$var == "TotPop.y16"] <- "Total population"
-atlasdata$description[atlasdata$var == "Rce_WhtNH.y16"] <- "White non-hispanic population" 
-#For the Healthy People & Environments domain
-atlasdata$description[atlasdata$var == "HInsur_FBNat.y16"] <- "Has health insurance foreign born and naturalized"
-atlasdata$description[atlasdata$var == "HInsur_FBNC.y16"] <- "Has health insurance foreign born non-citizen"
-atlasdata$description[atlasdata$var == "HInsur_Nat.y16"] <- "Has health insurance native born"
-#For the Housing domain
-atlasdata$description[atlasdata$var == "Rent30.y16"] <- "Population whose gross rent is >30% of income"
-atlasdata$description[atlasdata$var == "HousOwn.y16"] <- "Total population in owner occupied housing"
-atlasdata$description[atlasdata$var == "HousRent.y16"] <- "Total population in renter occupied housing"
-#Income & Employment
-atlasdata$description[atlasdata$var == "Inc10K_24K.y16"] <- "Houshold income $10,000 - $24,999"
-atlasdata$description[atlasdata$var == "Inc100K_149K.y16"] <- "Houshold income $100,000 - $149,999"
-atlasdata$description[atlasdata$var == "Inc150K_199K.y16"] <- "Houshold income $150,000 - $199,999"
-atlasdata$description[atlasdata$var == "Inc25K_49K.y16"] <- "Houshold income $25,000 - $49,999"
-atlasdata$description[atlasdata$var == "Inc50K_74K.y16"] <- "Houshold income $50,000 - $74,999"
-atlasdata$description[atlasdata$var == "Inc75K_99K.y16"] <- "Houshold income $75,000 - $99,999"
-atlasdata$description[atlasdata$var == "Inc_10K.y16"] <-"Houshold income < $10,000"
-atlasdata$description[atlasdata$var == "Inc_200K.y16"] <- "Houshold income > $200,000"
-atlasdata$description[atlasdata$var == "Ind_arts.y16"] <- "Population employed in arts, entertainment, and recreation"
-atlasdata$description[atlasdata$var == "Ind_const.y16"] <- "Population employed in construction"
-atlasdata$description[atlasdata$var == "Ind_edhlth.y16"] <- "Population employed in educational services, health care, or social assistance"
-atlasdata$description[atlasdata$var == "Ind_finan.y16"] <- "Population employed in finance, insurance, and real estate"
-atlasdata$description[atlasdata$var == "Ind_info.y16"] <- "Population employed in information"
-atlasdata$description[atlasdata$var == "Ind_manf.y16"] <- "Population employed in manufacturing"
-atlasdata$description[atlasdata$var == "Ind_other.y16"] <- "Population employed in other services"
-atlasdata$description[atlasdata$var == "Ind_prof.y16"] <- "Population employed in professional, scientific and management, administration, or waste services" 
-atlasdata$description[atlasdata$var == "Ind_pubad.y16"] <- "Population employed in public administration"
-atlasdata$description[atlasdata$var == "Ind_retail.y16"] <- "Population employed in retail"
-atlasdata$description[atlasdata$var == "Ind_trans.y16"] <- "Population employed in transportation, warehousing, and utilites" 
-atlasdata$description[atlasdata$var == "Ind_whlsl.y16"] <- "Population employed in wholesale trade"
-atlasdata$description[atlasdata$var == "Ind_ag.y16"] <- "Total population for ag forestry fishing and hunting"
-atlasdata$description[atlasdata$var == "Empl_unemp.y16"] <- "Total population unemployed"
-
-#Lifelong learning variables
-atlasdata$description[atlasdata$var == "Ed_ba.y16"] <- "Bachelor's degree"
-atlasdata$description[atlasdata$var == "Ed_hsgrad.y16"] <- "High school diploma or GED"
-atlasdata$description[atlasdata$var == "Ed_lesshs.y16"] <- "Less than high school graduate"
-atlasdata$description[atlasdata$var == "Ed_ma.y16"] <- "MA degree"
-atlasdata$description[atlasdata$var == "Ed_prof_doc.y16"] <- "Professional/doctorate degree"
-atlasdata$description[atlasdata$var == "Ed_somecol.y16"] <- "Some college or Associate's Degree"
-atlasdata$description[atlasdata$var == "Sch_Kpre.y16"] <- "Total enrolled in nursery school & kindergarten"
-atlasdata$description[atlasdata$var == "Sch_grad.y16"] <- "Total in grad school"
-atlasdata$description[atlasdata$var == "Sch_ugrad.y16"] <- "Total in undergraduate"
-
-#transportation variables
-atlasdata$description[atlasdata$var == "Trn_carpool.y16"] <- "Commute: carpooled in car"
-atlasdata$description[atlasdata$var == "Trn_noveh.y16"] <- "Commute: no available vehicle"
-atlasdata$description[atlasdata$var == "Trn_taxi.y16"] <- "Commute: other--taxi, motorcycle, or bicycle"
-atlasdata$description[atlasdata$var == "Trn_car.y16"] <- "Commute: used car, truck, or van alone"
-atlasdata$description[atlasdata$var == "Trn_pub.y16"] <- "Commute: used public transit"
-atlasdata$description[atlasdata$var == "Trn_home.y16"] <- "Commute: Worked at home"
-atlasdata$description[atlasdata$var == "Trn_walk.y16"] <- "Walked to work"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-metadata<-read_csv("data/AthensSocialAtlasData_metadata_2018_02_05.csv")
-#####Changing the fields in the metadata to change an error in the demographic variables#####
-metadata$description[metadata$variable == "AgeO65"] <- "Age 65 and older"
-metadata$description[metadata$variable == "Rce_BlkNH"] <- "Black non-hispanic population"
-#removing variables in the metadata
-metadata <- metadata[!(metadata$variable == "Pov_pop"),]
-metadata <- metadata[!(metadata$variable == "HousUnits"),]
-metadata <- metadata[!(metadata$variable == "HousPop"),]
-
-
-
-
-#Adding variable description to old data. Will delete eventually.
-# metadatashort<-metadata %>%
-#   select(variable,description) %>%
- #  rename("var"= "variable")
- #atlasdata<-atlasdata %>%
-#   left_join(metadatashort)
-# write_csv(atlasdata,"data/AthensSocialAtlasData_2018_04_23.csv")
-
-
-
-##################################ADDING THE MIDDLE SCHOOL DATA#####################################
-#middle school data
-ms <- st_read("data/MiddleSchoolDistrictsWGS84.geojson")
-
-#renaming the columns so there's no issue with joining the data.
-middleschool <- ms %>% 
-  rename("Mschool" = "MS_Short")
-
-#I am going to rename "Clarke" to "Clarke Middle" so there's not issues with joining the data.
-levels(middleschool$Mschool)[levels(middleschool$Mschool) == "Clarke"] <- "Clarke Middle"
-####################################################################################################
-
-
-
-
-#First I subsetted the data based on category.
-#After that, I make sure to sorts all the variables  int that categroy in ascending order and remove duplicate fields.
-#safety variables
-safetyvariables <-subset(metadata, Community_safety == 1)
-select_safety <- sort(unique(safetyvariables$description))
-#demographic variables
-demovariables <-subset(metadata, Demographics == 1)
-select_demo <- sort(unique(demovariables$description))
-#health variables
-healthvariables <-subset(metadata, Health == 1)
-select_health <- sort(unique(healthvariables$description))
-#housing variables
-housingvariables <-subset(metadata, Housing == 1)
-select_housing <- sort(unique(housingvariables$description))
-#income and employment variables
-incemployvariables <-subset(metadata, Income_employment == 1)
-select_incemploy <- sort(unique(incemployvariables$description))
-#education variables
-eduvariables <- subset(metadata, Education == 1)
-select_edu <- sort(unique(eduvariables$description))
-#transportation variables
-transvariables <- subset(metadata, Transportation == 1)
-select_trans <- sort(unique(transvariables$description))
-
-
-#For the Middle School Data page, I am doing the same as above for the second variable.
-#safety variables
-select2_safety <- sort(unique(safetyvariables$description))
-#demographic variables
-select2_demo <- sort(unique(demovariables$description))
-#health variables
-select2_health <- sort(unique(healthvariables$description))
-#housing variables
-select2_housing <- sort(unique(housingvariables$description))
-#income and employment variables
-select2_incemploy <- sort(unique(incemployvariables$description))
-#education variables
-select2_edu <- sort(unique(eduvariables$description))
-#transportation variables
-select2_trans <- sort(unique(transvariables$description))
-
-
-
-
-
-
+source("helpers.R")
 
 ```
 Elementary Schools
@@ -232,6 +51,9 @@ Column {.sidebar}
 ####Variable selection
 
 ```{r}
+#This section creates the menu options for the app. In this section, you can classify the school zones in a 
+#selected number of groups along with selecting variables within a particular domain. The selected variable will be 
+#mapped on a leaflet map along with being displayed in a bar chart and a data table.
 radioButtons("ngroups","Classify school zones into how many equally sized groups?",c(3, 4,5,6),selected=4)
 
  radioButtons("group","Choose your variable domain:",
@@ -293,7 +115,8 @@ radioButtons("ngroups","Classify school zones into how many equally sized groups
  )
  
 
-#Use the variable object to select the variable people choose
+#Use the variable object to select the variable people choose. When the domain is chosen, the appropriate variables will
+#be loaded. 
  variable<-reactive({
      if(input$group=="Safety"){
      input$variable1
@@ -316,9 +139,7 @@ radioButtons("ngroups","Classify school zones into how many equally sized groups
 Column {data-width=450}
 -----------------------------------------------------------------------
 ```{r fig.height=10}
-#Text box from the metadata file that shows what variable has been selected
-
-
+#Text box from the metadata file that shows what variable has been selected.
  filter_metadata<-reactive({
      var_code<-metadata %>%
           filter(metadata$description==variable())
@@ -335,11 +156,8 @@ Column {data-width=450}
 ###Click on a school zone for more information.
 
 ```{r}
- 
+#This reactive variable will be used to filter the data.
 filteredData_variable <- reactive({
-  
-  
-  
   #filter the dataset based on input variables. The comma is used to specify rows.
   adataset <- atlasdata[atlasdata$description == variable(),]
   
@@ -349,12 +167,9 @@ filteredData_variable <- reactive({
   #subset the data
   dist <- suppressWarnings(left_join(dist, adataset, by = "SchoolID"))
   
-  #dist
  })
 
-##test
-#filter1 <- atlasdata[atlasdata$description == "Has health insurance foreign born and naturalized",]
-
+#This code is responsible for creating the leaflet map which will display the data. 
 output$map <- renderLeaflet({
    
     
@@ -364,9 +179,7 @@ output$map <- renderLeaflet({
   
   pal <- colorBin("Reds", mapdata$est, bins = nclassint, pretty = FALSE)
   
-  #did this in order to make the values not show up as percentages
- 
-  #Change -99 to NA in the popup
+#This changes -99 to NA in the popup
   mapdata<-mapdata %>%
     mutate(moe_disp=if_else(moe==-99,"NA",as.character(moe)))
   
@@ -394,12 +207,6 @@ output$map <- renderLeaflet({
               labFormat = labelFormat(digits = 2))
 })
 
-#Omitted this...don't think I need it.
-# labFormat = function(type, cuts, p){
-#                n = length(cuts)
-#                paste0(cuts[-n], " &dash; ", cuts[-1])
-#              }
-
 
 leafletOutput("map", height="3000px")
                   
@@ -411,22 +218,17 @@ Column {.tabset data-width=300}
 ### Chart
 
 ```{r}
-
+#This section is responsible for generating the bar chart for the selected variable.
 
 #This reactive variable is used to filter out the selected variable and chart it on a data chart. 
 #variable_h1 sorts the variables high to low.
 #variable_lh sorts the variables low to high.
-
-
-
  datachart<-reactive({
     
-    #filtering the variable's data based on the selected category and assigning it to a new variable
+#filtering the variable's data based on the selected category and assigning it to a new variable
   if (input$chart_sort1 == "School"){
-#     filteredvar <- atlasdata[atlasdata$description == variable(),]
       filteredvar<-atlasdata %>%
         filter(description==variable())
-       
   } else if (input$chart_sort1 == "Variable_hl"){
     filteredvar <- atlasdata[atlasdata$description == variable(),]
     filteredvar <- filteredvar[order(-filteredvar$est),]
@@ -442,16 +244,9 @@ Column {.tabset data-width=300}
  })
  
 
-###testing highchart###
-#filter1 <- atlasdata[atlasdata$description == "Mean Home Value",]
 
-#filter1 <- atlasdata[order(-atlasdata$est)]
-
-#hchart(filter1, "bar", hcaes(x = filter1$School, y = filter1$est))
-#######
  output$highchart<-renderHighchart({
    
-   #chartvar = datachart()
 
    hchart(datachart(), "bar", hcaes(x=School, y=est)) %>% 
      hc_add_theme(hc_theme_gridlight()) %>%
@@ -464,7 +259,6 @@ Column {.tabset data-width=300}
              c("School name"="School",
                "Variable (high->low)"="Variable_hl",
                "Variable (low->high)"="Variable_lh"),inline=TRUE),
-      # br(), br(),
  highchartOutput('highchart')
  )
 
@@ -476,7 +270,7 @@ Column {.tabset data-width=300}
 Values for this variable by school zone. Click on "Value" to sort.
 
 ```{r}
-
+#This code is responsible for creating the data table for the selected variable.
 
 #That callback function allows the automatic row numbers to be renumbered to 1.
 DT::renderDataTable({
@@ -502,273 +296,274 @@ output$table<-renderDataTable(
 ```
 
 
+<!-- This has been commented out because the data for the middle schools are currently not ready. This code is going to 
+have to be changed once that data is formatted and ready to insert into the app. ---!> 
+
+
+<!-- Middle Schools -->
+<!-- =====================================  -->
+
+<!-- Column {.sidebar} -->
+<!-- ----------------------------------------------------------------------- -->
+
+<!-- ####Variable selection -->
+<!-- ```{r} -->
+<!-- radioButtons("ngroups2","Classify school zones into how many equally sized groups?",c(3, 4,5,6),selected=4) -->
+
+<!-- radioButtons("group2","Choose your variable domain:", -->
+<!--               c("Community Safety"="Safety", -->
+<!--                 "Demographics"="Demog", -->
+<!--                 "Healthy People & Environments"="Health", -->
+<!--                 "Housing"="Housing", -->
+<!--                 "Income & Employment" = "Income", -->
+<!--                 "Lifelong Learning" = "Learning", -->
+<!--                 "Transportation" = "Transport"), -->
+<!--               selected="Safety") -->
+
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Safety'", -->
+<!--    selectInput("variable1_mid","Select your variable:", -->
+<!--                choices = select_safety) -->
+<!--  ) -->
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Demog'", -->
+<!--    selectInput("variable2_mid","Select your variable:", -->
+<!--                 choices = select_demo) -->
+<!--  ) -->
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Health'", -->
+<!--    selectInput("variable3_mid","Select your variable:", -->
+<!--                choices = select_health) -->
+<!--  ) -->
+
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Housing'", -->
+<!--    selectInput("variable4_mid","Select your variable:", -->
+<!--                choices = select_housing) -->
+<!--  ) -->
+
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Income'", -->
+<!--    selectInput("variable5_mid","Select your variable:", -->
+<!--                choices = select_incemploy) -->
+
+<!--  )  -->
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Learning'", -->
+<!--    selectInput("variable6_mid","Select your variable:", -->
+<!--               choices = select_edu) -->
+<!--  ) -->
+
+<!--  conditionalPanel( -->
+<!--   condition="input.group2 =='Transport'", -->
+<!--    selectInput("variable7_mid","Select your variable:", -->
+<!--                choices = select_trans) -->
+<!--  ) -->
+
+
+<!-- #Use the variable object to select the variable people choose -->
+<!--  variable2 <-reactive({ -->
+<!--      if(input$group2=="Safety"){ -->
+<!--      input$variable1_mid -->
+<!--    } else if (input$group2=="Demog") { -->
+<!--      input$variable2_mid -->
+<!--    } else if (input$group2=="Health") { -->
+<!--      input$variable3_mid -->
+<!--    } else if (input$group2=="Housing") { -->
+<!--      input$variable4_mid -->
+<!--    } else if (input$group2=="Income") { -->
+<!--      input$variable5_mid -->
+<!--    } else if (input$group2=="Learning") { -->
+<!--      input$variable6_mid -->
+<!--    } else if (input$group2=="Transport") { -->
+<!--      input$variable7_mid } -->
+<!--    }) -->
+
+
+<!-- ``` -->
+
+<!-- Column {data-width=450} -->
+<!-- ----------------------------------------------------------------------- -->
+<!-- ```{r fig.height=10} -->
+<!-- #Text box from the metadata file that shows what variable has been selected -->
+<!-- filter_metadata2<-reactive({ -->
+<!--      var_code<-metadata %>% -->
+<!--           filter(metadata$description==variable2()) -->
+<!--    }) -->
+
+<!--  output$text2<-renderUI( -->
+<!--    HTML(paste("<b>Variable name: </b>",filter_metadata2()$description, -->
+<!--               "<br><b>Source: </b>",filter_metadata2()$source,"<br><br>",sep="")) -->
+<!--  ) -->
+
+<!--  htmlOutput("text2") -->
+
+
+<!-- ``` -->
+
+<!-- ###Click on a school zone for more information. -->
+<!-- ```{r} -->
+<!-- #This will be where the map will be displayed -->
+<!-- filteredData_variable2 <- reactive({ -->
 
 
 
-Middle Schools
-===================================== 
+<!--   #filter the dataset based on input variables. The comma is used to specify rows. -->
+<!--   middataset <- atlasdata[atlasdata$description == variable2(),] %>% -->
+<!--     group_by(Mschool) %>% -->
+<!--     summarise(mean_est = mean(est)) -->
 
-Column {.sidebar}
------------------------------------------------------------------------
+<!--   #copy the data -->
+<!--   middleschool_dist <- middleschool -->
 
-####Variable selection
-```{r}
-radioButtons("ngroups2","Classify school zones into how many equally sized groups?",c(3, 4,5,6),selected=4)
-
-radioButtons("group2","Choose your variable domain:",
-              c("Community Safety"="Safety",
-                "Demographics"="Demog",
-                "Healthy People & Environments"="Health",
-                "Housing"="Housing",
-                "Income & Employment" = "Income",
-                "Lifelong Learning" = "Learning",
-                "Transportation" = "Transport"),
-              selected="Safety")
+<!--   #subset the data -->
+<!--   dist <- suppressWarnings(left_join(middleschool_dist, middataset, by = "Mschool")) -->
 
 
- conditionalPanel(
-  condition="input.group2 =='Safety'",
-   selectInput("variable1_mid","Select your variable:",
-               choices = select_safety)
- )
- 
- conditionalPanel(
-  condition="input.group2 =='Demog'",
-   selectInput("variable2_mid","Select your variable:",
-                choices = select_demo)
- )
- 
- conditionalPanel(
-  condition="input.group2 =='Health'",
-   selectInput("variable3_mid","Select your variable:",
-               choices = select_health)
- )
- 
- 
- conditionalPanel(
-  condition="input.group2 =='Housing'",
-   selectInput("variable4_mid","Select your variable:",
-               choices = select_housing)
- )
- 
- 
- conditionalPanel(
-  condition="input.group2 =='Income'",
-   selectInput("variable5_mid","Select your variable:",
-               choices = select_incemploy)
- 
- ) 
- 
- conditionalPanel(
-  condition="input.group2 =='Learning'",
-   selectInput("variable6_mid","Select your variable:",
-              choices = select_edu)
- )
- 
- conditionalPanel(
-  condition="input.group2 =='Transport'",
-   selectInput("variable7_mid","Select your variable:",
-               choices = select_trans)
- )
- 
+<!--  }) -->
 
-#Use the variable object to select the variable people choose
- variable2 <-reactive({
-     if(input$group2=="Safety"){
-     input$variable1_mid
-   } else if (input$group2=="Demog") {
-     input$variable2_mid
-   } else if (input$group2=="Health") {
-     input$variable3_mid
-   } else if (input$group2=="Housing") {
-     input$variable4_mid
-   } else if (input$group2=="Income") {
-     input$variable5_mid
-   } else if (input$group2=="Learning") {
-     input$variable6_mid
-   } else if (input$group2=="Transport") {
-     input$variable7_mid }
-   })
+<!-- output$map2 <- renderLeaflet({ -->
 
 
-```
+<!--   mapdata_mid <- filteredData_variable2() -->
 
-Column {data-width=450}
------------------------------------------------------------------------
-```{r fig.height=10}
-#Text box from the metadata file that shows what variable has been selected
-filter_metadata2<-reactive({
-     var_code<-metadata %>%
-          filter(metadata$description==variable2())
-   })
+<!--   nclassint2= as.numeric(input$ngroups2) -->
 
- output$text2<-renderUI(
-   HTML(paste("<b>Variable name: </b>",filter_metadata2()$description,
-              "<br><b>Source: </b>",filter_metadata2()$source,"<br><br>",sep=""))
- )
+<!--   pal <- colorBin("Blues", mapdata_mid$mean_est, bins = nclassint2, pretty = FALSE) -->
 
- htmlOutput("text2")
+<!--   #did this in order to make the values not show up as percentages -->
 
 
-```
+<!--     popup<-paste("<b>School zone: </b>", mapdata_mid$Mschool,"<br>", -->
+<!--                     "<b>Variable value:</b> ", mapdata_mid$mean_est, -->
+<!--                     sep="") -->
 
-###Click on a school zone for more information.
-```{r}
-#This will be where the map will be displayed
-filteredData_variable2 <- reactive({
-  
-  
-  
-  #filter the dataset based on input variables. The comma is used to specify rows.
-  middataset <- atlasdata[atlasdata$description == variable2(),] %>%
-    group_by(Mschool) %>%
-    summarise(mean_est = mean(est))
-  
-  #copy the data
-  middleschool_dist <- middleschool
-  
-  #subset the data
-  dist <- suppressWarnings(left_join(middleschool_dist, middataset, by = "Mschool"))
-  
+<!--    leaflet(mapdata_mid) %>% -->
+<!--   setView(lng = -83.3776, lat = 33.94, zoom = 11) %>% -->
+<!--    addProviderTiles("CartoDB.Positron", -->
+<!--                    options = providerTileOptions(noWrap = TRUE)) %>% -->
+<!--    addPolygons( -->
+<!--                 data = mapdata_mid, -->
+<!--                 fillColor = ~pal(mean_est), -->
+<!--                 fillOpacity = .5, -->
+<!--                 color = "#222222", -->
+<!--                 weight = 1, -->
+<!--                 popup = popup -->
+<!--                ) %>% -->
+<!--     addLegend(position="bottomright", -->
+<!--               pal = pal,  -->
+<!--               title="Legend", -->
+<!--               values = mapdata_mid$mean_est, -->
+<!--               labFormat = labelFormat(digits = 2)) -->
+<!-- }) -->
 
- })
-
-output$map2 <- renderLeaflet({
-   
-    
-  mapdata_mid <- filteredData_variable2()
-  
-  nclassint2= as.numeric(input$ngroups2)
-  
-  pal <- colorBin("Blues", mapdata_mid$mean_est, bins = nclassint2, pretty = FALSE)
-  
-  #did this in order to make the values not show up as percentages
- 
-  
-    popup<-paste("<b>School zone: </b>", mapdata_mid$Mschool,"<br>",
-                    "<b>Variable value:</b> ", mapdata_mid$mean_est,
-                    sep="")
-  
-   leaflet(mapdata_mid) %>%
-  setView(lng = -83.3776, lat = 33.94, zoom = 11) %>%
-   addProviderTiles("CartoDB.Positron",
-                   options = providerTileOptions(noWrap = TRUE)) %>%
-   addPolygons(
-                data = mapdata_mid,
-                fillColor = ~pal(mean_est),
-                fillOpacity = .5,
-                color = "#222222",
-                weight = 1,
-                popup = popup
-               ) %>%
-    addLegend(position="bottomright",
-              pal = pal, 
-              title="Legend",
-              values = mapdata_mid$mean_est,
-              labFormat = labelFormat(digits = 2))
-})
-
-##Omitted this...don't think I need it.
-#labFormat = function(type, cuts, p){
-#                n = length(cuts)
-#               paste0(cuts[-n], " &dash; ", cuts[-1])
-#              }
+<!-- ##Omitted this...don't think I need it. -->
+<!-- #labFormat = function(type, cuts, p){ -->
+<!-- #                n = length(cuts) -->
+<!-- #               paste0(cuts[-n], " &dash; ", cuts[-1]) -->
+<!-- #              } -->
 
 
-leafletOutput("map2", height="3000px")
+<!-- leafletOutput("map2", height="3000px") -->
 
 
-```
+<!-- ``` -->
 
-Column {.tabset data-width=300}
------------------------------------------------------------------------
-### Chart
-```{r}
-#This reactive variable is used to filter out the selected variable and chart it on a data chart. 
-#variable2_h1 sorts the variables high to low.
-#variable2_lh sorts the variables low to high.
-
-
- datachart2<-reactive({
-    
-    #filtering the variable's data based on the selected category and assigning it to a new variable
-  if (input$chart_sort2 == "School"){
-     filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
-       group_by(Mschool) %>%
-       summarise(mean_est2 = mean(est))
-       
-  } else if (input$chart_sort2 == "Variable2_hl"){
-    filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
-      group_by(Mschool) %>%
-      summarise(mean_est2 = mean(est))
-    filteredvar2 <- filteredvar2[order(-filteredvar2$mean_est2),]
-    
-  } else if (input$chart_sort2 == "Variable2_lh"){
-    filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>%
-      group_by(Mschool) %>%
-      summarise(mean_est2 = mean(est))
-    filteredvar2 <- filteredvar2[order(filteredvar2$mean_est2),]
-  }
-   
-   
-  filteredvar2   
-    
-
- })
- 
+<!-- Column {.tabset data-width=300} -->
+<!-- ----------------------------------------------------------------------- -->
+<!-- ### Chart -->
+<!-- ```{r} -->
+<!-- #This reactive variable is used to filter out the selected variable and chart it on a data chart.  -->
+<!-- #variable2_h1 sorts the variables high to low. -->
+<!-- #variable2_lh sorts the variables low to high. -->
 
 
- output$highchart2<-renderHighchart({
-   
-   hchart(datachart2(), "bar", hcaes(x=Mschool, y=mean_est2)) %>% 
-     hc_add_theme(hc_theme_gridlight()) %>%
-     hc_colors("blue") %>%
-     hc_yAxis(title = list(text = "Variable value"))
- })
- 
- fillCol(height="80%",flex=c(.08,1),
-       radioButtons("chart_sort2","Sort the chart by what criteria?",
-             c("School name"="School",
-               "Variable (high->low)"="Variable2_hl",
-               "Variable (low->high)"="Variable2_lh"),inline=TRUE),
-      # br(), br(),
- highchartOutput('highchart2')
- )
+<!--  datachart2<-reactive({ -->
+
+<!--     #filtering the variable's data based on the selected category and assigning it to a new variable -->
+<!--   if (input$chart_sort2 == "School"){ -->
+<!--      filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>% -->
+<!--        group_by(Mschool) %>% -->
+<!--        summarise(mean_est2 = mean(est)) -->
+
+<!--   } else if (input$chart_sort2 == "Variable2_hl"){ -->
+<!--     filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>% -->
+<!--       group_by(Mschool) %>% -->
+<!--       summarise(mean_est2 = mean(est)) -->
+<!--     filteredvar2 <- filteredvar2[order(-filteredvar2$mean_est2),] -->
+
+<!--   } else if (input$chart_sort2 == "Variable2_lh"){ -->
+<!--     filteredvar2 <- atlasdata[atlasdata$description == variable2(),] %>% -->
+<!--       group_by(Mschool) %>% -->
+<!--       summarise(mean_est2 = mean(est)) -->
+<!--     filteredvar2 <- filteredvar2[order(filteredvar2$mean_est2),] -->
+<!--   } -->
+
+
+<!--   filteredvar2    -->
+
+
+<!--  }) -->
 
 
 
-```
+<!--  output$highchart2<-renderHighchart({ -->
 
-### Table 
+<!--    hchart(datachart2(), "bar", hcaes(x=Mschool, y=mean_est2)) %>%  -->
+<!--      hc_add_theme(hc_theme_gridlight()) %>% -->
+<!--      hc_colors("blue") %>% -->
+<!--      hc_yAxis(title = list(text = "Variable value")) -->
+<!--  }) -->
 
-Values for this variable by school zone. Click on "Value" to sort.
-
-
-```{r}
-
-DT::renderDataTable({
-  midschooldata <- atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
-    group_by(Mschool) %>%
-    summarise(mean_est3 = mean(est))
-  
-  DT::datatable(midschooldata, colnames = c("School", "Value"),
-                options = list(bPaginate = FALSE, dom = 't', order = list(list(1, 'asc'), list(2, 'asc')))
-                )
-  
-})
+<!--  fillCol(height="80%",flex=c(.08,1), -->
+<!--        radioButtons("chart_sort2","Sort the chart by what criteria?", -->
+<!--              c("School name"="School", -->
+<!--                "Variable (high->low)"="Variable2_hl", -->
+<!--                "Variable (low->high)"="Variable2_lh"),inline=TRUE), -->
+<!--       # br(), br(), -->
+<!--  highchartOutput('highchart2') -->
+<!--  ) -->
 
 
-# output$table2<-renderDataTable(
-#     atlasdata[atlasdata$description == variable2(), c(3,8)] %>%
-#       group_by(Mschool) %>%
-#       summarise(mean_est3 = mean(est)) %>%
-#       rename(Value = mean_est3) %>%
-#       rename ( School = Mschool),
-#     
-#   options=list(paging=FALSE,searching=FALSE)
-# )
- 
- dataTableOutput('table2')
 
-```
+<!-- ``` -->
+
+<!-- ### Table  -->
+
+<!-- Values for this variable by school zone. Click on "Value" to sort. -->
+
+
+<!-- ```{r} -->
+
+<!-- DT::renderDataTable({ -->
+<!--   midschooldata <- atlasdata[atlasdata$description == variable2(), c(3,8)] %>% -->
+<!--     group_by(Mschool) %>% -->
+<!--     summarise(mean_est3 = mean(est)) -->
+
+<!--   DT::datatable(midschooldata, colnames = c("School", "Value"), -->
+<!--                 options = list(bPaginate = FALSE, dom = 't', order = list(list(1, 'asc'), list(2, 'asc'))) -->
+<!--                 ) -->
+
+<!-- }) -->
+
+
+<!-- # output$table2<-renderDataTable( -->
+<!-- #     atlasdata[atlasdata$description == variable2(), c(3,8)] %>% -->
+<!-- #       group_by(Mschool) %>% -->
+<!-- #       summarise(mean_est3 = mean(est)) %>% -->
+<!-- #       rename(Value = mean_est3) %>% -->
+<!-- #       rename ( School = Mschool), -->
+<!-- #      -->
+<!-- #   options=list(paging=FALSE,searching=FALSE) -->
+<!-- # ) -->
+
+<!--  dataTableOutput('table2') -->
+
+<!-- ``` -->
 
