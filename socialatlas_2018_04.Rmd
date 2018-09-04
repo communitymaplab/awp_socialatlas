@@ -188,7 +188,7 @@ output$map<-renderLeaflet({
                 color = "#222222",
                 weight = 1,
                 popup=filteredData_variable()$popup_text) %>%
-        addControl(HTML("Click on a school zone for more information."),position="bottomright") %>%
+    addControl(HTML("Click on a school zone for more information."),position="bottomright") %>%
     addLegend(position="bottomright",
               pal = pal,
               title="Legend",
@@ -339,6 +339,19 @@ data_filter<-reactive({
    }
   )
 
+metadata_public<-read_csv("https://github.com/jshannon75/awp_shiny_april2018/raw/master/data/metadata_public.csv")
+HTML("<br>Download variable descriptions<br>")
+  downloadButton('downloadData','Download Result Set')
+  downloadHandler(filename = function() {
+     paste("athenssocialatlas_metadata_",Sys.Date(),".csv",sep="")
+    },
+     content = function(file) {
+     write.csv(metadata_public, file, row.names = FALSE)
+   }
+  )
+```
+
+```{r}
 img(src='awp_logo.png', align = "left",width="70%")
 ```
   
