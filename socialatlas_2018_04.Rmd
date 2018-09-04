@@ -43,7 +43,7 @@ Elementary Schools
 Column {.sidebar}
 -----------------------------------------------------------------------
 
-####Variable selection
+#### Variable selection
 
 ```{r}
 #This section creates the menu options for the app. In this section, you can classify the school zones in a 
@@ -182,6 +182,7 @@ output$map<-renderLeaflet({
   
   leaflet() %>%
     clearShapes() %>%
+    addProviderTiles(providers$CartoDB.Positron) %>%
     addPolygons(data=filteredData_variable(),
                 fillColor = ~pal(est),
                 fillOpacity = 0.5,
@@ -290,7 +291,7 @@ Data download
 Column {.sidebar}
 -----------------------------------------------------------------------
 
-####Select variable categories
+#### Download data by category
 
 ```{r}
 #Prepare the variables
