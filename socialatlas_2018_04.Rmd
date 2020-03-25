@@ -52,14 +52,14 @@ Column {.sidebar}
 radioButtons("ngroups","Classify school zones into how many equally sized groups?",c(3, 4,5,6),selected=4)
 
  radioButtons("group","Choose your variable domain:",
-              c("Community Safety"="Safety",
-                "Demographics"="Demog",
+              c("Demographics"="Demog",
+                #"Community Safety"="Safety",
                 "Healthy People & Environments"="Health",
                 "Housing"="Housing",
                 "Income & Employment" = "Income",
                 "Lifelong Learning" = "Learning",
                 "Transportation" = "Transport"),
-              selected="Safety")
+              selected="Demog")
  
 
 
@@ -296,20 +296,20 @@ Column {.sidebar}
 ```{r}
 #Prepare the variables
 metadata_group<-metadata %>% 
-  select(Community_safety:Transportation) %>%
+  select(Demographics:Transportation) %>%
   gather(key="description",value="dummy") %>%
-  mutate(group_name=if_else(description=="Community_safety","Community safety",
-                       if_else(description=="Income_employment","Income & Employment",description))) %>%
   select(-dummy) %>%
+  mutate(description=if_else(description=="Income_employment",
+                            "Income & Employment",description)) %>%
   distinct()
 
 metadata_sel<-metadata %>%
-  gather(Community_safety:Transportation,key="group",value="dummy") %>%
+  gather(Demographics:Transportation,key="group",value="dummy") %>%
   filter(dummy==1) %>%
   group_by(group) %>%
   summarise(vars=paste(description,collapse="; ")) %>% 
-  mutate(group_name=if_else(group=="Community_safety","Community safety",
-                       if_else(group=="Income_employment","Income & Employment",group))) %>%
+  mutate(group_name=if_else(group=="Income_employment",
+                            "Income & Employment",group)) %>%
   select(-group) 
 
  checkboxGroupInput("variable", "Select variable categories:",
@@ -318,10 +318,10 @@ metadata_sel<-metadata %>%
 #Create downloadable data
 data_filter<-reactive({
   metadata_varselect<-metadata %>%
-    gather(Community_safety:Transportation,key="description",value="dummy") %>%
+    gather(Demographics:Transportation,key="description",value="dummy") %>%
     filter(dummy==1) %>%
-    mutate(group_name=if_else(description=="Community_safety","Community safety",
-                       if_else(description=="Income_employment","Income & Employment",description))) %>%
+    mutate(group_name=if_else(description=="Income_employment",
+                              "Income & Employment",description)) %>%
     filter(group_name %in% input$variable) 
   
   atlasdata %>%

@@ -20,8 +20,9 @@ districts<-st_read("data/AWP_shinydata.gpkg",layer="es_zones") %>%
 ################################################################################################
 #####Loading the data and Changing the fields in the Atlas Data so these variables can work#####
 ################################################################################################
-atlasdata1<-st_read("data/AWP_shinydata.gpkg",layer="acsdata_2016") %>%
+atlasdata1<-st_read("data/AWP_shinydata.gpkg",layer="acsdata_2018") %>%
   st_set_geometry(NULL) %>%
+  mutate(moe=0) %>%
   distinct
 atlasdata2<-st_read("data/AWP_shinydata.gpkg",layer="community_data") %>%
   st_set_geometry(NULL) 
