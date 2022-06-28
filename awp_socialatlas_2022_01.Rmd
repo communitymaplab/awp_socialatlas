@@ -49,7 +49,11 @@ Column {.sidebar}
 #This section creates the menu options for the app. In this section, you can classify the school zones in a 
 #selected number of groups along with selecting variables within a particular domain. The selected variable will be 
 #mapped on a leaflet map along with being displayed in a bar chart and a data table.
-radioButtons("ngroups","Classify school zones into how many equally sized groups?",c(3, 4,5,6),selected=4)
+
+radioButtons("pct_count",HTML('Show the <b><i>population rate/percentage</b></i> or the raw <b><i>count of people</b></i>?'),
+              c("Pop. rate/percentage" = "pct",
+                "Count of people"="count"),
+              selected="pct")
 
  radioButtons("group","Choose your variable domain:",
               c("Demographics"="Demog",
@@ -59,7 +63,7 @@ radioButtons("ngroups","Classify school zones into how many equally sized groups
                 "Income & Employment" = "Income",
                 "Lifelong Learning" = "Learning",
                 "Transportation" = "Transport"),
-              selected="Demog")
+              selected="Housing")
  
 
 
@@ -71,81 +75,132 @@ radioButtons("ngroups","Classify school zones into how many equally sized groups
  )
  
  conditionalPanel(
-  condition="input.group =='Demog'",
-   selectInput("variable2","Select your variable:",
-                choices = select_demo)
+  condition="input.group =='Demog' && input.pct_count=='count'",
+   selectInput("variable2c","Select your variable:",
+                choices = select_demo_count)
+ )
+ 
+  conditionalPanel(
+  condition="input.group =='Demog' && input.pct_count=='pct'",
+   selectInput("variable2p","Select your variable:",
+                choices = select_demo_pct)
  )
  
  conditionalPanel(
-  condition="input.group =='Health'",
-   selectInput("variable3","Select your variable:",
-               choices = select_health)
+  condition="input.group =='Health' && input.pct_count=='count'",
+   selectInput("variable3c","Select your variable:",
+               choices = select_health_count)
+ )
+ 
+  conditionalPanel(
+  condition="input.group =='Health' && input.pct_count=='pct'",
+   selectInput("variable3p","Select your variable:",
+               choices = select_health_pct)
  )
  
  
  conditionalPanel(
-  condition="input.group=='Housing'",
-   selectInput("variable4","Select your variable:",
-               choices = select_housing)
+  condition="input.group=='Housing' && input.pct_count=='count'",
+   selectInput("variable4c","Select your variable:",
+               choices = select_housing_count)
+ )
+ 
+  conditionalPanel(
+  condition="input.group=='Housing' && input.pct_count=='pct'",
+   selectInput("variable4p","Select your variable:",
+               choices = select_housing_pct)
  )
  
  
  conditionalPanel(
-  condition="input.group =='Income'",
-   selectInput("variable5","Select your variable:",
-               choices = select_incemploy)
+  condition="input.group =='Income' && input.pct_count=='count'",
+   selectInput("variable5c","Select your variable:",
+               choices = select_incemploy_count)
+ 
+ ) 
+ 
+  conditionalPanel(
+  condition="input.group =='Income' && input.pct_count=='pct'",
+   selectInput("variable5p","Select your variable:",
+               choices = select_incemploy_pct)
  
  ) 
  
  conditionalPanel(
-  condition="input.group=='Learning'",
-   selectInput("variable6","Select your variable:",
-              choices = select_edu)
+  condition="input.group=='Learning' && input.pct_count=='count'",
+   selectInput("variable6c","Select your variable:",
+              choices = select_edu_count)
+ )
+ 
+  conditionalPanel(
+  condition="input.group=='Learning' && input.pct_count=='pct'",
+   selectInput("variable6p","Select your variable:",
+              choices = select_edu_pct)
  )
  
  conditionalPanel(
-  condition="input.group=='Transport'",
-   selectInput("variable7","Select your variable:",
-               choices = select_trans)
+  condition="input.group=='Transport' && input.pct_count=='count'",
+   selectInput("variable7c","Select your variable:",
+               choices = select_trans_count)
  )
  
-
+  conditionalPanel(
+  condition="input.group=='Transport' && input.pct_count=='pct'",
+   selectInput("variable7p","Select your variable:",
+               choices = select_trans_pct)
+ )
+ 
 #Use the variable object to select the variable people choose. When the domain is chosen, the appropriate variables will
 #be loaded. 
  variable<-reactive({
      if(input$group=="Safety"){
      input$variable1
-   } else if (input$group=="Demog") {
-     input$variable2
-   } else if (input$group=="Health") {
-     input$variable3
-   } else if (input$group=="Housing") {
-     input$variable4
-   } else if (input$group=="Income") {
-     input$variable5
-   } else if (input$group=="Learning") {
-     input$variable6
-   } else if (input$group=="Transport") {
-     input$variable7 }
+   } else if (input$group=="Demog" & input$pct_count=="count") {
+     input$variable2c
+   } else if (input$group=="Demog" & input$pct_count=="pct") {
+     input$variable2p
+   } else if (input$group=="Health" & input$pct_count=="count") {
+     input$variable3c
+   } else if (input$group=="Health" & input$pct_count=="pct") {
+     input$variable3p
+   } else if (input$group=="Housing" & input$pct_count=="count") {
+     input$variable4c
+   } else if (input$group=="Housing" & input$pct_count=="pct") {
+     input$variable4p
+   } else if (input$group=="Income" & input$pct_count=="count") {
+     input$variable5c
+   } else if (input$group=="Income" & input$pct_count=="pct") {
+     input$variable5p
+   } else if (input$group=="Learning" & input$pct_count=="count") {
+     input$variable6c
+   } else if (input$group=="Learning" & input$pct_count=="pct") {
+     input$variable6p
+   } else if (input$group=="Transport" & input$pct_count=="count") {
+     input$variable7c
+   } else if (input$group=="Transport" & input$pct_count=="pct") {
+     input$variable7p
+     }
    })
 
+radioButtons("ngroups","Classify the map data into how many equally sized groups?",c(3, 4,5,6),selected=4)
+ 
 ```
 
-Map by the [Community Mapping Lab](http://www.communitymappinglab.org) at the University of Georgia
+Map by the [Community Mapping Lab](http://www.communitymappinglab.org)
 
 ```{r}
 img(src='awp_logo.png', align = "left",width="100%")
 ```
 
 
-Column {data-width=450}
+Column
 -----------------------------------------------------------------------
 
 ```{r fig.height=40}
 #Text box from the metadata file that shows what variable has been selected.
  filter_metadata<-reactive({
      var_code<-metadata %>%
-          filter(metadata$description==variable())
+          filter(metadata$description==variable() & type==input$pct_count)
    })
 
  text<-reactive({
@@ -157,13 +212,13 @@ Column {data-width=450}
 filteredData_variable <- reactive({
   #Join metadata description
   metadata_popup<-metadata %>%
-    select(variable,popup_lab,pct) %>%
+    select(variable,type,popup_lab,pct) %>%
     rename("var"=variable)
   
   #filter the dataset based on input variables. The comma is used to specify rows.
   adataset <- atlasdata %>%
     left_join(metadata_popup) %>%
-    filter(description == variable()) 
+    filter(description == variable() & type==input$pct_count) 
     
   #subset the data
   suppressWarnings(left_join(districts, adataset, by = "GEOID") %>%
@@ -234,7 +289,12 @@ output$map<-renderLeaflet({
               title="Legend",
               values = filteredData_variable()$est,
               labFormat = labelFormat(digits = 0)) %>% 
-    addControl(text(),position="topright")
+    addControl(text(),position="topright") %>%
+    htmlwidgets::onRender("
+        function() {
+            $('.leaflet-control-layers-list').prepend('<label style=\"text-align:left\">Displayed boundaries</label>');
+        }
+      ")
 })
 
 
@@ -257,12 +317,14 @@ Column {.tabset data-width=300}
 #filtering the variable's data based on the selected category and assigning it to a new variable
   if (input$chart_sort1 == "SchoolID"){
       filteredvar<-atlasdata2 %>%
-        filter(description==variable())
+        filter(description==variable() & type==input$pct_count)
   } else if (input$chart_sort1 == "Variable_hl"){
-    filteredvar <- atlasdata2[atlasdata2$description == variable(),]
+    filteredvar <- atlasdata2 %>%
+      filter(description == variable() & type==input$pct_count)
     filteredvar <- filteredvar[order(-filteredvar$est),]
   } else if (input$chart_sort1 == "Variable_lh"){
-    filteredvar <- atlasdata2[atlasdata2$description == variable(),]
+    filteredvar <- atlasdata2 %>%
+      filter(description == variable() & type==input$pct_count)
     filteredvar <- filteredvar[order(filteredvar$est),]
   }
    
@@ -304,7 +366,7 @@ Values for this variable by school zone. Click on "Value" to sort.
 #That callback function allows the automatic row numbers to be renumbered to 1.
 DT::renderDataTable({
   atlas_filter<-atlasdata2 %>%
-  filter(description==variable()) %>%
+  filter(description==variable() & type==input$pct_count) %>%
   select(School,est) %>%
     rename("% estimate"=est)
 
@@ -317,7 +379,9 @@ DT::renderDataTable({
                 )
   })
 output$table<-renderDataTable(
-    atlasdata2[atlasdata2$description == variable(), c(1,8)] %>%
+    atlasdata2 %>%
+      filter(description == variable() & atlasdata2$type==input$pct_count) %>%
+      select(1,5) %>%
       rename(Value = est),
   options=list(paging=FALSE,searching=FALSE)
 )

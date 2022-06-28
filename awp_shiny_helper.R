@@ -15,8 +15,8 @@ acc_tracts <- st_read("data/GA_2020/acc_tracts.geojson")%>%
 es_zones <- st_read("data/acc_es_zones.geojson") %>%
   st_transform(4326) 
 
-atlasdata <-read.csv("data/GA_2020/cleaned_acc_data.csv") %>%
-  select(GEOID, var, est, description, moe) %>%
+atlasdata <-read_csv("data/GA_2020/cleaned_acc_data.csv",lazy=FALSE) %>%
+  select(GEOID, var, type,est, description, moe) %>%
   mutate(est = round(est, digits = 0)) %>%
   mutate(moe = round(moe, digits = 0)) %>%
   #mutate(moe=0) %>%
@@ -26,8 +26,7 @@ atlasdata <-read.csv("data/GA_2020/cleaned_acc_data.csv") %>%
   mutate(GEOID=as.character(GEOID)) %>%
   distinct
 
-atlasdata2<-read.csv("data/GA_2020/ESzones_acs_interpolation.csv") %>%
-  select(-"X")
+atlasdata2<-read_csv("data/GA_2020/ESzones_acs_interpolation.csv",lazy=FALSE)
 
 #atlasdata2<-st_read("data/AWP_shinydata.gpkg",layer="community_data") %>%
   #st_set_geometry(NULL) 
@@ -68,21 +67,39 @@ write_csv(metadata_download,"data/GA_2020/metadata_public.csv")
 #safety variables
 safetyvariables <-subset(metadata, Community_safety == 1)
 select_safety <- sort(unique(safetyvariables$description))
+
 #demographic variables
-demovariables <-subset(metadata, Demographics == 1)
-select_demo <- sort(unique(demovariables$description))
+demovariables <- subset(metadata, Demographics == 1)
+select_demo <- unique(demovariables$description)
+select_demo_count<-select_demo[grep("Percent",select_demo,invert=TRUE)]
+select_demo_pct<-select_demo[grep("Percent",select_demo)]
+
 #health variables
 healthvariables <-subset(metadata, Health == 1)
-select_health <- sort(unique(healthvariables$description))
+select_health <- unique(healthvariables$description)
+select_health_count<-select_health[grep("Percent",select_health,invert=TRUE)]
+select_health_pct<-select_health[grep("Percent",select_health)]
+
 #housing variables
 housingvariables <-subset(metadata, Housing == 1)
-select_housing <- sort(unique(housingvariables$description))
+select_housing <- unique(housingvariables$description)
+select_housing_count<-select_housing[grep("Percent",select_housing,invert=TRUE)]
+select_housing_pct<-select_housing[grep("Percent",select_housing)]
+
 #income and employment variables
 incemployvariables <-subset(metadata, Income_employment == 1)
-select_incemploy <- sort(unique(incemployvariables$description))
+select_incemploy <- unique(incemployvariables$description)
+select_incemploy_count<-select_incemploy[grep("Percent",select_incemploy,invert=TRUE)]
+select_incemploy_pct<-select_incemploy[grep("Percent",select_incemploy)]
+
 #education variables
 eduvariables <- subset(metadata, Education == 1)
-select_edu <- sort(unique(eduvariables$description))
+select_edu <- unique(eduvariables$description)
+select_edu_count<-select_edu[grep("Percent",select_edu,invert=TRUE)]
+select_edu_pct<-select_edu[grep("Percent",select_edu)]
+
 #transportation variables
 transvariables <- subset(metadata, Transportation == 1)
-select_trans <- sort(unique(transvariables$description))
+select_trans <- unique(transvariables$description)
+select_trans_count<-select_trans[grep("Percent",select_trans,invert=TRUE)]
+select_trans_pct<-select_trans[grep("Percent",select_trans)]
