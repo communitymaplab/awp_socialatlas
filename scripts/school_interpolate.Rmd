@@ -1,0 +1,115 @@
+---
+title: "Tract_School interpolation_Social Atlas"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(sf)
+```
+
+Read in the data. 
+```{r}
+
+tract_data <- read_csv("data/GA_2020/long_acc_tractdata.csv") %>%
+  filter(substr(var,nchar(var)-1,nchar(var))!="_p" &
+    var_type == "est")
+
+# Update crosswalk with new tract geometry
+
+cw<-read_csv("data/eszones_tract_crosswalk_2020.csv") %>%
+  rename(GEOID=fips_tct)
+
+metadata<-read_csv("data/GA_2020/metadata_all.csv")
+
+rawdata_acc<- read_csv("data/GA_2020/acc_acs.csv") %>%
+  left_join(metadata, by = "variable") %>%
+  filter(var_normalize=="99999") %>%
+  select(GEOID,variable,estimate,var_name)
+
+```
+
+Join and interpolate the data 
+```{r}
+
+cw_data<-tract_data %>%
+  left_join(cw) %>%
+  mutate(value_interp=value*popratio) %>%
+  group_by(var,SchoolID,School) %>%
+  summarise(value=round(sum(value_interp),0)) %>%
+  left_join(metadata %>%
+              select(var_group,var_normalize) %>%
+              rename(var=var_group)) %>%
+  unique() %>%
+  na.omit ()
+
+cw_data_norm<-rawdata_acc %>%
+  rename(value=estimate,
+         var=var_name) %>%
+  left_join(cw) %>%
+  mutate(value_interp=value*popratio) %>%
+  group_by(var,SchoolID,School) %>%
+  summarise(value_norm=round(sum(value_interp),0)) %>%
+  rename(var_normalize=var) %>%
+  na.omit ()
+```
+
+Change to percentage
+
+```{r}
+  
+#Join normalizing variables back and create a percentage
+census_data_pct <- cw_data %>%
+  left_join(cw_data_norm) %>%
+  mutate(est_pct=round(value/value_norm*100,2)) %>%
+  select(-var_normalize,-value_norm) %>%
+  na.omit()
+```
+
+
+Prepare data for atlas
+```{r}
+#The following binds the pct calculations and the totals into a single data frame
+
+b1<-cw_data %>%
+  select(-var_normalize) %>%
+  mutate(type = "count") %>%
+  left_join(metadata %>%
+  select(var_group,desc_group) %>%
+  rename(var=var_group, description=desc_group)) %>%
+  rename(est=value) %>%
+  unique()
+  
+  
+b2<-cw_data_norm %>%
+  rename(var=var_normalize, value=value_norm) %>%
+  mutate(type = "count") %>%
+  left_join(metadata %>%
+  select(var_group,desc_group) %>%
+  rename(var=var_group, description=desc_group)) %>%
+  rename(est=value) %>%
+  unique()
+
+b3<-census_data_pct %>%
+  select(-value) %>%
+  rename(value = est_pct) %>%
+  mutate(type = "pct") %>%
+  left_join(metadata %>%
+  select(var_group,desc_group) %>%
+  rename(var=var_group, description=desc_group)) %>%
+  rename(est=value) %>%
+  mutate(description = paste("Percent", description)) %>%
+  unique()
+
+census_data_atlas2<-rbind(b1,b2,b3) %>%
+  unique()
+
+write_csv(census_data_atlas2,"data/GA_2020/ESzones_acs_interpolation.csv")
+
+```
+
+

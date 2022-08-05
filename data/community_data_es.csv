@@ -1,0 +1,465 @@
+School,est,var,description,type
+Alps Road,137.2867587327376,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Barnett Shoals,129.46058091286307,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Barrow,225.12729879375124,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Chase Street,175.23012932965065,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Choice Zone-East,108.81696428571429,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Choice Zone-West,129.00815217391303,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Cleveland Road,114.82265749073584,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Fowler Drive,112.63157894736842,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Gaines,124.95719178082192,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Howard B Stroud,162.98249567914317,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Judia Jackson Harris,116.10658838982891,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Oglethorpe,129.42779291553134,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Timothy Rd.,123.25,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Whit Davis,115.78521533034684,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Whitehead Rd.,117.61470738769953,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Winterville,115.15151515151516,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,count
+Alps Road,98.2826206663432,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Barnett Shoals,80.29618034531117,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Barrow,188.1629424560016,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Chase Street,168.3524266305507,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Choice Zone-East,82.99016034985424,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Choice Zone-West,827.7607539315449,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Cleveland Road,63.751970633918745,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Fowler Drive,218.0185758513932,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Gaines,168.63440401435216,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Howard B Stroud,195.36419625118194,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Judia Jackson Harris,86.41493874283731,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Oglethorpe,133.756443953096,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Timothy Rd.,74.2782233502538,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Whit Davis,81.77128915497536,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Whitehead Rd.,84.17962688797202,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Winterville,75.46174142480213,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,pct
+Alps Road,87.2319012889309,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Barnett Shoals,44.99585062240662,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Barrow,88.0502362675209,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Chase Street,116.39105190815636,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Choice Zone-East,548.0359864982579,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Choice Zone-West,266.9565217391304,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Cleveland Road,68.84939858084104,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Fowler Drive,540.4404858299596,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Gaines,48.96570307126646,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Howard B Stroud,116.448704627545,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Judia Jackson Harris,162.51146746424178,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Oglethorpe,116.11355482073304,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Timothy Rd.,105.22763051766708,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Whit Davis,43.57366700963009,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Whitehead Rd.,107.20922772889223,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Winterville,76.26342161775234,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,pct
+Alps Road,207.71047161436584,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Barnett Shoals,3038.4802032585512,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Barrow,328.62657148795205,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Chase Street,190.44818881395906,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Choice Zone-East,420.1435279422973,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Choice Zone-West,1937.1538537906026,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Cleveland Road,116.22793372209026,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Fowler Drive,155.33210693058857,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Gaines,140.3398067303907,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Howard B Stroud,259.2773890668419,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Judia Jackson Harris,110.24785019857505,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Oglethorpe,214.9270065785787,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Timothy Rd.,124.42803491836044,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Whit Davis,114.22569696143202,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Whitehead Rd.,126.5651453973218,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Winterville,114.11600122005301,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,count
+Alps Road,144.92577744760635,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Barnett Shoals,4374.416420992406,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Barrow,247.4393817245417,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Chase Street,124.09726512023231,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Choice Zone-East,625.7084697536931,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Choice Zone-West,5093.4631624413005,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Cleveland Road,92.4482779326978,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Fowler Drive,219.76229593226435,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Gaines,169.4591587072011,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Howard B Stroud,428.69926093050753,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Judia Jackson Harris,100.50798134135597,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Oglethorpe,318.66690412950464,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Timothy Rd.,89.44077356256061,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Whit Davis,125.2958741803216,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Whitehead Rd.,141.79812145975725,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Winterville,94.29611263730553,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,pct
+Alps Road,170.47797600553892,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Barnett Shoals,3411.9610255738758,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Barrow,100.35962813054866,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Chase Street,91.66975893794344,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Choice Zone-East,1268.431357558691,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Choice Zone-West,4405.451982599273,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Cleveland Road,83.52874443465677,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Fowler Drive,381.61296441173135,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Gaines,71.98264671652962,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Howard B Stroud,242.5251484807255,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Judia Jackson Harris,99.93696754083213,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Oglethorpe,262.3471364953198,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Timothy Rd.,117.42010679742121,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Whit Davis,44.982226372562636,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Whitehead Rd.,131.23277940337476,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Winterville,84.63933220548253,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,pct
+Alps Road,77,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Barnett Shoals,68,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Barrow,64,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Chase Street,82,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Choice Zone-East,70,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Choice Zone-West,80,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Cleveland Road,77,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Fowler Drive,66,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Gaines,63,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Howard B Stroud,51,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Judia Jackson Harris,78,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Oglethorpe,80,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Timothy Rd.,84,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Whit Davis,85,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Whitehead Rd.,86,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Winterville,85,par_own_acc_p,Percent of Parcels Owned in Athens,pct
+Alps Road,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Barnett Shoals,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Barrow,64,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Chase Street,78,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Choice Zone-East,74,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Choice Zone-West,77,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Cleveland Road,60,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Fowler Drive,65,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Gaines,73,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Howard B Stroud,56,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Judia Jackson Harris,63,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Oglethorpe,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Timothy Rd.,71,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Whit Davis,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Whitehead Rd.,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Winterville,69,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,pct
+Alps Road,92,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Barnett Shoals,93,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Barrow,93,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Chase Street,95,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Choice Zone-East,91,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Choice Zone-West,93,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Cleveland Road,95,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Fowler Drive,83,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Gaines,92,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Howard B Stroud,86,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Judia Jackson Harris,96,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Oglethorpe,95,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Timothy Rd.,96,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Whit Davis,96,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Whitehead Rd.,98,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Winterville,96,par_own_ga_p,Percent of Parcels Owned in Georgia,pct
+Alps Road,88,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Barnett Shoals,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Barrow,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Chase Street,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Choice Zone-East,89,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Choice Zone-West,89,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Cleveland Road,89,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Fowler Drive,87,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Gaines,90,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Howard B Stroud,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Judia Jackson Harris,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Oglethorpe,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Timothy Rd.,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Whit Davis,99,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Whitehead Rd.,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Winterville,89,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,pct
+Alps Road,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Barnett Shoals,11,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Barrow,17,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Chase Street,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Choice Zone-East,12,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Choice Zone-West,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Cleveland Road,11,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Fowler Drive,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Gaines,15,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Howard B Stroud,20,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Judia Jackson Harris,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Oglethorpe,7,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Timothy Rd.,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Whit Davis,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Whitehead Rd.,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Winterville,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,pct
+Alps Road,4,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Barnett Shoals,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Barrow,27,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Chase Street,10,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Choice Zone-East,8,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Choice Zone-West,10,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Cleveland Road,22,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Fowler Drive,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Gaines,11,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Howard B Stroud,31,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Judia Jackson Harris,14,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Oglethorpe,5,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Timothy Rd.,13,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Whit Davis,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Whitehead Rd.,13,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Winterville,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,pct
+Alps Road,524388.5332167832,avg_appr_val,Average Appraisal Value,count
+Alps Road,164045,med_appr_val,Median Appraisal Value,count
+Alps Road,39.426877880665046,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Alps Road,18.31044440869279,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Barnett Shoals,421056.87219343695,avg_appr_val,Average Appraisal Value,count
+Barnett Shoals,206433,med_appr_val,Median Appraisal Value,count
+Barnett Shoals,74.15118830686478,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Barnett Shoals,14.225288053365675,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Barrow,1211075.6951321864,avg_appr_val,Average Appraisal Value,count
+Barrow,369092,med_appr_val,Median Appraisal Value,count
+Barrow,129.45212574227475,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Barrow,46.04340808200668,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Chase Street,678422.1294400963,avg_appr_val,Average Appraisal Value,count
+Chase Street,273935,med_appr_val,Median Appraisal Value,count
+Chase Street,44.42540490912647,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Chase Street,28.307516532232157,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Choice Zone-East,291985.17175375065,avg_appr_val,Average Appraisal Value,count
+Choice Zone-East,193004,med_appr_val,Median Appraisal Value,count
+Choice Zone-East,25.662320997423457,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Choice Zone-East,10.918507553328778,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Choice Zone-West,217268.80252859724,avg_appr_val,Average Appraisal Value,count
+Choice Zone-West,179304,med_appr_val,Median Appraisal Value,count
+Choice Zone-West,14.558083634686817,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Choice Zone-West,9.18733587968489,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Cleveland Road,346831.0050454087,avg_appr_val,Average Appraisal Value,count
+Cleveland Road,213395,med_appr_val,Median Appraisal Value,count
+Cleveland Road,29.58915137519783,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Cleveland Road,9.353822550107724,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Fowler Drive,275303.0661680092,avg_appr_val,Average Appraisal Value,count
+Fowler Drive,131469,med_appr_val,Median Appraisal Value,count
+Fowler Drive,4.193771693102143,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Fowler Drive,3.5991333827803516,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Gaines,246300.64838255977,avg_appr_val,Average Appraisal Value,count
+Gaines,132402.5,med_appr_val,Median Appraisal Value,count
+Gaines,78.3363882768211,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Gaines,17.952412648183966,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Howard B Stroud,323356.8050251256,avg_appr_val,Average Appraisal Value,count
+Howard B Stroud,152255,med_appr_val,Median Appraisal Value,count
+Howard B Stroud,45.86229812534857,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Howard B Stroud,25.622492784682326,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Judia Jackson Harris,185248.19305019305,avg_appr_val,Average Appraisal Value,count
+Judia Jackson Harris,94770,med_appr_val,Median Appraisal Value,count
+Judia Jackson Harris,3.0041058731750585,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Judia Jackson Harris,1.5976847136253232,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Oglethorpe,294276.84649610677,avg_appr_val,Average Appraisal Value,count
+Oglethorpe,220709.5,med_appr_val,Median Appraisal Value,count
+Oglethorpe,24.94467401214925,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Oglethorpe,10.50182446289092,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Timothy Rd.,481478.15237278445,avg_appr_val,Average Appraisal Value,count
+Timothy Rd.,282522.5,med_appr_val,Median Appraisal Value,count
+Timothy Rd.,47.25154026327483,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Timothy Rd.,12.840047446557605,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Whit Davis,267054.29076086957,avg_appr_val,Average Appraisal Value,count
+Whit Davis,258290.5,med_appr_val,Median Appraisal Value,count
+Whit Davis,8.311111023037864,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Whit Davis,7.408412549131188,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Whitehead Rd.,245429.78377372536,avg_appr_val,Average Appraisal Value,count
+Whitehead Rd.,208512,med_appr_val,Median Appraisal Value,count
+Whitehead Rd.,15.596961674859422,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Whitehead Rd.,8.263189476113547,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Winterville,330829.2225755167,avg_appr_val,Average Appraisal Value,count
+Winterville,178241.5,med_appr_val,Median Appraisal Value,count
+Winterville,5.69794277609534,avg_appr_ppsqft,Average Apprasial Value per Square Foot,count
+Winterville,4.7114461877935705,med_appr_ppsqft,Median Apprasial Value per Square Foot,count
+Alps Road,0.4337347335745102,CONVENIENCE STORES,Third Closest Convenience Store,count
+Alps Road,0.7098891112723094,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Alps Road,0.5243211529833833,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Alps Road,0.926618022850142,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Alps Road,0.9580069661008488,OFFICES OF DENTISTS,Third Closest Dentist,count
+Alps Road,0.7653992291039728,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Alps Road,0.5268030919756339,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Alps Road,1.6593999486840747,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Alps Road,0.3411163635299351,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Alps Road,0.8098636091972748,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Alps Road,0.649300765010171,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Alps Road,0.6982838945712733,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Alps Road,0.6081210481551683,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Barnett Shoals,0.9026789142981866,CONVENIENCE STORES,Third Closest Convenience Store,count
+Barnett Shoals,1.362115366515313,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Barnett Shoals,1.4555406147279977,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Barnett Shoals,1.0905663323930224,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Barnett Shoals,2.4738845245752903,OFFICES OF DENTISTS,Third Closest Dentist,count
+Barnett Shoals,2.1868326869607855,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Barnett Shoals,1.7272168675338422,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Barnett Shoals,1.5359967789292623,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Barnett Shoals,0.6973553590075996,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Barnett Shoals,1.2713297964177328,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Barnett Shoals,1.8333489538462948,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Barnett Shoals,3.45156413293581,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Barnett Shoals,2.152057226072252,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Barrow,0.5385367610697593,CONVENIENCE STORES,Third Closest Convenience Store,count
+Barrow,0.9863972453958124,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Barrow,1.117462937052264,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Barrow,0.63215072540245,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Barrow,1.0253655717499284,OFFICES OF DENTISTS,Third Closest Dentist,count
+Barrow,1.2267988265913714,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Barrow,0.7745535026368398,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Barrow,1.956391546069576,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Barrow,0.3257100055773651,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Barrow,0.668242118350535,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Barrow,1.1728385878487562,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Barrow,1.8937940013435508,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Barrow,1.2254388875596882,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Chase Street,0.4505532482054035,CONVENIENCE STORES,Third Closest Convenience Store,count
+Chase Street,0.5474230437567789,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Chase Street,0.2985002773851026,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Chase Street,0.4711207439520043,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Chase Street,0.4387334585583651,OFFICES OF DENTISTS,Third Closest Dentist,count
+Chase Street,0.7002067971015928,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Chase Street,0.647318723126504,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Chase Street,1.8577963098434165,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Chase Street,0.3069519777072437,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Chase Street,0.4063343613133612,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Chase Street,0.37526415025239845,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Chase Street,0.721125247601111,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Chase Street,0.7822207761427594,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Choice Zone-East,0.7191665364872852,CONVENIENCE STORES,Third Closest Convenience Store,count
+Choice Zone-East,0.913297760870047,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Choice Zone-East,0.8116578093565355,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Choice Zone-East,0.8042160711153209,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Choice Zone-East,2.74176793852367,OFFICES OF DENTISTS,Third Closest Dentist,count
+Choice Zone-East,1.1360948769758257,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Choice Zone-East,0.9823869362373152,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Choice Zone-East,1.1552257471734309,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Choice Zone-East,0.6476254302184369,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Choice Zone-East,1.141344420403874,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Choice Zone-East,0.9139814367328652,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Choice Zone-East,3.9223138956135526,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Choice Zone-East,1.3200562574836832,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Choice Zone-West,1.0869665690297867,CONVENIENCE STORES,Third Closest Convenience Store,count
+Choice Zone-West,2.2326899713817525,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Choice Zone-West,0.9870864703099907,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Choice Zone-West,2.0783431506880445,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Choice Zone-West,1.6078763058850554,OFFICES OF DENTISTS,Third Closest Dentist,count
+Choice Zone-West,2.021200370260979,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Choice Zone-West,2.57151050030006,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Choice Zone-West,2.72586990345552,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Choice Zone-West,1.9388273005152243,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Choice Zone-West,2.2604351572825108,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Choice Zone-West,1.8043913247844847,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Choice Zone-West,2.1624571552381062,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Choice Zone-West,2.250595954350384,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Cleveland Road,1.070259382609181,CONVENIENCE STORES,Third Closest Convenience Store,count
+Cleveland Road,2.416923172716853,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Cleveland Road,3.5338698355578835,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Cleveland Road,1.1792366621591115,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Cleveland Road,2.1089295173816924,OFFICES OF DENTISTS,Third Closest Dentist,count
+Cleveland Road,3.2607697096312163,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Cleveland Road,1.5178949799720771,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Cleveland Road,2.877638638058508,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Cleveland Road,0.976941996927726,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Cleveland Road,1.7629645702712975,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Cleveland Road,1.5291354363226213,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Cleveland Road,0.8998548419216104,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Cleveland Road,0.9261532871825068,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Fowler Drive,1.205056835657935,CONVENIENCE STORES,Third Closest Convenience Store,count
+Fowler Drive,1.8211899550152284,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Fowler Drive,1.8524776113061796,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Fowler Drive,2.5252670292179475,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Fowler Drive,2.5002114141634793,OFFICES OF DENTISTS,Third Closest Dentist,count
+Fowler Drive,2.7941499697281045,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Fowler Drive,2.473938459790647,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Fowler Drive,2.333365447878061,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Fowler Drive,1.2585140080751571,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Fowler Drive,2.699319448305824,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Fowler Drive,2.234505892035493,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Fowler Drive,1.0931162823892662,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Fowler Drive,0.978120919995946,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Gaines,0.6172617489722403,CONVENIENCE STORES,Third Closest Convenience Store,count
+Gaines,1.1272936790779555,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Gaines,1.1991066291368326,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Gaines,1.1186966311972253,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Gaines,1.842501404886186,OFFICES OF DENTISTS,Third Closest Dentist,count
+Gaines,1.3738873125387672,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Gaines,0.9767182235503582,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Gaines,1.1954762672366814,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Gaines,0.4530770046872222,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Gaines,0.8229088477967912,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Gaines,1.292675423893047,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Gaines,2.275684524827448,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Gaines,0.7274820741898629,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Howard B Stroud,0.8491014674177536,CONVENIENCE STORES,Third Closest Convenience Store,count
+Howard B Stroud,1.233357419382602,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Howard B Stroud,1.5162133519012209,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Howard B Stroud,1.3985442896783598,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Howard B Stroud,1.6733244763127977,OFFICES OF DENTISTS,Third Closest Dentist,count
+Howard B Stroud,1.34938019633906,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Howard B Stroud,1.1275083111369102,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Howard B Stroud,1.8140352884524955,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Howard B Stroud,0.5182322660405911,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Howard B Stroud,1.2476716701729471,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Howard B Stroud,1.0874553121749984,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Howard B Stroud,1.3685855588293323,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Howard B Stroud,1.10115826463419,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Judia Jackson Harris,0.952608111802617,CONVENIENCE STORES,Third Closest Convenience Store,count
+Judia Jackson Harris,1.755775107505539,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Judia Jackson Harris,3.151393151942639,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Judia Jackson Harris,4.512038742825247,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Judia Jackson Harris,4.180406778722648,OFFICES OF DENTISTS,Third Closest Dentist,count
+Judia Jackson Harris,4.785994762454397,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Judia Jackson Harris,4.4695519610026135,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Judia Jackson Harris,3.66077461165632,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Judia Jackson Harris,3.001864796580108,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Judia Jackson Harris,4.627152306224172,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Judia Jackson Harris,4.1583797805748075,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Judia Jackson Harris,2.2352647045690603,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Judia Jackson Harris,1.380404731238712,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Oglethorpe,0.9830540095027344,CONVENIENCE STORES,Third Closest Convenience Store,count
+Oglethorpe,1.7461623071953425,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Oglethorpe,1.0329733343598373,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Oglethorpe,1.476029832523262,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Oglethorpe,1.4279012311934651,OFFICES OF DENTISTS,Third Closest Dentist,count
+Oglethorpe,1.5301625089903217,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Oglethorpe,1.6695366231795046,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Oglethorpe,1.7962457467757,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Oglethorpe,0.7884558708907081,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Oglethorpe,1.6168939525993389,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Oglethorpe,1.4433347157865517,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Oglethorpe,1.3890044537448016,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Oglethorpe,1.4694838540038633,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Timothy Rd.,0.975265602422041,CONVENIENCE STORES,Third Closest Convenience Store,count
+Timothy Rd.,1.199505373076605,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Timothy Rd.,1.8285901777890232,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Timothy Rd.,1.3258931243440242,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Timothy Rd.,1.5591645220858406,OFFICES OF DENTISTS,Third Closest Dentist,count
+Timothy Rd.,1.716507588223474,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Timothy Rd.,0.9782661348029882,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Timothy Rd.,1.3548100560535898,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Timothy Rd.,0.5121664157289564,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Timothy Rd.,1.1453587648843913,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Timothy Rd.,1.366365285400838,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Timothy Rd.,0.906097692383085,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Timothy Rd.,1.12077880387285,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Whit Davis,2.2044199576698436,CONVENIENCE STORES,Third Closest Convenience Store,count
+Whit Davis,2.436465608745286,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Whit Davis,2.4836546280185323,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Whit Davis,2.3377126656654537,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Whit Davis,4.66523036706937,OFFICES OF DENTISTS,Third Closest Dentist,count
+Whit Davis,2.7425649584157235,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Whit Davis,2.4333952805626335,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Whit Davis,2.761451167114413,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Whit Davis,1.3064650204656096,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Whit Davis,2.5858717852790507,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Whit Davis,2.4433519374754074,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Whit Davis,5.745464991170687,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Whit Davis,3.270677680560588,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Whitehead Rd.,1.2903690218700508,CONVENIENCE STORES,Third Closest Convenience Store,count
+Whitehead Rd.,2.550623044036892,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Whitehead Rd.,1.3874174381182194,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Whitehead Rd.,1.805362519357012,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Whitehead Rd.,1.7181278601381524,OFFICES OF DENTISTS,Third Closest Dentist,count
+Whitehead Rd.,1.8785897956342248,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Whitehead Rd.,2.4723952709760217,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Whitehead Rd.,2.1140153417482774,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Whitehead Rd.,1.4482881441148578,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Whitehead Rd.,2.310980926347637,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Whitehead Rd.,1.688393343897184,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Whitehead Rd.,2.5557192004033933,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Whitehead Rd.,2.5657862168907117,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
+Winterville,1.849220839940482,CONVENIENCE STORES,Third Closest Convenience Store,count
+Winterville,2.8151681010473304,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,count
+Winterville,2.511410601636693,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,count
+Winterville,2.9060470150947864,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,count
+Winterville,3.749463802622048,OFFICES OF DENTISTS,Third Closest Dentist,count
+Winterville,3.119460405577174,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,count
+Winterville,2.563998289849613,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,count
+Winterville,3.1434298804097183,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,count
+Winterville,2.091238778866608,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,count
+Winterville,3.2287926716360418,OFFICES OF LAWYERS,Third Closest Office of Lawyers,count
+Winterville,2.9556809643799977,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,count
+Winterville,4.202705224991684,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,count
+Winterville,2.4126584615146394,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,count
