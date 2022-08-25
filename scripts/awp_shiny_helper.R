@@ -40,7 +40,7 @@ atlasdata2 <- rbind(acs_es, comm_es) %>%
 #PURPOSE: This metadata will be used to show the source of each variable. In addition, the metadata will be used
 #for the dynamic loading of the variables in each of the domains.
 
-metadata1 <-read_csv("data/GA_2020/metadata_all.csv") %>% #replace 2020 with new year to update
+metadata1 <-read_csv("data/GA_2020/metadata_all.csv") %>% 
   select(var_group:type, -popup_lab) %>%
   rename("variable"=var_group,
          "description"=desc_group) %>%
@@ -50,11 +50,6 @@ metadata2 <- read_csv("data/community_metadata.csv")
 
 metadata <- bind_rows(metadata2,metadata1) %>%
   unique()
-
-# metadata_download<-metadata %>%
-#   select(variable,description,source)
-# 
-# write_csv(metadata_download,"data/GA_2020/metadata_public.csv")
 
 ###############################################
 #####Subsetting the data based on category#####

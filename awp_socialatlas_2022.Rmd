@@ -397,4 +397,15 @@ output$table<-renderDataTable(
       select(1,5),
   options=list(paging=FALSE,searching=FALSE)
 )
- dataTableOutput('table')
+dataTableOutput('table')
+#```
+
+# ### Variable
+# ```{r}
+# output$vardesc <- renderText({
+#   filter_metadata()$long_desc
+# })
+
+# textOutput("vardesc")
+```
+

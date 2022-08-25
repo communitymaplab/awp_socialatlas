@@ -240,7 +240,7 @@ sales_vars <- rbind(med_ppsqft_2020_a, percent_change_med_00to20,
   ## what to do with parcels in appraisal data that are not in ownership data? 
   ## what is going on with the very low appr value parcels?  
 
-apprval_raw <- read_csv("data/ACC_apprasial_values_2022.csv") 
+apprval_raw <- read_csv("data/acc_appraisal_values_2022.csv") 
 
 apprasial_data <- apprval_raw %>%
   left_join(parcels_data, by = "PARCEL_NO") %>%
