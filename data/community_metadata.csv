@@ -1,0 +1,30 @@
+variable,description,source,Community_safety,Demographics,Health,Housing,Income_employment,Education,Transportation,type
+par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Ownership Data 2021 ,0,0,0,1,0,0,0,pct
+land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Ownership Data 2021 ,0,0,0,1,0,0,0,pct
+par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Ownership Data 2021 ,0,0,0,1,0,0,0,pct
+land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Ownership Data 2021 ,0,0,0,1,0,0,0,pct
+par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Ownership Data 2021 ,0,0,0,1,0,0,0,pct
+land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Ownership Data 2021 ,0,0,0,1,0,0,0,pct
+med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021 ,0,0,0,1,0,0,0,count
+med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021 ,0,0,0,1,0,0,0,pct
+med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021 ,0,0,0,1,0,0,0,pct
+avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021 ,0,0,0,1,0,0,0,count
+avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021 ,0,0,0,1,0,0,0,pct
+avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021 ,0,0,0,1,0,0,0,pct
+avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Appraisal Data 2022 ,0,0,0,1,0,0,0,count
+med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Appraisal Data 2022 ,0,0,0,1,0,0,0,count
+avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Appraisal Data 2022 ,0,0,0,1,0,0,0,count
+med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Appraisal Data 2022 ,0,0,0,1,0,0,0,count
+CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,0,0,0,0,0,0,1,count
+CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,1,0,count
+FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,0,0,0,0,0,0,1,count
+NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count
+REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,0,0,0,1,0,0,0,count
+SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,0,0,1,0,0,0,0,count

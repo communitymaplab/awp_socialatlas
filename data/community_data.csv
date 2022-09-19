@@ -1,0 +1,545 @@
+GEOID,est,var,description,source,type,moe
+13059000100,408.2942792501616,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000401,114.0704584040747,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000402,196.3483234945804,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000600,232.8108263986158,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000900,142.85714285714286,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001200,168.7832012145403,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001700,119.31818181818181,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001800,229.7843665768194,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001900,175.23012932965065,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002000,207.10059171597632,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002100,279.63011766939405,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002200,156.36822194199243,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030101,162.71739373102338,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030102,165.1505468420423,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030200,125.66037735849056,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130300,125.67934782608695,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130400,117.61470738769953,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130500,109.6095233193806,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130601,126.48924139301094,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130602,114.64603038119805,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130701,125.92562781712815,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130702,116.1093523212887,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140300,112.63157894736842,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140400,118.89433170048986,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140500,93.75,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140600,119.45727482678984,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150300,121.05005086343787,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150400,105.97302504816956,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150500,146.74603174603175,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150600,133.4321719792439,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150701,102.17870932156646,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150702,119.88011988011988,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150800,115.7943492357573,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150900,119.87880592704893,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000100,474.85242173792585,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,131.1827956989247,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,140.55474604136023,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,324.6469473510752,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,167.42857142857142,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,146.18408292609314,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,101.74618370665686,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,206.93620844564236,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,170.74618749383106,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,126.4299802761341,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,259.7060150019933,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,82.41417294922742,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,145.71451964849885,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,329.60451926910616,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,199.19137466307276,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,188.06014937316618,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,84.17962688797202,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,85.2909920632838,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,80.43138510382168,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,67.66020329703632,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,52.75518486050802,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,57.936637249395694,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,166.8502024291498,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,881.75448164611,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,53.37285093639813,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,80.38048498845268,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,80.37230387793562,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,75.208734746307,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,142.38771903246982,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,100.67314351465653,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,66.80831012557566,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,79.65830833185879,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,83.51944761230106,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,58.06309221605562,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,88.48197135997256,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,96.67580732100105,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,60.83440731820482,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,115.5163078661472,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,104.97632006021742,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,103.50431689296,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,69.0205874160619,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,127.27522694178516,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,229.7288804960118,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,64.2836072116469,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,118.72744945163657,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,40.42071433666256,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,116.09663630863957,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,102.39726591705609,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,140.60872254871634,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,252.2908729269386,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,107.20922772889223,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,64.44718641241536,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,108.39454136388729,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,384.57055507786373,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,63.424074617315426,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,65.68097352291203,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,540.4404858299596,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,54.122281833968344,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,165.8591924120166,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,79.41015204863244,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,82.94265272518275,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,56.6159529816338,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,53.683116883116874,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,53.18272974962538,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,66.42029784886927,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,37.68839855796378,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,379.5345255444217,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,44.348912703910464,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,496.1486881195896,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000401,120.54926443978654,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000402,196.3483234945804,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000600,251.6551301768092,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000900,295.19652063374537,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001200,163.16563555528012,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001700,116.68325335198723,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001800,227.41479007306165,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001900,243.0816131961204,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002000,220.12961718612257,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002100,387.1844104375674,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002200,333.867120921876,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030101,291.726784480471,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030102,188.97506667252645,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030200,153.98140168930686,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130300,1596.2486727457433,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130400,126.5651453973218,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130500,106.54084105232411,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130601,218.3475979669207,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130602,120.47394149644387,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130701,124.3190718849147,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130702,117.63521969098889,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140300,153.534382778492,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140400,107.23810910712555,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140500,98.62244120975745,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140600,117.5551999078759,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150300,124.95385989715271,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150400,237.17160955751305,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150500,5816.264853167995,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150600,526.2015885147379,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150701,100.59595129774938,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150702,116.49656676585468,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150800,116.45185420658375,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150900,123.45943320778021,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000100,558.5062615706213,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,31.35894008027976,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,142.9184274807823,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,224.8360426877,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,478.07865380204186,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,118.4810616763961,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,106.21763086393837,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,163.3677101520452,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,161.51199593869347,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,83.40802609979119,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,224.4717262605013,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,260.6747177937433,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,383.73821135948606,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,467.22192640607847,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,223.41664469612877,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,4002.942099742736,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,141.79812145975725,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,114.14549578039401,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,256.8415919895942,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,97.00945841284397,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,70.85665011927273,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,82.4049996237976,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,179.8749117805976,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,264.9661245714149,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,83.57015953368014,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,95.82192853772527,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,106.66672156364984,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,272.2133148628222,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,10061.701600352415,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,772.5151054060425,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,60.70708185749445,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,116.20539821608705,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,126.2965740720687,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,70.92963371869044,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,113.89696072129074,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,107.84631040634925,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,60.83440731820482,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,135.19446146696006,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,290.197801275924,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,99.7812797844411,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,61.01471792820972,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,80.38409572029533,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,176.6024988162411,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,-28.445062703726126,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,111.46039502699277,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,180.44511910455182,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,284.03898216220506,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,134.5651778638757,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,140.9740218694112,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,3615.061140692401,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,131.23277940337476,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,74.43980435967225,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,271.54460730762327,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,144.27391965691936,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,71.0355523720045,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,93.51674258611978,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,394.42528945897277,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,61.211287497986575,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,75.70730098437475,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,89.63001926928396,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,135.2629384914096,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,269.4800557048524,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,6363.9804085848045,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,501.61404542712995,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,63.62359919629503,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,46.705543501823485,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,158.84650518890325,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,45.428551862451336,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,37,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,29,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,34,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,83,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,88,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,87,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,84,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,82,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,70,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,62,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,44,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,73,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,68,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,86,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,81,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,77,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,85,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,85,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,70,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,72,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,72,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,52,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,86,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,83,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,64,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,54,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,57,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,84,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,80,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,70,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,7,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,26,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,82,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,75,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,89,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,85,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,89,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,88,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,80,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,57,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,66,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,67,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,72,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,41,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,75,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,50,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,52,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,70,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,70,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,60,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,78,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,88,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,92,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,83,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,96,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,92,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,97,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,97,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,92,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,88,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,82,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,87,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,93,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,98,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,97,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,93,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,86,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,96,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,91,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,96,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,89,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,88,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,93,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,85,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,99,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,84,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,92,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,83,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,93,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,92,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,88,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,87,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,84,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,86,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,76,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,99,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,89,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,83,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,87,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,41,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,36,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,39,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,7,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,11,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,12,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,27,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,13,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,16,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,18,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,12,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,19,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,16,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,14,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,91,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,71,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,5,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,3,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,7,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,3,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,4,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,2,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,7,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,10,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,17,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,13,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,16,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,7,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,11,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,34,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,8,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,22,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,21,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,15,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,15,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,16,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,15,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,5,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,4,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,3,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,1710649.013003901,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,373042,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,315.67045652726006,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,288.33968253968254,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,2275798.722222222,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,149956.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,172.6273763018505,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,199.41674659757314,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,14350956.843283582,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,539783,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,230.97219874974883,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,152.34485896269337,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,716872.4213036567,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,374799,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,99.24207885357364,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,41.96426116838488,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,411888.5608614232,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,120713,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,25.76391115699358,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,15.799523809799709,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,522144.38591549295,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,382428,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,37.85521609970804,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,19.809583858764185,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,351742.74374374375,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,233357,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,22.591830870881434,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,12.121751535074118,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,1118817.0758556891,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,300000,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,39.52269050579117,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,25.036245517079195,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,465498.9068767908,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,273536,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,51.37122455771403,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,33.51599528307683,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,742187.0711043873,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,562825,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,46.88683336425198,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,30.74437001963275,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,604858.5861136159,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,422273,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,108.57294882864439,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,47.23450888953658,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,363331.86526946106,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,299408,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,102.34724522564895,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,32.02453137273815,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,301836.699879952,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,216964,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,70.54748657905525,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,44.22763315979175,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,483760.5394957983,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,150553,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,38.86616379017694,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,19.031781226903178,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,162900.17835365853,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,100172.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,43.73887227617603,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,10.712281492149303,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,275085.5595723014,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,181568.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,17.073287901253014,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,9.357176139510084,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,245065.78743961352,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,208455,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,15.57396956572523,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,8.250967281469517,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,309806.4004106776,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,206354,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,6.915006009539605,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,4.369604930340868,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,288219.25939849624,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,173066.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,52.79252472273133,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,17.071537227475453,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,535875.2823529412,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,260142,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,40.68677255779842,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,13.692169419166385,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,422807.87294727744,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,266942,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,69.93864613823594,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,15.820855684940469,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,535750.4290598291,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,248161,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,30.82726342465071,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,30.267308066083576,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,145231.66797835712,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,111700,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,3.3673424061596644,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,2.179050547760907,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,329170.8385026738,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,132252,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,4.194543491337596,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,2.5914385616452527,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,526835.4125,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,70838,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,12.169972246209433,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,4.839223202018667,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,251740.97958191542,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,186337,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,5.929708951664858,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,5.331490530370582,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,374723.7766037736,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,305114,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,33.247296080613374,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,11.1124135752641,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,729303.6183510638,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,173032.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,81.85843752060813,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,28.733325375267363,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,563025.3068619892,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,191000,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,139.72896091289357,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,39.83864541832669,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,371044.8679401993,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,174900,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,118.34721112254134,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,79.61845018450184,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,310958.34007220215,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,234766,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,23.938293112018087,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,10.841418261688109,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,263018.93968253967,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,262819,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,7.154349781360555,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,8.726857541450906,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,264256.99468302657,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,241509,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,14.418682002035544,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,9.448641392399203,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,253442.8429973238,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,201960.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,28.008942260801767,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,6.6514611241392965,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0

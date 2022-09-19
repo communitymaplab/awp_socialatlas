@@ -1,0 +1,987 @@
+GEOID,est,var,description,source,type,moe
+13059000100,408.2942792501616,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000401,114.0704584040747,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000402,196.3483234945804,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000600,232.8108263986158,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000900,142.85714285714286,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001200,168.7832012145403,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001700,119.31818181818181,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001800,229.7843665768194,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001900,175.23012932965065,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002000,207.10059171597632,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002100,279.63011766939405,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002200,156.36822194199243,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030101,162.71739373102338,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030102,165.1505468420423,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030200,125.66037735849056,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130300,125.67934782608695,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130400,117.61470738769953,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130500,109.6095233193806,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130601,126.48924139301094,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130602,114.64603038119805,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130701,125.92562781712815,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130702,116.1093523212887,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140300,112.63157894736842,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140400,118.89433170048986,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140500,93.75,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140600,119.45727482678984,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150300,121.05005086343787,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150400,105.97302504816956,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150500,146.74603174603175,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150600,133.4321719792439,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150701,102.17870932156646,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150702,119.88011988011988,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150800,115.7943492357573,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150900,119.87880592704893,med_bldg_ppsqft_2020,Median Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000100,474.85242173792585,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,131.1827956989247,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,140.55474604136023,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,324.6469473510752,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,167.42857142857142,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,146.18408292609314,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,101.74618370665686,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,206.93620844564236,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,170.74618749383106,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,126.4299802761341,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,259.7060150019933,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,82.41417294922742,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,145.71451964849885,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,329.60451926910616,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,199.19137466307276,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,188.06014937316618,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,84.17962688797202,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,85.2909920632838,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,80.43138510382168,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,67.66020329703632,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,52.75518486050802,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,57.936637249395694,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,166.8502024291498,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,881.75448164611,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,53.37285093639813,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,80.38048498845268,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,80.37230387793562,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,75.208734746307,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,142.38771903246982,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,100.67314351465653,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,66.80831012557566,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,79.65830833185879,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,83.51944761230106,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,58.06309221605562,med_change_2000to2020_p,Percent Change in Median Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,88.48197135997256,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,96.67580732100105,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,60.83440731820482,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,115.5163078661472,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,104.97632006021742,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,103.50431689296,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,69.0205874160619,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,127.27522694178516,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,229.7288804960118,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,64.2836072116469,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,118.72744945163657,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,40.42071433666256,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,116.09663630863957,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,102.39726591705609,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,140.60872254871634,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,252.2908729269386,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,107.20922772889223,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,64.44718641241536,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,108.39454136388729,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,384.57055507786373,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,63.424074617315426,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,65.68097352291203,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,540.4404858299596,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,54.122281833968344,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,165.8591924120166,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,79.41015204863244,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,82.94265272518275,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,56.6159529816338,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,53.683116883116874,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,53.18272974962538,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,66.42029784886927,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,37.68839855796378,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,379.5345255444217,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,44.348912703910464,med_change_2010to2020_p,Percent Change in Median Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,496.1486881195896,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000401,120.54926443978654,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000402,196.3483234945804,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000600,251.6551301768092,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000900,295.19652063374537,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001200,163.16563555528012,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001700,116.68325335198723,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001800,227.41479007306165,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059001900,243.0816131961204,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002000,220.12961718612257,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002100,387.1844104375674,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059002200,333.867120921876,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030101,291.726784480471,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030102,188.97506667252645,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059030200,153.98140168930686,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130300,1596.2486727457433,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130400,126.5651453973218,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130500,106.54084105232411,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130601,218.3475979669207,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130602,120.47394149644387,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130701,124.3190718849147,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059130702,117.63521969098889,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140300,153.534382778492,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140400,107.23810910712555,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140500,98.62244120975745,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059140600,117.5551999078759,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150300,124.95385989715271,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150400,237.17160955751305,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150500,5816.264853167995,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150600,526.2015885147379,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150701,100.59595129774938,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150702,116.49656676585468,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150800,116.45185420658375,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059150900,123.45943320778021,avg_bldg_ppsqft_2020,Average Building Price per Square Foot in 2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,count,0
+13059000100,558.5062615706213,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,31.35894008027976,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,142.9184274807823,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,224.8360426877,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,478.07865380204186,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,118.4810616763961,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,106.21763086393837,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,163.3677101520452,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,161.51199593869347,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,83.40802609979119,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,224.4717262605013,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,260.6747177937433,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,383.73821135948606,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,467.22192640607847,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,223.41664469612877,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,4002.942099742736,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,141.79812145975725,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,114.14549578039401,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,256.8415919895942,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,97.00945841284397,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,70.85665011927273,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,82.4049996237976,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,179.8749117805976,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,264.9661245714149,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,83.57015953368014,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,95.82192853772527,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,106.66672156364984,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,272.2133148628222,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,10061.701600352415,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,772.5151054060425,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,60.70708185749445,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,116.20539821608705,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,126.2965740720687,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,70.92963371869044,avg_change_2000to2020_p,Percent Change in Average Building Price per Sq Ft 2000-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,113.89696072129074,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,107.84631040634925,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,60.83440731820482,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,135.19446146696006,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,290.197801275924,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,99.7812797844411,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,61.01471792820972,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,80.38409572029533,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,176.6024988162411,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,-28.445062703726126,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,111.46039502699277,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,180.44511910455182,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,284.03898216220506,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,134.5651778638757,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,140.9740218694112,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,3615.061140692401,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,131.23277940337476,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,74.43980435967225,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,271.54460730762327,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,144.27391965691936,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,71.0355523720045,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,93.51674258611978,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,394.42528945897277,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,61.211287497986575,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,75.70730098437475,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,89.63001926928396,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,135.2629384914096,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,269.4800557048524,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,6363.9804085848045,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,501.61404542712995,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,63.62359919629503,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,46.705543501823485,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,158.84650518890325,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,45.428551862451336,avg_change_2010to2020_p,Percent Change in Average Building Price per Sq Ft 2010-2020,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,37,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,29,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,34,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,83,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,88,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,87,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,84,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,82,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,70,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,62,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,44,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,73,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,68,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,86,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,81,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,77,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,85,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,85,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,70,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,72,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,72,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,52,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,86,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,83,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,64,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,54,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,57,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,84,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,80,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,78,par_own_acc_p,Percent of Parcels Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,70,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,7,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,26,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,82,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,75,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,89,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,85,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,89,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,88,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,80,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,57,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,66,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,76,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,67,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,72,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,41,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,75,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,50,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,52,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,70,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,70,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,60,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,78,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,81,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,88,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,79,land_own_acc_p,Percent of Land in Sq Ft Owned in Athens,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,92,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,83,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,96,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,92,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,97,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,97,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,92,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,88,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,82,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,87,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,93,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,98,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,97,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,93,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,86,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,96,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,91,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,96,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,89,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,88,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,93,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,94,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,95,par_own_ga_p,Percent of Parcels Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,85,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,99,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,84,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,92,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,83,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,93,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,91,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,92,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,88,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,87,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,84,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,86,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,76,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,94,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,96,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,99,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,89,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,83,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,87,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,95,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,97,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,98,land_own_ga_p,Percent of Land in Sq Ft Owned in Georgia,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,41,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,36,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,39,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,7,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,11,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,12,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,27,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,13,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,16,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,5,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,18,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,6,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,12,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,19,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,16,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,9,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,3,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,8,par_own_atl_p,Percent of Parcels Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,14,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000401,91,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000402,71,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000600,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000900,5,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001200,3,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001700,7,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001800,3,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059001900,4,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002000,2,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002100,7,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059002200,10,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030101,17,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030102,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059030200,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130300,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130400,13,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130500,16,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130601,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130602,7,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130701,11,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059130702,34,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140300,8,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140400,22,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140500,21,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059140600,15,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150300,15,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150400,16,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150500,9,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150600,15,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150701,5,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150702,4,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150800,3,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059150900,12,land_own_atl_p,Percent of Land in Sq Ft Owned in Metro Atlanta,Athens-Clarke County Tax Assessor Property Sales Data 2021,pct,0
+13059000100,1710649.013003901,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,373042,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,315.67045652726006,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,288.33968253968254,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,2275798.722222222,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,149956.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,172.6273763018505,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000401,199.41674659757314,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,14350956.843283582,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,539783,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,230.97219874974883,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000402,152.34485896269337,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,716872.4213036567,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,374799,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,99.24207885357364,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000600,41.96426116838488,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,411888.5608614232,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,120713,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,25.76391115699358,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000900,15.799523809799709,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,522635.0291353383,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,382508,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,37.89071314887521,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001200,19.829917352319907,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,351742.74374374375,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,233357,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,22.591830870881434,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001700,12.121751535074118,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,1118817.0758556891,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,300000,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,39.52269050579117,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001800,25.036245517079195,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,465832.2394265233,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,273582,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,51.40762209595525,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059001900,33.52984206151289,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,744438.4157814871,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,563003,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,47.0279416937074,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002000,30.78474239412934,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,604858.5861136159,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,422273,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,108.57294882864439,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002100,47.23450888953658,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,363331.86526946106,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,299408,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,102.34724522564895,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059002200,32.02453137273815,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,301836.699879952,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,216964,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,70.54748657905525,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030101,44.22763315979175,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,483760.5394957983,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,150553,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,38.86616379017694,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030102,19.031781226903178,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,163895.10122699387,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,100904,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,44.00367394934516,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059030200,10.794354261487776,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,275926.9811031665,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,181739,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,17.12538036216926,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130300,9.383103178928366,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,245429.78377372536,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,208512,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,15.596961674859422,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130400,8.263189476113547,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,312369.5997239475,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,207565,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,6.9696495927103514,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130500,4.415291680187714,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,289524.33157099696,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,173641,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,53.0315928758967,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130601,17.392194478524594,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,538754.58172043,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,261646.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,40.90524120799971,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130602,13.735506936456531,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,425378.74695652176,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,268972.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,70.3639061685019,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130701,15.899892072128807,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,539901.4048234281,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,248310,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,31.066080653411337,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059130702,30.700736981998308,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,145374.14130969965,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,111700,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,3.3705335338849083,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140300,2.1845095099615266,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,331293.5780409042,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,133830,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,4.220793654224146,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140400,2.6157023980485117,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,527934.2338204593,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,71348,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,12.19522523302534,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140500,4.877804668960669,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,252476.1409068747,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,187034,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,5.94689647550358,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059140600,5.359916910864646,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,375572.13615733734,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,305604,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,33.322298551314375,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150300,11.120972027135984,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,732223.7636849132,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,173669,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,82.18615478303111,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150400,29.000636884723864,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,563894.064092664,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,191000,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,139.94464993175524,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150500,39.88076923076923,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,371661.7479201331,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,174900,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,118.5439070532059,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150600,79.61845018450184,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,311182.94869942195,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,234768.5,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,23.95556481346634,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150701,10.842979894637496,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,267683.2827140549,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,264189,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,7.278685456589117,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150702,8.78009498873531,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,264580.79115479114,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,241549,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,14.436364019844161,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150800,9.458120888861673,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,254348.684870188,avg_appr_val,Average Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,202170,med_appr_val,Median Appraisal Value,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,28.108820322952887,avg_appr_ppsqft,Average Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059150900,6.747557491683652,med_appr_ppsqft,Median Apprasial Value per Square Foot,Athens-Clarke County Tax Assessor Apprasial Data 2022,count,0
+13059000100,0.26392746829786906,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.8771267868545605,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.8711469217434122,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.7133115773691638,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.9818438260306702,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.9840380162867088,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.33157382210980774,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,1.4543248980058463,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.16847502714897225,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.2342620338303252,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.5706350755003744,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,1.339869342774039,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000100,0.7105427758819282,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,0.5143707546266036,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,0.9136721924568816,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,1.7082374703430356,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,0.614240182289174,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,1.1630453850990925,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,1.7287302529718385,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,0.8739789189080404,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,2.0148630037150133,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,0.21607049066810224,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,0.9469763435949792,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,1.6721214932491053,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,2.4761294575649804,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000401,1.678992363141223,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.6340076939873592,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,1.0183217042161137,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.9103951406641234,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.7468970348979296,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.9836121338662288,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,1.090277403163349,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.8251144576484954,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,1.682756946204371,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.3983933746299909,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.6921139256546637,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,1.049625892879004,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,1.870048849162709,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000402,0.9148191054273274,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.37434535539378216,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.539313004940948,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.2442604282418785,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.222282052719674,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.5180888887938591,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.6894172175111662,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.6105894302279172,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,1.685071658199596,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.2563991844013908,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.27695468384926547,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.31728180070369266,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,1.190702106500635,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000600,0.807341657858562,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.36645558797085503,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.608846196903877,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.4599067395073113,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.6873970584259489,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.7269494144410484,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.6837630197028519,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.5300522687416734,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,1.86649442492529,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.3282399615720353,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.7363408424475608,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.55330675780369,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.6874808905765274,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059000900,0.5258177485775244,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.6737586727454716,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.9202880761738816,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.8755864612559795,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,1.2045715357423028,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,1.283891415624878,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,1.0369940080855773,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.648502958312918,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,1.5269007446973717,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.511831442442791,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.9877889615941702,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,1.0407483649350278,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.9719178903083512,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001200,0.9533044802679674,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.5549690984882413,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,1.1585804280158016,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.4356014448681466,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.9546845632524584,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.8087006359267659,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.7850275544491753,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,1.15962078706261,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,1.4779408274397343,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.5433484844487406,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.8288561597036088,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.8994455782219284,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.7513032115249072,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001700,0.9359507376757524,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.38647299685608094,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.5610354997810172,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.22733252642483276,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.479538314519447,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.3999604137482843,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.5988791690171125,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.7055012456858983,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,1.9356736221700563,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.32942430795373245,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.4527675599065598,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.464170985655833,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.6425376178821776,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001800,0.6213933485158021,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.44757973846995625,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.587660334381743,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.4482199016557769,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.4664924510259322,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.5310672364518828,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.750809389599786,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.5204357117054753,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,1.7323565821641649,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.2545659531359576,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.3458556431916466,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.26475576436935605,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.7014092670019425,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059001900,0.8448337449663873,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.5292398064377463,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.7863073127933515,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.505838938184106,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.5461406202060877,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.7926605183184416,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.7285053269274263,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.5089044213818864,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,2.1128514578926785,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.31613126172883843,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.5772169074319535,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.8480176581658863,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,1.26263996157946,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059002000,0.8412122166404116,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.5377437581216685,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.9276829832904138,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.8473809488881782,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.26578187232282996,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.5962148553813712,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.9308491138570676,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.6024476940706667,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,2.2019267463215124,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.18511225481958649,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.2597594165461703,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,0.8833441356900292,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,1.7562133803818047,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059002100,1.091376242167737,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,0.4717708049022633,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,0.8380198529158965,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,1.6376086627367272,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,0.5679336702892801,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,1.1693665403222444,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,1.641382195109743,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,0.7742070025216031,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,2.363870794923054,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,0.3628694343159998,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,0.9047551922399656,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,1.757373514097018,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,2.351495495192153,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059002200,1.8376815568482745,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,0.6086778645288348,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.0236966614249576,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.252274201932561,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.0263427691548372,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.2766998625216928,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.0479304760815682,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,0.8176388137306494,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.993652759461926,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,0.5758272684770918,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,0.8675410336271375,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,0.6893366964475363,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,1.115454818945663,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059030101,0.9263775806869134,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,0.7153442772354942,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.1183889422143118,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.5953486937611,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.3406485504590786,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.7007798865126451,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.2602797421433551,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.059631532816543,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.4756095764354558,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,0.34441018584764954,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.0641483189771854,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,0.849398732296077,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.149417384833412,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059030102,1.0818211435272214,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,0.6121244807292203,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.3482292359218753,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.5433028981425496,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.4478238410720774,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.8238057875189015,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.4720609936106144,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,0.9346724788546872,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.4838376075713315,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,0.5116576120612821,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.005217754531198,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.3793173334021658,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,1.9166866216988785,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059030200,0.6206477197511525,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,1.0780496942668223,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.14448794162091,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,0.962634609861804,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.000953556900124,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,1.546915808485699,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,1.946210147189664,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.4641819590040472,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.676734194140751,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,1.8507740842048463,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.1581988013286297,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,1.7272201544557972,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.0665337661626983,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130300,2.189590819741891,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.2903690218700508,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,2.550623044036892,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.3874174381182194,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.805362519357012,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.7181278601381524,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.8785897956342248,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,2.4723952709760217,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,2.1140153417482774,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.4482881441148578,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,2.310980926347637,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,1.688393343897184,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,2.5557192004033933,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130400,2.5657862168907117,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,1.8941809407032248,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,3.1616064198758993,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,3.4367249686232046,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,2.248434756680598,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,2.8576946565271517,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,3.489060814769806,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,2.5296672203731623,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,3.3384020653588715,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,1.6385948498926184,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,2.6722368021234097,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,2.2783322198539873,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,1.841733896213996,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130500,1.879298118368668,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,0.7995228674176992,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.5078533978497222,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.5587891169137575,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,0.9246857088323076,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.200768756954706,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.759617987091037,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.1999608269322264,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.6830176441246067,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,0.4717945144109827,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.322581157991909,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.1068391031495917,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.1368450099857452,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130601,1.1537168658496455,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,0.9977816750770367,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.0652088612105937,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.3943228085523618,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.1150713909473695,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.3181164236709184,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.276784134541132,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.0222875376681149,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.1094967953882997,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,0.4596949204999741,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.2900137673329817,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,1.1120265154675757,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,0.6743819099691926,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130602,0.8748238293039237,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,0.8705155531930687,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.0150797294939569,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,2.0935351762290693,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.3108821401680792,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.5251848532514831,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.9240691291530567,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,0.7880211890766076,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.084755177103439,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,0.4870849819106477,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.0513054546578355,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.3422377018269056,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,0.72424373043676,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130701,1.0057544158327405,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,0.7894346749440263,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,2.1811393023506453,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,3.6938698413177415,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,0.8700698755371766,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,1.9170692909157,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,3.4186029224991077,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,1.1990362493816993,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,2.7272137438516446,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,0.7709992174489306,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,1.619760906632315,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,1.4386544143299451,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,0.6851576459609781,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059130702,0.6921754952075158,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,1.3395436266424874,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,1.9305027850117655,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,2.0112008394604852,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,2.929080130870411,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,2.708088443753356,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,3.227901445922969,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,2.874273097086964,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,2.718281471992185,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,1.6192377170023189,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,3.1359023229509906,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,2.624632933366546,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,1.3833041540490678,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140300,1.1906187174503218,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,0.7447647607586196,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,1.5998190891724315,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,3.0117300302271257,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,4.069191325036266,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,3.995624028390349,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,4.300969920529621,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,4.032590167322495,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,3.2040930292328267,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,2.6042050164319206,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,4.134437510430764,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,3.731455603059826,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,1.8995840802931196,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140400,1.110319309250851,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,1.429252142175515,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,1.878587669622944,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,1.8492713109352197,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.2562010508732087,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.5369193885188484,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.226867554301522,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,1.8964237179819772,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.1517381022656723,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,0.978450841264023,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.4340720342795645,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.3634620690474835,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,2.606226939014025,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140500,1.3460035525293186,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,1.875306204372038,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,2.881409790592123,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,2.530284018540173,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,2.951578877975854,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,3.758789787122885,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,3.1713251250748726,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,2.627626358287219,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,3.2078131771082012,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,2.135178495234091,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,3.3062086375835733,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,3.009875307294249,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,4.192283898447589,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059140600,2.4865774705704697,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.0458020812596909,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.4459889315580474,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.5467474225038096,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.757017923803315,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.8713927812322249,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.5360737666630155,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.2092332081163113,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.6710634073951331,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,0.5952874265094967,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.103888818485096,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.6705662935636127,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.2147387096725404,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150300,1.440776498695758,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,0.7098862693993151,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,1.5714743573622023,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,1.9970395560510104,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,1.1907128765082922,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,2.007756904016819,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,2.1533415777565357,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,1.6891177480825907,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,2.271671533377649,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,0.4735362869245768,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,1.641050998708959,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,2.323213724660002,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,2.982105730192876,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150400,2.4340138450759605,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,0.6251349859527989,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,0.9570627997609942,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,0.906601327711726,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,0.8139770186567314,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,1.9166881739338928,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,1.8291291521232087,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,1.3944950067163653,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,1.04339636405475,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,0.3768023844303297,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,0.7031162297492392,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,1.6299223156019589,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,2.7645796136034653,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150500,1.4365124416094288,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.6316740504071329,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.7397148791391605,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.5272610942661039,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.5728372926625234,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,1.916005573599668,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,1.063545008644444,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.9225325657679676,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.7398913858989012,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.4004845763834427,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.6316206520690146,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.9726097388883972,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,3.052249798019672,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150600,0.8446497978249937,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,0.7622702829715354,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,1.011346659628588,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,0.9273076798886656,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,0.8828053170622427,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,2.9833166890472542,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,1.2040667429419207,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,1.0481269838789358,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,1.292645971137105,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,0.6817306640331571,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,1.2715368588290312,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,0.9846378856827506,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,4.162106444506181,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150701,1.4841295835792911,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,1.8170909176390584,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.144130479066437,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.073632424730433,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.109045801581473,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,4.289095816998753,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.2463809132656234,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,1.9833698239227224,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.509462114523769,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,1.3238259901530756,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.2847122809199725,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.102887398226005,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,5.465392024078319,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150702,2.719972125902382,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.415311993411327,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.5980243646427998,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.7552239883086906,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.5103678423744296,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,3.823294516503051,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,2.224536158926554,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.9019622640330345,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.8652283749280816,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,0.910249268047294,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.7828256479304012,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,1.7183696123742138,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,4.85168960605349,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150800,2.648711161341778,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.310285439325725,CONVENIENCE STORES,Third Closest Convenience Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.77196953403823,SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE),Third Closest Supermarket and Grocery Store,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.836785848724572,OFFICE OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS),Third Closest Physicians Office,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.349656836125131,OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS),Third Closest Mental Health Practitioner or Outpatient Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,4.444690771316894,OFFICES OF DENTISTS,Third Closest Dentist,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,3.49568413716611,PHARMACIES AND DRUG RETAILERS,Third Closest Pharmacy and Drug Retailer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.8768961525704486,FITNESS AND RECREATIONAL SPORTS CENTERS,Third Closest Fitness and Recreactional Center,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.9457723970858782,CHILD DAY CARE SERVICES,Third Closest Child Day Care Services,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,1.776877320194864,REAL ESTATE PROPERTY MANAGERS,Third Closest Real Estate Property Manager,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.7107281473108302,OFFICES OF LAWYERS,Third Closest Office of Lawyers,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,2.836909321934915,NON-PROFIT ORGANIZATION,Third Closest Non-Profit Organization,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,5.5352464650883855,NEW AND USED CAR DEALERS,Third Closest New and Used Car Dealer,Athens-Clarke County Business Tax Division 2021,count,0
+13059150900,3.64788802573325,AUTO REPAIR AND MAINTENANCE,Third Closest Autmotive Repair and Maintenance,Athens-Clarke County Business Tax Division 2021,count,0

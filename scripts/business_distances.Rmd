@@ -1,0 +1,111 @@
+---
+title: "Business proximity by tract in Athens"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(sf)
+library(nngeo)
+
+ccsd_eszones<-st_read("data/acc_es_zones.geojson")
+
+busdata<-read_csv("data/business_tax_division_2021.csv") %>%
+  mutate(acc_naics1=case_when(acc_naics == "GASOLINE STATIONS WITH CONVENIENCE STORES"~"CONVENIENCE STORES",
+                              acc_naics == "OUTPATIENT MENTAL HEALTH AND SUBSTANCE ABUSE CENTERS"~"OFFICES OF   
+                                              MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS)",
+                              acc_naics == "OTHER AUTO REPAIR AND MAINTENANCE"~"AUTO REPAIR AND MAINTENANCE",
+                              acc_naics == "AUTOMOTIVE BODY, PAINT, INTERIOR, AND GLASS REPAIR"~"AUTO REPAIR AND MAINTENANCE",
+                              acc_naics == "AUTOMOTIVE MECHANICAL AND ELECTRICAL REPAIR AND MAINTENANCE"~"AUTO REPAIR AND,                                                      MAINTENANCE",
+                              acc_naics == "NEW CAR DEALERS"~"NEW AND USED CAR DEALERS",
+                              acc_naics == "USED CAR DEALERS"~"NEW AND USED CAR DEALERS",
+                              TRUE~acc_naics))
+
+busdata<- busdata %>%
+  filter(Y>0) %>%
+  st_as_sf(coords=c("X","Y"),crs=4326)
+
+blocks<-st_read("data/clarke_blockcent_2020.gpkg")
+blocks_df<-blocks %>% 
+  st_join(ccsd_eszones,join=st_within) %>%
+  st_set_geometry(NULL) %>%
+  mutate(totpop=as.numeric(U7C001),
+         tct_fips=paste(STATEFP20,COUNTYFP20,TRACTCE20,sep="")) %>%
+  select(GISJOIN,GEOID20,tct_fips,School,totpop) 
+```
+
+## Calculate distances
+We use the nngeo package to calculate the nearest three neighbors. To do this by category, we functionalize the distance function to subset by business type. The population weighted average by tract is also calculated.
+
+```{r cars}
+naics_count<-busdata %>%
+  st_set_geometry(NULL) %>%
+  count(acc_naics1) %>%
+  filter(n>=15)
+
+bus_dist_tct<-function(naics_sel){
+  busdata_sel<-busdata %>%
+    filter(acc_naics1==naics_sel)
+  
+  result<-st_nn(blocks,busdata_sel,k=5,returnDist=TRUE)
+  
+  result1<-data.frame(do.call(rbind,result$dist)*0.000621371) %>% #Includes conversion to miles
+    mutate(acc_naics1=naics_sel) 
+  bind_cols(blocks_df,result1) %>%
+     left_join(naics_count) %>%
+     group_by(tct_fips,acc_naics1) %>%
+     summarise(D1=sum(X1*totpop)/sum(totpop),
+               D2=sum(X2*totpop)/sum(totpop),
+               D3=sum(X3*totpop)/sum(totpop))
+}
+
+distances<-map_df(naics_count$acc_naics1,bus_dist_tct)
+
+write_csv(distances,"data/accnaics_distances_tct.csv")
+
+
+bus_dist_es<-function(naics_sel){
+  blocks_sel<-blocks_df 
+  
+  busdata_sel<-busdata %>%
+    filter(acc_naics1==naics_sel)
+  
+  result<-st_nn(blocks,busdata_sel,k=5,returnDist=TRUE)
+  
+  result1<-data.frame(do.call(rbind,result$dist)*0.000621371) %>% #Includes conversion to miles
+    mutate(acc_naics1=naics_sel) 
+  bind_cols(blocks_df,result1) %>%
+     left_join(naics_count) %>%
+     filter(is.na(School)==FALSE) %>%
+     group_by(School,acc_naics1) %>%
+     summarise(D1=sum(X1*totpop)/sum(totpop),
+               D2=sum(X2*totpop)/sum(totpop),
+               D3=sum(X3*totpop)/sum(totpop))
+}
+
+distances_es<-map_df(naics_count$acc_naics1,bus_dist_es)
+
+
+write_csv(distances_es,"data/accnaics_distances_eszone.csv")
+
+```
+
+Create a wide version
+
+```{r}
+distance_wide_tct<-distances %>%
+  select(-D1,-D2) %>%
+  pivot_wider(names_from=acc_naics1,values_from=D3)
+
+write_csv(distance_wide_tct,"data/accnaics_distances_tct_wide.csv")
+
+distance_wide_es<-distances_es %>%
+  select(-D1,-D2) %>%
+  pivot_wider(names_from=acc_naics1,values_from=D3)
+
+write_csv(distance_wide_es,"data/accnaics_distances_es_wide.csv")
+```
+

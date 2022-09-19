@@ -1,0 +1,2145 @@
+var,SchoolID,School,est,type,description
+Age05,1,Alps Road,553,count,Age under 5 years
+Age05,2,Barnett Shoals,886,count,Age under 5 years
+Age05,3,Barrow,707,count,Age under 5 years
+Age05,4,Choice Zone-West,234,count,Age under 5 years
+Age05,5,Chase Street,412,count,Age under 5 years
+Age05,6,Cleveland Road,291,count,Age under 5 years
+Age05,7,Fowler Drive,284,count,Age under 5 years
+Age05,8,Gaines,324,count,Age under 5 years
+Age05,9,Howard B Stroud,188,count,Age under 5 years
+Age05,10,Judia Jackson Harris,391,count,Age under 5 years
+Age05,11,Choice Zone-East,251,count,Age under 5 years
+Age05,12,Oglethorpe,307,count,Age under 5 years
+Age05,13,Timothy Rd.,445,count,Age under 5 years
+Age05,14,Whit Davis,532,count,Age under 5 years
+Age05,15,Whitehead Rd.,398,count,Age under 5 years
+Age05,16,Winterville,316,count,Age under 5 years
+Age18_24,1,Alps Road,1195,count,Age 18-24
+Age18_24,2,Barnett Shoals,4036,count,Age 18-24
+Age18_24,3,Barrow,12490,count,Age 18-24
+Age18_24,4,Choice Zone-West,542,count,Age 18-24
+Age18_24,5,Chase Street,1210,count,Age 18-24
+Age18_24,6,Cleveland Road,375,count,Age 18-24
+Age18_24,7,Fowler Drive,500,count,Age 18-24
+Age18_24,8,Gaines,1589,count,Age 18-24
+Age18_24,9,Howard B Stroud,3100,count,Age 18-24
+Age18_24,10,Judia Jackson Harris,330,count,Age 18-24
+Age18_24,11,Choice Zone-East,1509,count,Age 18-24
+Age18_24,12,Oglethorpe,366,count,Age 18-24
+Age18_24,13,Timothy Rd.,2047,count,Age 18-24
+Age18_24,14,Whit Davis,569,count,Age 18-24
+Age18_24,15,Whitehead Rd.,191,count,Age 18-24
+Age18_24,16,Winterville,458,count,Age 18-24
+Age18_64,1,Alps Road,4453,count,Age 18-64
+Age18_64,2,Barnett Shoals,8899,count,Age 18-64
+Age18_64,3,Barrow,22868,count,Age 18-64
+Age18_64,4,Choice Zone-West,3360,count,Age 18-64
+Age18_64,5,Chase Street,5015,count,Age 18-64
+Age18_64,6,Cleveland Road,3332,count,Age 18-64
+Age18_64,7,Fowler Drive,3472,count,Age 18-64
+Age18_64,8,Gaines,4884,count,Age 18-64
+Age18_64,9,Howard B Stroud,5283,count,Age 18-64
+Age18_64,10,Judia Jackson Harris,2308,count,Age 18-64
+Age18_64,11,Choice Zone-East,4766,count,Age 18-64
+Age18_64,12,Oglethorpe,3364,count,Age 18-64
+Age18_64,13,Timothy Rd.,7211,count,Age 18-64
+Age18_64,14,Whit Davis,4084,count,Age 18-64
+Age18_64,15,Whitehead Rd.,3837,count,Age 18-64
+Age18_64,16,Winterville,4004,count,Age 18-64
+AgeO65,1,Alps Road,1112,count,Age 65 and older
+AgeO65,2,Barnett Shoals,957,count,Age 65 and older
+AgeO65,3,Barrow,1013,count,Age 65 and older
+AgeO65,4,Choice Zone-West,580,count,Age 65 and older
+AgeO65,5,Chase Street,595,count,Age 65 and older
+AgeO65,6,Cleveland Road,656,count,Age 65 and older
+AgeO65,7,Fowler Drive,463,count,Age 65 and older
+AgeO65,8,Gaines,808,count,Age 65 and older
+AgeO65,9,Howard B Stroud,560,count,Age 65 and older
+AgeO65,10,Judia Jackson Harris,480,count,Age 65 and older
+AgeO65,11,Choice Zone-East,835,count,Age 65 and older
+AgeO65,12,Oglethorpe,805,count,Age 65 and older
+AgeO65,13,Timothy Rd.,2401,count,Age 65 and older
+AgeO65,14,Whit Davis,909,count,Age 65 and older
+AgeO65,15,Whitehead Rd.,824,count,Age 65 and older
+AgeO65,16,Winterville,884,count,Age 65 and older
+AgeU18,1,Alps Road,1456,count,Age under 18
+AgeU18,2,Barnett Shoals,2247,count,Age under 18
+AgeU18,3,Barrow,1639,count,Age under 18
+AgeU18,4,Choice Zone-West,1812,count,Age under 18
+AgeU18,5,Chase Street,1310,count,Age under 18
+AgeU18,6,Cleveland Road,1383,count,Age under 18
+AgeU18,7,Fowler Drive,1151,count,Age under 18
+AgeU18,8,Gaines,1267,count,Age under 18
+AgeU18,9,Howard B Stroud,629,count,Age under 18
+AgeU18,10,Judia Jackson Harris,1030,count,Age under 18
+AgeU18,11,Choice Zone-East,916,count,Age under 18
+AgeU18,12,Oglethorpe,1369,count,Age under 18
+AgeU18,13,Timothy Rd.,1296,count,Age under 18
+AgeU18,14,Whit Davis,1449,count,Age under 18
+AgeU18,15,Whitehead Rd.,1812,count,Age under 18
+AgeU18,16,Winterville,1140,count,Age under 18
+Ed_ba,1,Alps Road,1073,count,Highest educational attainment: Bachelor's degree
+Ed_ba,2,Barnett Shoals,1680,count,Highest educational attainment: Bachelor's degree
+Ed_ba,3,Barrow,2505,count,Highest educational attainment: Bachelor's degree
+Ed_ba,4,Choice Zone-West,266,count,Highest educational attainment: Bachelor's degree
+Ed_ba,5,Chase Street,1090,count,Highest educational attainment: Bachelor's degree
+Ed_ba,6,Cleveland Road,873,count,Highest educational attainment: Bachelor's degree
+Ed_ba,7,Fowler Drive,258,count,Highest educational attainment: Bachelor's degree
+Ed_ba,8,Gaines,906,count,Highest educational attainment: Bachelor's degree
+Ed_ba,9,Howard B Stroud,758,count,Highest educational attainment: Bachelor's degree
+Ed_ba,10,Judia Jackson Harris,161,count,Highest educational attainment: Bachelor's degree
+Ed_ba,11,Choice Zone-East,993,count,Highest educational attainment: Bachelor's degree
+Ed_ba,12,Oglethorpe,770,count,Highest educational attainment: Bachelor's degree
+Ed_ba,13,Timothy Rd.,2117,count,Highest educational attainment: Bachelor's degree
+Ed_ba,14,Whit Davis,1006,count,Highest educational attainment: Bachelor's degree
+Ed_ba,15,Whitehead Rd.,769,count,Highest educational attainment: Bachelor's degree
+Ed_ba,16,Winterville,898,count,Highest educational attainment: Bachelor's degree
+Ed_hsgrad,1,Alps Road,868,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,2,Barnett Shoals,729,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,3,Barrow,609,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,4,Choice Zone-West,1088,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,5,Chase Street,696,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,6,Cleveland Road,598,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,7,Fowler Drive,1242,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,8,Gaines,1062,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,9,Howard B Stroud,856,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,10,Judia Jackson Harris,818,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,11,Choice Zone-East,814,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,12,Oglethorpe,768,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,13,Timothy Rd.,1366,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,14,Whit Davis,690,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,15,Whitehead Rd.,1082,count,Highest educational attainment: High school diploma or GED
+Ed_hsgrad,16,Winterville,1023,count,Highest educational attainment: High school diploma or GED
+Ed_lesshs,1,Alps Road,461,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,2,Barnett Shoals,282,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,3,Barrow,229,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,4,Choice Zone-West,759,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,5,Chase Street,360,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,6,Cleveland Road,488,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,7,Fowler Drive,604,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,8,Gaines,784,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,9,Howard B Stroud,476,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,10,Judia Jackson Harris,600,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,11,Choice Zone-East,276,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,12,Oglethorpe,620,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,13,Timothy Rd.,383,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,14,Whit Davis,164,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,15,Whitehead Rd.,480,count,Highest educational attainment: Less than high school graduate
+Ed_lesshs,16,Winterville,626,count,Highest educational attainment: Less than high school graduate
+Ed_ma,1,Alps Road,547,count,Highest educational attainment: MA degree
+Ed_ma,2,Barnett Shoals,1113,count,Highest educational attainment: MA degree
+Ed_ma,3,Barrow,1560,count,Highest educational attainment: MA degree
+Ed_ma,4,Choice Zone-West,539,count,Highest educational attainment: MA degree
+Ed_ma,5,Chase Street,705,count,Highest educational attainment: MA degree
+Ed_ma,6,Cleveland Road,645,count,Highest educational attainment: MA degree
+Ed_ma,7,Fowler Drive,290,count,Highest educational attainment: MA degree
+Ed_ma,8,Gaines,312,count,Highest educational attainment: MA degree
+Ed_ma,9,Howard B Stroud,83,count,Highest educational attainment: MA degree
+Ed_ma,10,Judia Jackson Harris,102,count,Highest educational attainment: MA degree
+Ed_ma,11,Choice Zone-East,451,count,Highest educational attainment: MA degree
+Ed_ma,12,Oglethorpe,628,count,Highest educational attainment: MA degree
+Ed_ma,13,Timothy Rd.,1306,count,Highest educational attainment: MA degree
+Ed_ma,14,Whit Davis,887,count,Highest educational attainment: MA degree
+Ed_ma,15,Whitehead Rd.,645,count,Highest educational attainment: MA degree
+Ed_ma,16,Winterville,407,count,Highest educational attainment: MA degree
+Ed_prof_doc,1,Alps Road,511,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,2,Barnett Shoals,720,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,3,Barrow,1434,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,4,Choice Zone-West,88,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,5,Chase Street,589,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,6,Cleveland Road,204,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,7,Fowler Drive,29,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,8,Gaines,138,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,9,Howard B Stroud,48,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,10,Judia Jackson Harris,44,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,11,Choice Zone-East,447,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,12,Oglethorpe,156,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,13,Timothy Rd.,821,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,14,Whit Davis,597,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,15,Whitehead Rd.,182,count,Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,16,Winterville,322,count,Highest educational attainment: Professional degree/Doctorate
+Ed_somecol,1,Alps Road,1026,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,2,Barnett Shoals,1418,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,3,Barrow,1081,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,4,Choice Zone-West,662,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,5,Chase Street,983,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,6,Cleveland Road,886,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,7,Fowler Drive,1078,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,8,Gaines,1002,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,9,Howard B Stroud,733,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,10,Judia Jackson Harris,812,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,11,Choice Zone-East,1334,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,12,Oglethorpe,903,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,13,Timothy Rd.,1926,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,14,Whit Davis,1106,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,15,Whitehead Rd.,1293,count,Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,16,Winterville,1219,count,Highest educational attainment: Some college or Associate's Degree
+Empl_labor,1,Alps Road,3436,count,Population in labor force
+Empl_labor,2,Barnett Shoals,6064,count,Population in labor force
+Empl_labor,3,Barrow,11099,count,Population in labor force
+Empl_labor,4,Choice Zone-West,2654,count,Population in labor force
+Empl_labor,5,Chase Street,3929,count,Population in labor force
+Empl_labor,6,Cleveland Road,2851,count,Population in labor force
+Empl_labor,7,Fowler Drive,2605,count,Population in labor force
+Empl_labor,8,Gaines,3583,count,Population in labor force
+Empl_labor,9,Howard B Stroud,2791,count,Population in labor force
+Empl_labor,10,Judia Jackson Harris,1605,count,Population in labor force
+Empl_labor,11,Choice Zone-East,3816,count,Population in labor force
+Empl_labor,12,Oglethorpe,2848,count,Population in labor force
+Empl_labor,13,Timothy Rd.,5630,count,Population in labor force
+Empl_labor,14,Whit Davis,3379,count,Population in labor force
+Empl_labor,15,Whitehead Rd.,2580,count,Population in labor force
+Empl_labor,16,Winterville,2875,count,Population in labor force
+Empl_unemp,1,Alps Road,236,count,Population unemployed
+Empl_unemp,2,Barnett Shoals,273,count,Population unemployed
+Empl_unemp,3,Barrow,990,count,Population unemployed
+Empl_unemp,4,Choice Zone-West,248,count,Population unemployed
+Empl_unemp,5,Chase Street,194,count,Population unemployed
+Empl_unemp,6,Cleveland Road,147,count,Population unemployed
+Empl_unemp,7,Fowler Drive,139,count,Population unemployed
+Empl_unemp,8,Gaines,241,count,Population unemployed
+Empl_unemp,9,Howard B Stroud,136,count,Population unemployed
+Empl_unemp,10,Judia Jackson Harris,83,count,Population unemployed
+Empl_unemp,11,Choice Zone-East,169,count,Population unemployed
+Empl_unemp,12,Oglethorpe,172,count,Population unemployed
+Empl_unemp,13,Timothy Rd.,175,count,Population unemployed
+Empl_unemp,14,Whit Davis,140,count,Population unemployed
+Empl_unemp,15,Whitehead Rd.,112,count,Population unemployed
+Empl_unemp,16,Winterville,98,count,Population unemployed
+HInsur_FBNat,1,Alps Road,117,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,2,Barnett Shoals,272,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,3,Barrow,767,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,4,Choice Zone-West,130,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,5,Chase Street,179,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,6,Cleveland Road,193,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,7,Fowler Drive,110,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,8,Gaines,61,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,9,Howard B Stroud,130,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,10,Judia Jackson Harris,39,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,11,Choice Zone-East,199,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,12,Oglethorpe,278,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,13,Timothy Rd.,355,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,14,Whit Davis,187,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,15,Whitehead Rd.,260,count,Has health insurance foreign born and naturalized
+HInsur_FBNat,16,Winterville,88,count,Has health insurance foreign born and naturalized
+HInsur_FBNC,1,Alps Road,251,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,2,Barnett Shoals,754,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,3,Barrow,1259,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,4,Choice Zone-West,65,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,5,Chase Street,141,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,6,Cleveland Road,128,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,7,Fowler Drive,208,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,8,Gaines,70,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,9,Howard B Stroud,79,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,10,Judia Jackson Harris,278,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,11,Choice Zone-East,268,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,12,Oglethorpe,68,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,13,Timothy Rd.,369,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,14,Whit Davis,117,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,15,Whitehead Rd.,506,count,Has health insurance foreign born non-citizen
+HInsur_FBNC,16,Winterville,207,count,Has health insurance foreign born non-citizen
+HInsur_Nat,1,Alps Road,5947,count,Has health insurance native born
+HInsur_Nat,2,Barnett Shoals,10267,count,Has health insurance native born
+HInsur_Nat,3,Barrow,21516,count,Has health insurance native born
+HInsur_Nat,4,Choice Zone-West,3821,count,Has health insurance native born
+HInsur_Nat,5,Chase Street,5569,count,Has health insurance native born
+HInsur_Nat,6,Cleveland Road,4139,count,Has health insurance native born
+HInsur_Nat,7,Fowler Drive,3522,count,Has health insurance native born
+HInsur_Nat,8,Gaines,5809,count,Has health insurance native born
+HInsur_Nat,9,Howard B Stroud,5179,count,Has health insurance native born
+HInsur_Nat,10,Judia Jackson Harris,2472,count,Has health insurance native born
+HInsur_Nat,11,Choice Zone-East,5314,count,Has health insurance native born
+HInsur_Nat,12,Oglethorpe,4012,count,Has health insurance native born
+HInsur_Nat,13,Timothy Rd.,8932,count,Has health insurance native born
+HInsur_Nat,14,Whit Davis,5725,count,Has health insurance native born
+HInsur_Nat,15,Whitehead Rd.,5157,count,Has health insurance native born
+HInsur_Nat,16,Winterville,4983,count,Has health insurance native born
+HousOwn,1,Alps Road,2234,count,Population in owner occupied housing
+HousOwn,2,Barnett Shoals,4084,count,Population in owner occupied housing
+HousOwn,3,Barrow,3202,count,Population in owner occupied housing
+HousOwn,4,Choice Zone-West,3360,count,Population in owner occupied housing
+HousOwn,5,Chase Street,2230,count,Population in owner occupied housing
+HousOwn,6,Cleveland Road,2515,count,Population in owner occupied housing
+HousOwn,7,Fowler Drive,2828,count,Population in owner occupied housing
+HousOwn,8,Gaines,1735,count,Population in owner occupied housing
+HousOwn,9,Howard B Stroud,902,count,Population in owner occupied housing
+HousOwn,10,Judia Jackson Harris,2608,count,Population in owner occupied housing
+HousOwn,11,Choice Zone-East,2472,count,Population in owner occupied housing
+HousOwn,12,Oglethorpe,3000,count,Population in owner occupied housing
+HousOwn,13,Timothy Rd.,5575,count,Population in owner occupied housing
+HousOwn,14,Whit Davis,4319,count,Population in owner occupied housing
+HousOwn,15,Whitehead Rd.,4440,count,Population in owner occupied housing
+HousOwn,16,Winterville,3961,count,Population in owner occupied housing
+HousRent,1,Alps Road,4576,count,Population in renter occupied housing
+HousRent,2,Barnett Shoals,8014,count,Population in renter occupied housing
+HousRent,3,Barrow,12213,count,Population in renter occupied housing
+HousRent,4,Choice Zone-West,2310,count,Population in renter occupied housing
+HousRent,5,Chase Street,4234,count,Population in renter occupied housing
+HousRent,6,Cleveland Road,2824,count,Population in renter occupied housing
+HousRent,7,Fowler Drive,2256,count,Population in renter occupied housing
+HousRent,8,Gaines,5194,count,Population in renter occupied housing
+HousRent,9,Howard B Stroud,5412,count,Population in renter occupied housing
+HousRent,10,Judia Jackson Harris,1210,count,Population in renter occupied housing
+HousRent,11,Choice Zone-East,4043,count,Population in renter occupied housing
+HousRent,12,Oglethorpe,2422,count,Population in renter occupied housing
+HousRent,13,Timothy Rd.,5231,count,Population in renter occupied housing
+HousRent,14,Whit Davis,2115,count,Population in renter occupied housing
+HousRent,15,Whitehead Rd.,2033,count,Population in renter occupied housing
+HousRent,16,Winterville,1963,count,Population in renter occupied housing
+Inc_10K,1,Alps Road,623,count,"Household income < $10,000"
+Inc_10K,2,Barnett Shoals,682,count,"Household income < $10,000"
+Inc_10K,3,Barrow,1678,count,"Household income < $10,000"
+Inc_10K,4,Choice Zone-West,110,count,"Household income < $10,000"
+Inc_10K,5,Chase Street,373,count,"Household income < $10,000"
+Inc_10K,6,Cleveland Road,95,count,"Household income < $10,000"
+Inc_10K,7,Fowler Drive,60,count,"Household income < $10,000"
+Inc_10K,8,Gaines,537,count,"Household income < $10,000"
+Inc_10K,9,Howard B Stroud,824,count,"Household income < $10,000"
+Inc_10K,10,Judia Jackson Harris,31,count,"Household income < $10,000"
+Inc_10K,11,Choice Zone-East,316,count,"Household income < $10,000"
+Inc_10K,12,Oglethorpe,115,count,"Household income < $10,000"
+Inc_10K,13,Timothy Rd.,363,count,"Household income < $10,000"
+Inc_10K,14,Whit Davis,129,count,"Household income < $10,000"
+Inc_10K,15,Whitehead Rd.,182,count,"Household income < $10,000"
+Inc_10K,16,Winterville,201,count,"Household income < $10,000"
+Inc_200K,1,Alps Road,270,count,"Household income > $200,000"
+Inc_200K,2,Barnett Shoals,124,count,"Household income > $200,000"
+Inc_200K,3,Barrow,415,count,"Household income > $200,000"
+Inc_200K,4,Choice Zone-West,58,count,"Household income > $200,000"
+Inc_200K,5,Chase Street,213,count,"Household income > $200,000"
+Inc_200K,6,Cleveland Road,87,count,"Household income > $200,000"
+Inc_200K,7,Fowler Drive,5,count,"Household income > $200,000"
+Inc_200K,8,Gaines,38,count,"Household income > $200,000"
+Inc_200K,9,Howard B Stroud,1,count,"Household income > $200,000"
+Inc_200K,10,Judia Jackson Harris,1,count,"Household income > $200,000"
+Inc_200K,11,Choice Zone-East,55,count,"Household income > $200,000"
+Inc_200K,12,Oglethorpe,124,count,"Household income > $200,000"
+Inc_200K,13,Timothy Rd.,285,count,"Household income > $200,000"
+Inc_200K,14,Whit Davis,97,count,"Household income > $200,000"
+Inc_200K,15,Whitehead Rd.,82,count,"Household income > $200,000"
+Inc_200K,16,Winterville,44,count,"Household income > $200,000"
+Inc100K_149K,1,Alps Road,399,count,"Household income $100,000 - $149,999"
+Inc100K_149K,2,Barnett Shoals,523,count,"Household income $100,000 - $149,999"
+Inc100K_149K,3,Barrow,658,count,"Household income $100,000 - $149,999"
+Inc100K_149K,4,Choice Zone-West,151,count,"Household income $100,000 - $149,999"
+Inc100K_149K,5,Chase Street,309,count,"Household income $100,000 - $149,999"
+Inc100K_149K,6,Cleveland Road,255,count,"Household income $100,000 - $149,999"
+Inc100K_149K,7,Fowler Drive,116,count,"Household income $100,000 - $149,999"
+Inc100K_149K,8,Gaines,96,count,"Household income $100,000 - $149,999"
+Inc100K_149K,9,Howard B Stroud,107,count,"Household income $100,000 - $149,999"
+Inc100K_149K,10,Judia Jackson Harris,82,count,"Household income $100,000 - $149,999"
+Inc100K_149K,11,Choice Zone-East,307,count,"Household income $100,000 - $149,999"
+Inc100K_149K,12,Oglethorpe,252,count,"Household income $100,000 - $149,999"
+Inc100K_149K,13,Timothy Rd.,619,count,"Household income $100,000 - $149,999"
+Inc100K_149K,14,Whit Davis,572,count,"Household income $100,000 - $149,999"
+Inc100K_149K,15,Whitehead Rd.,530,count,"Household income $100,000 - $149,999"
+Inc100K_149K,16,Winterville,303,count,"Household income $100,000 - $149,999"
+Inc10K_24K,1,Alps Road,857,count,"Household income $10,000 - $24,999"
+Inc10K_24K,2,Barnett Shoals,886,count,"Household income $10,000 - $24,999"
+Inc10K_24K,3,Barrow,1651,count,"Household income $10,000 - $24,999"
+Inc10K_24K,4,Choice Zone-West,459,count,"Household income $10,000 - $24,999"
+Inc10K_24K,5,Chase Street,610,count,"Household income $10,000 - $24,999"
+Inc10K_24K,6,Cleveland Road,278,count,"Household income $10,000 - $24,999"
+Inc10K_24K,7,Fowler Drive,534,count,"Household income $10,000 - $24,999"
+Inc10K_24K,8,Gaines,1135,count,"Household income $10,000 - $24,999"
+Inc10K_24K,9,Howard B Stroud,1033,count,"Household income $10,000 - $24,999"
+Inc10K_24K,10,Judia Jackson Harris,483,count,"Household income $10,000 - $24,999"
+Inc10K_24K,11,Choice Zone-East,681,count,"Household income $10,000 - $24,999"
+Inc10K_24K,12,Oglethorpe,394,count,"Household income $10,000 - $24,999"
+Inc10K_24K,13,Timothy Rd.,805,count,"Household income $10,000 - $24,999"
+Inc10K_24K,14,Whit Davis,234,count,"Household income $10,000 - $24,999"
+Inc10K_24K,15,Whitehead Rd.,214,count,"Household income $10,000 - $24,999"
+Inc10K_24K,16,Winterville,399,count,"Household income $10,000 - $24,999"
+Inc150K_199K,1,Alps Road,139,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,2,Barnett Shoals,169,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,3,Barrow,286,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,4,Choice Zone-West,134,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,5,Chase Street,198,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,6,Cleveland Road,97,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,7,Fowler Drive,18,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,8,Gaines,21,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,9,Howard B Stroud,1,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,10,Judia Jackson Harris,5,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,11,Choice Zone-East,135,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,12,Oglethorpe,96,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,13,Timothy Rd.,423,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,14,Whit Davis,231,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,15,Whitehead Rd.,72,count,"Houshold income $150,000 - $199,999"
+Inc150K_199K,16,Winterville,162,count,"Houshold income $150,000 - $199,999"
+Inc25K_49K,1,Alps Road,575,count,"Household income $25,000 - $49,999"
+Inc25K_49K,2,Barnett Shoals,1126,count,"Household income $25,000 - $49,999"
+Inc25K_49K,3,Barrow,1289,count,"Household income $25,000 - $49,999"
+Inc25K_49K,4,Choice Zone-West,643,count,"Household income $25,000 - $49,999"
+Inc25K_49K,5,Chase Street,715,count,"Household income $25,000 - $49,999"
+Inc25K_49K,6,Cleveland Road,524,count,"Household income $25,000 - $49,999"
+Inc25K_49K,7,Fowler Drive,730,count,"Household income $25,000 - $49,999"
+Inc25K_49K,8,Gaines,1004,count,"Household income $25,000 - $49,999"
+Inc25K_49K,9,Howard B Stroud,514,count,"Household income $25,000 - $49,999"
+Inc25K_49K,10,Judia Jackson Harris,409,count,"Household income $25,000 - $49,999"
+Inc25K_49K,11,Choice Zone-East,993,count,"Household income $25,000 - $49,999"
+Inc25K_49K,12,Oglethorpe,564,count,"Household income $25,000 - $49,999"
+Inc25K_49K,13,Timothy Rd.,1142,count,"Household income $25,000 - $49,999"
+Inc25K_49K,14,Whit Davis,480,count,"Household income $25,000 - $49,999"
+Inc25K_49K,15,Whitehead Rd.,655,count,"Household income $25,000 - $49,999"
+Inc25K_49K,16,Winterville,612,count,"Household income $25,000 - $49,999"
+Inc50K_74K,1,Alps Road,309,count,"Household income $50,000 - $74,999"
+Inc50K_74K,2,Barnett Shoals,589,count,"Household income $50,000 - $74,999"
+Inc50K_74K,3,Barrow,748,count,"Household income $50,000 - $74,999"
+Inc50K_74K,4,Choice Zone-West,237,count,"Household income $50,000 - $74,999"
+Inc50K_74K,5,Chase Street,399,count,"Household income $50,000 - $74,999"
+Inc50K_74K,6,Cleveland Road,549,count,"Household income $50,000 - $74,999"
+Inc50K_74K,7,Fowler Drive,265,count,"Household income $50,000 - $74,999"
+Inc50K_74K,8,Gaines,426,count,"Household income $50,000 - $74,999"
+Inc50K_74K,9,Howard B Stroud,425,count,"Household income $50,000 - $74,999"
+Inc50K_74K,10,Judia Jackson Harris,200,count,"Household income $50,000 - $74,999"
+Inc50K_74K,11,Choice Zone-East,436,count,"Household income $50,000 - $74,999"
+Inc50K_74K,12,Oglethorpe,486,count,"Household income $50,000 - $74,999"
+Inc50K_74K,13,Timothy Rd.,945,count,"Household income $50,000 - $74,999"
+Inc50K_74K,14,Whit Davis,396,count,"Household income $50,000 - $74,999"
+Inc50K_74K,15,Whitehead Rd.,426,count,"Household income $50,000 - $74,999"
+Inc50K_74K,16,Winterville,427,count,"Household income $50,000 - $74,999"
+Inc75K_99K,1,Alps Road,176,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,2,Barnett Shoals,549,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,3,Barrow,464,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,4,Choice Zone-West,204,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,5,Chase Street,220,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,6,Cleveland Road,365,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,7,Fowler Drive,255,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,8,Gaines,186,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,9,Howard B Stroud,14,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,10,Judia Jackson Harris,238,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,11,Choice Zone-East,321,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,12,Oglethorpe,212,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,13,Timothy Rd.,456,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,14,Whit Davis,395,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,15,Whitehead Rd.,281,count,"Houshold income $75,000 - $99,999"
+Inc75K_99K,16,Winterville,358,count,"Houshold income $75,000 - $99,999"
+Ind_ag,1,Alps Road,6,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,2,Barnett Shoals,76,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,3,Barrow,28,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,4,Choice Zone-West,19,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,5,Chase Street,14,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,6,Cleveland Road,0,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,7,Fowler Drive,15,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,8,Gaines,18,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,9,Howard B Stroud,6,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,10,Judia Jackson Harris,42,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,11,Choice Zone-East,24,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,12,Oglethorpe,0,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,13,Timothy Rd.,36,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,14,Whit Davis,18,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,15,Whitehead Rd.,18,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,16,Winterville,4,count,"Population employed in agriculture, forestry, fishing, and hunting"
+Ind_arts,1,Alps Road,516,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,2,Barnett Shoals,725,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,3,Barrow,2258,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,4,Choice Zone-West,300,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,5,Chase Street,877,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,6,Cleveland Road,235,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,7,Fowler Drive,291,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,8,Gaines,545,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,9,Howard B Stroud,438,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,10,Judia Jackson Harris,172,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,11,Choice Zone-East,534,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,12,Oglethorpe,355,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,13,Timothy Rd.,626,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,14,Whit Davis,218,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,15,Whitehead Rd.,173,count,"Population employed in arts, entertainment, and recreation"
+Ind_arts,16,Winterville,374,count,"Population employed in arts, entertainment, and recreation"
+Ind_const,1,Alps Road,53,count,Population employed in construction
+Ind_const,2,Barnett Shoals,241,count,Population employed in construction
+Ind_const,3,Barrow,196,count,Population employed in construction
+Ind_const,4,Choice Zone-West,172,count,Population employed in construction
+Ind_const,5,Chase Street,109,count,Population employed in construction
+Ind_const,6,Cleveland Road,119,count,Population employed in construction
+Ind_const,7,Fowler Drive,154,count,Population employed in construction
+Ind_const,8,Gaines,90,count,Population employed in construction
+Ind_const,9,Howard B Stroud,24,count,Population employed in construction
+Ind_const,10,Judia Jackson Harris,190,count,Population employed in construction
+Ind_const,11,Choice Zone-East,81,count,Population employed in construction
+Ind_const,12,Oglethorpe,93,count,Population employed in construction
+Ind_const,13,Timothy Rd.,137,count,Population employed in construction
+Ind_const,14,Whit Davis,149,count,Population employed in construction
+Ind_const,15,Whitehead Rd.,229,count,Population employed in construction
+Ind_const,16,Winterville,91,count,Population employed in construction
+Ind_edhlth,1,Alps Road,1034,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,2,Barnett Shoals,2453,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,3,Barrow,4157,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,4,Choice Zone-West,568,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,5,Chase Street,1320,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,6,Cleveland Road,934,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,7,Fowler Drive,469,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,8,Gaines,985,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,9,Howard B Stroud,791,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,10,Judia Jackson Harris,264,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,11,Choice Zone-East,1383,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,12,Oglethorpe,904,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,13,Timothy Rd.,1911,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,14,Whit Davis,1316,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,15,Whitehead Rd.,1107,count,"Population employed in educational services, health care, or social assistance"
+Ind_edhlth,16,Winterville,1060,count,"Population employed in educational services, health care, or social assistance"
+Ind_finan,1,Alps Road,199,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,2,Barnett Shoals,217,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,3,Barrow,457,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,4,Choice Zone-West,41,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,5,Chase Street,127,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,6,Cleveland Road,150,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,7,Fowler Drive,63,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,8,Gaines,53,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,9,Howard B Stroud,157,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,10,Judia Jackson Harris,65,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,11,Choice Zone-East,41,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,12,Oglethorpe,129,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,13,Timothy Rd.,273,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,14,Whit Davis,103,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,15,Whitehead Rd.,189,count,"Population employed in finance, insurance, and real estate"
+Ind_finan,16,Winterville,48,count,"Population employed in finance, insurance, and real estate"
+Ind_info,1,Alps Road,23,count,Population employed in information
+Ind_info,2,Barnett Shoals,76,count,Population employed in information
+Ind_info,3,Barrow,233,count,Population employed in information
+Ind_info,4,Choice Zone-West,16,count,Population employed in information
+Ind_info,5,Chase Street,113,count,Population employed in information
+Ind_info,6,Cleveland Road,71,count,Population employed in information
+Ind_info,7,Fowler Drive,10,count,Population employed in information
+Ind_info,8,Gaines,43,count,Population employed in information
+Ind_info,9,Howard B Stroud,21,count,Population employed in information
+Ind_info,10,Judia Jackson Harris,3,count,Population employed in information
+Ind_info,11,Choice Zone-East,2,count,Population employed in information
+Ind_info,12,Oglethorpe,68,count,Population employed in information
+Ind_info,13,Timothy Rd.,84,count,Population employed in information
+Ind_info,14,Whit Davis,13,count,Population employed in information
+Ind_info,15,Whitehead Rd.,0,count,Population employed in information
+Ind_info,16,Winterville,13,count,Population employed in information
+Ind_manf,1,Alps Road,415,count,Population employed in manufacturing
+Ind_manf,2,Barnett Shoals,401,count,Population employed in manufacturing
+Ind_manf,3,Barrow,329,count,Population employed in manufacturing
+Ind_manf,4,Choice Zone-West,582,count,Population employed in manufacturing
+Ind_manf,5,Chase Street,365,count,Population employed in manufacturing
+Ind_manf,6,Cleveland Road,199,count,Population employed in manufacturing
+Ind_manf,7,Fowler Drive,313,count,Population employed in manufacturing
+Ind_manf,8,Gaines,310,count,Population employed in manufacturing
+Ind_manf,9,Howard B Stroud,241,count,Population employed in manufacturing
+Ind_manf,10,Judia Jackson Harris,174,count,Population employed in manufacturing
+Ind_manf,11,Choice Zone-East,204,count,Population employed in manufacturing
+Ind_manf,12,Oglethorpe,231,count,Population employed in manufacturing
+Ind_manf,13,Timothy Rd.,235,count,Population employed in manufacturing
+Ind_manf,14,Whit Davis,333,count,Population employed in manufacturing
+Ind_manf,15,Whitehead Rd.,190,count,Population employed in manufacturing
+Ind_manf,16,Winterville,265,count,Population employed in manufacturing
+Ind_other,1,Alps Road,128,count,Population employed in other services
+Ind_other,2,Barnett Shoals,200,count,Population employed in other services
+Ind_other,3,Barrow,393,count,Population employed in other services
+Ind_other,4,Choice Zone-West,160,count,Population employed in other services
+Ind_other,5,Chase Street,128,count,Population employed in other services
+Ind_other,6,Cleveland Road,125,count,Population employed in other services
+Ind_other,7,Fowler Drive,107,count,Population employed in other services
+Ind_other,8,Gaines,241,count,Population employed in other services
+Ind_other,9,Howard B Stroud,250,count,Population employed in other services
+Ind_other,10,Judia Jackson Harris,42,count,Population employed in other services
+Ind_other,11,Choice Zone-East,151,count,Population employed in other services
+Ind_other,12,Oglethorpe,158,count,Population employed in other services
+Ind_other,13,Timothy Rd.,215,count,Population employed in other services
+Ind_other,14,Whit Davis,92,count,Population employed in other services
+Ind_other,15,Whitehead Rd.,110,count,Population employed in other services
+Ind_other,16,Winterville,119,count,Population employed in other services
+Ind_prof,1,Alps Road,330,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,2,Barnett Shoals,568,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,3,Barrow,1005,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,4,Choice Zone-West,230,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,5,Chase Street,351,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,6,Cleveland Road,286,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,7,Fowler Drive,257,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,8,Gaines,475,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,9,Howard B Stroud,296,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,10,Judia Jackson Harris,185,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,11,Choice Zone-East,589,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,12,Oglethorpe,377,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,13,Timothy Rd.,621,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,14,Whit Davis,452,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,15,Whitehead Rd.,202,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,16,Winterville,223,count,"Population employed in professional, scientific and management, administration, or waste services"
+Ind_pubad,1,Alps Road,116,count,Population employed in public administration
+Ind_pubad,2,Barnett Shoals,138,count,Population employed in public administration
+Ind_pubad,3,Barrow,176,count,Population employed in public administration
+Ind_pubad,4,Choice Zone-West,101,count,Population employed in public administration
+Ind_pubad,5,Chase Street,87,count,Population employed in public administration
+Ind_pubad,6,Cleveland Road,116,count,Population employed in public administration
+Ind_pubad,7,Fowler Drive,128,count,Population employed in public administration
+Ind_pubad,8,Gaines,50,count,Population employed in public administration
+Ind_pubad,9,Howard B Stroud,210,count,Population employed in public administration
+Ind_pubad,10,Judia Jackson Harris,101,count,Population employed in public administration
+Ind_pubad,11,Choice Zone-East,92,count,Population employed in public administration
+Ind_pubad,12,Oglethorpe,73,count,Population employed in public administration
+Ind_pubad,13,Timothy Rd.,240,count,Population employed in public administration
+Ind_pubad,14,Whit Davis,87,count,Population employed in public administration
+Ind_pubad,15,Whitehead Rd.,118,count,Population employed in public administration
+Ind_pubad,16,Winterville,76,count,Population employed in public administration
+Ind_retail,1,Alps Road,444,count,Population employed in retail
+Ind_retail,2,Barnett Shoals,595,count,Population employed in retail
+Ind_retail,3,Barrow,895,count,Population employed in retail
+Ind_retail,4,Choice Zone-West,268,count,Population employed in retail
+Ind_retail,5,Chase Street,251,count,Population employed in retail
+Ind_retail,6,Cleveland Road,415,count,Population employed in retail
+Ind_retail,7,Fowler Drive,564,count,Population employed in retail
+Ind_retail,8,Gaines,351,count,Population employed in retail
+Ind_retail,9,Howard B Stroud,218,count,Population employed in retail
+Ind_retail,10,Judia Jackson Harris,194,count,Population employed in retail
+Ind_retail,11,Choice Zone-East,453,count,Population employed in retail
+Ind_retail,12,Oglethorpe,249,count,Population employed in retail
+Ind_retail,13,Timothy Rd.,1035,count,Population employed in retail
+Ind_retail,14,Whit Davis,327,count,Population employed in retail
+Ind_retail,15,Whitehead Rd.,311,count,Population employed in retail
+Ind_retail,16,Winterville,422,count,Population employed in retail
+Ind_trans,1,Alps Road,98,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,2,Barnett Shoals,195,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,3,Barrow,194,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,4,Choice Zone-West,118,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,5,Chase Street,88,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,6,Cleveland Road,41,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,7,Fowler Drive,144,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,8,Gaines,201,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,9,Howard B Stroud,90,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,10,Judia Jackson Harris,141,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,11,Choice Zone-East,92,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,12,Oglethorpe,35,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,13,Timothy Rd.,237,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,14,Whit Davis,278,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,15,Whitehead Rd.,39,count,"Population employed in transportation, warehousing, and utilites"
+Ind_trans,16,Winterville,187,count,"Population employed in transportation, warehousing, and utilites"
+Ind_whlsl,1,Alps Road,34,count,Population employed in wholesale trade
+Ind_whlsl,2,Barnett Shoals,166,count,Population employed in wholesale trade
+Ind_whlsl,3,Barrow,54,count,Population employed in wholesale trade
+Ind_whlsl,4,Choice Zone-West,18,count,Population employed in wholesale trade
+Ind_whlsl,5,Chase Street,58,count,Population employed in wholesale trade
+Ind_whlsl,6,Cleveland Road,128,count,Population employed in wholesale trade
+Ind_whlsl,7,Fowler Drive,42,count,Population employed in wholesale trade
+Ind_whlsl,8,Gaines,78,count,Population employed in wholesale trade
+Ind_whlsl,9,Howard B Stroud,27,count,Population employed in wholesale trade
+Ind_whlsl,10,Judia Jackson Harris,29,count,Population employed in wholesale trade
+Ind_whlsl,11,Choice Zone-East,174,count,Population employed in wholesale trade
+Ind_whlsl,12,Oglethorpe,144,count,Population employed in wholesale trade
+Ind_whlsl,13,Timothy Rd.,110,count,Population employed in wholesale trade
+Ind_whlsl,14,Whit Davis,108,count,Population employed in wholesale trade
+Ind_whlsl,15,Whitehead Rd.,54,count,Population employed in wholesale trade
+Ind_whlsl,16,Winterville,38,count,Population employed in wholesale trade
+Inet_any,1,Alps Road,2706,count,Internet: households with any subscription
+Inet_any,2,Barnett Shoals,4222,count,Internet: households with any subscription
+Inet_any,3,Barrow,6178,count,Internet: households with any subscription
+Inet_any,4,Choice Zone-West,1712,count,Internet: households with any subscription
+Inet_any,5,Chase Street,2622,count,Internet: households with any subscription
+Inet_any,6,Cleveland Road,1996,count,Internet: households with any subscription
+Inet_any,7,Fowler Drive,1617,count,Internet: households with any subscription
+Inet_any,8,Gaines,2589,count,Internet: households with any subscription
+Inet_any,9,Howard B Stroud,2249,count,Internet: households with any subscription
+Inet_any,10,Judia Jackson Harris,1177,count,Internet: households with any subscription
+Inet_any,11,Choice Zone-East,3062,count,Internet: households with any subscription
+Inet_any,12,Oglethorpe,1934,count,Internet: households with any subscription
+Inet_any,13,Timothy Rd.,4615,count,Internet: households with any subscription
+Inet_any,14,Whit Davis,2440,count,Internet: households with any subscription
+Inet_any,15,Whitehead Rd.,2170,count,Internet: households with any subscription
+Inet_any,16,Winterville,2217,count,Internet: households with any subscription
+Inet_broad,1,Alps Road,2067,count,Internet: households with broadband
+Inet_broad,2,Barnett Shoals,3830,count,Internet: households with broadband
+Inet_broad,3,Barrow,5557,count,Internet: households with broadband
+Inet_broad,4,Choice Zone-West,1476,count,Internet: households with broadband
+Inet_broad,5,Chase Street,2210,count,Internet: households with broadband
+Inet_broad,6,Cleveland Road,1732,count,Internet: households with broadband
+Inet_broad,7,Fowler Drive,1225,count,Internet: households with broadband
+Inet_broad,8,Gaines,2187,count,Internet: households with broadband
+Inet_broad,9,Howard B Stroud,1982,count,Internet: households with broadband
+Inet_broad,10,Judia Jackson Harris,939,count,Internet: households with broadband
+Inet_broad,11,Choice Zone-East,2593,count,Internet: households with broadband
+Inet_broad,12,Oglethorpe,1739,count,Internet: households with broadband
+Inet_broad,13,Timothy Rd.,3984,count,Internet: households with broadband
+Inet_broad,14,Whit Davis,2217,count,Internet: households with broadband
+Inet_broad,15,Whitehead Rd.,1669,count,Internet: households with broadband
+Inet_broad,16,Winterville,1921,count,Internet: households with broadband
+Pov_Ov65,1,Alps Road,1060,count,Poverty over 65
+Pov_Ov65,2,Barnett Shoals,957,count,Poverty over 65
+Pov_Ov65,3,Barrow,1013,count,Poverty over 65
+Pov_Ov65,4,Choice Zone-West,500,count,Poverty over 65
+Pov_Ov65,5,Chase Street,571,count,Poverty over 65
+Pov_Ov65,6,Cleveland Road,634,count,Poverty over 65
+Pov_Ov65,7,Fowler Drive,463,count,Poverty over 65
+Pov_Ov65,8,Gaines,808,count,Poverty over 65
+Pov_Ov65,9,Howard B Stroud,558,count,Poverty over 65
+Pov_Ov65,10,Judia Jackson Harris,480,count,Poverty over 65
+Pov_Ov65,11,Choice Zone-East,835,count,Poverty over 65
+Pov_Ov65,12,Oglethorpe,706,count,Poverty over 65
+Pov_Ov65,13,Timothy Rd.,2329,count,Poverty over 65
+Pov_Ov65,14,Whit Davis,909,count,Poverty over 65
+Pov_Ov65,15,Whitehead Rd.,824,count,Poverty over 65
+Pov_Ov65,16,Winterville,859,count,Poverty over 65
+Pov_Und18,1,Alps Road,1423,count,Poverty under 18
+Pov_Und18,2,Barnett Shoals,2247,count,Poverty under 18
+Pov_Und18,3,Barrow,1600,count,Poverty under 18
+Pov_Und18,4,Choice Zone-West,1767,count,Poverty under 18
+Pov_Und18,5,Chase Street,1288,count,Poverty under 18
+Pov_Und18,6,Cleveland Road,1383,count,Poverty under 18
+Pov_Und18,7,Fowler Drive,1151,count,Poverty under 18
+Pov_Und18,8,Gaines,1267,count,Poverty under 18
+Pov_Und18,9,Howard B Stroud,629,count,Poverty under 18
+Pov_Und18,10,Judia Jackson Harris,1030,count,Poverty under 18
+Pov_Und18,11,Choice Zone-East,916,count,Poverty under 18
+Pov_Und18,12,Oglethorpe,1369,count,Poverty under 18
+Pov_Und18,13,Timothy Rd.,1296,count,Poverty under 18
+Pov_Und18,14,Whit Davis,1449,count,Poverty under 18
+Pov_Und18,15,Whitehead Rd.,1752,count,Poverty under 18
+Pov_Und18,16,Winterville,1140,count,Poverty under 18
+Rce_AI,1,Alps Road,0,count,American Indian/non-Hispanic population
+Rce_AI,2,Barnett Shoals,9,count,American Indian/non-Hispanic population
+Rce_AI,3,Barrow,4,count,American Indian/non-Hispanic population
+Rce_AI,4,Choice Zone-West,0,count,American Indian/non-Hispanic population
+Rce_AI,5,Chase Street,0,count,American Indian/non-Hispanic population
+Rce_AI,6,Cleveland Road,0,count,American Indian/non-Hispanic population
+Rce_AI,7,Fowler Drive,15,count,American Indian/non-Hispanic population
+Rce_AI,8,Gaines,0,count,American Indian/non-Hispanic population
+Rce_AI,9,Howard B Stroud,0,count,American Indian/non-Hispanic population
+Rce_AI,10,Judia Jackson Harris,5,count,American Indian/non-Hispanic population
+Rce_AI,11,Choice Zone-East,0,count,American Indian/non-Hispanic population
+Rce_AI,12,Oglethorpe,0,count,American Indian/non-Hispanic population
+Rce_AI,13,Timothy Rd.,0,count,American Indian/non-Hispanic population
+Rce_AI,14,Whit Davis,2,count,American Indian/non-Hispanic population
+Rce_AI,15,Whitehead Rd.,0,count,American Indian/non-Hispanic population
+Rce_AI,16,Winterville,0,count,American Indian/non-Hispanic population
+Rce_AsnNH,1,Alps Road,285,count,Asian non-Hispanic population
+Rce_AsnNH,2,Barnett Shoals,874,count,Asian non-Hispanic population
+Rce_AsnNH,3,Barrow,2237,count,Asian non-Hispanic population
+Rce_AsnNH,4,Choice Zone-West,0,count,Asian non-Hispanic population
+Rce_AsnNH,5,Chase Street,125,count,Asian non-Hispanic population
+Rce_AsnNH,6,Cleveland Road,122,count,Asian non-Hispanic population
+Rce_AsnNH,7,Fowler Drive,0,count,Asian non-Hispanic population
+Rce_AsnNH,8,Gaines,133,count,Asian non-Hispanic population
+Rce_AsnNH,9,Howard B Stroud,210,count,Asian non-Hispanic population
+Rce_AsnNH,10,Judia Jackson Harris,0,count,Asian non-Hispanic population
+Rce_AsnNH,11,Choice Zone-East,138,count,Asian non-Hispanic population
+Rce_AsnNH,12,Oglethorpe,107,count,Asian non-Hispanic population
+Rce_AsnNH,13,Timothy Rd.,328,count,Asian non-Hispanic population
+Rce_AsnNH,14,Whit Davis,47,count,Asian non-Hispanic population
+Rce_AsnNH,15,Whitehead Rd.,158,count,Asian non-Hispanic population
+Rce_AsnNH,16,Winterville,162,count,Asian non-Hispanic population
+Rce_BlkNH,1,Alps Road,2838,count,Black non-Hispanic pouplation
+Rce_BlkNH,2,Barnett Shoals,2920,count,Black non-Hispanic pouplation
+Rce_BlkNH,3,Barrow,2842,count,Black non-Hispanic pouplation
+Rce_BlkNH,4,Choice Zone-West,2098,count,Black non-Hispanic pouplation
+Rce_BlkNH,5,Chase Street,1713,count,Black non-Hispanic pouplation
+Rce_BlkNH,6,Cleveland Road,1800,count,Black non-Hispanic pouplation
+Rce_BlkNH,7,Fowler Drive,2356,count,Black non-Hispanic pouplation
+Rce_BlkNH,8,Gaines,3733,count,Black non-Hispanic pouplation
+Rce_BlkNH,9,Howard B Stroud,2079,count,Black non-Hispanic pouplation
+Rce_BlkNH,10,Judia Jackson Harris,1201,count,Black non-Hispanic pouplation
+Rce_BlkNH,11,Choice Zone-East,1748,count,Black non-Hispanic pouplation
+Rce_BlkNH,12,Oglethorpe,1644,count,Black non-Hispanic pouplation
+Rce_BlkNH,13,Timothy Rd.,2549,count,Black non-Hispanic pouplation
+Rce_BlkNH,14,Whit Davis,2149,count,Black non-Hispanic pouplation
+Rce_BlkNH,15,Whitehead Rd.,1856,count,Black non-Hispanic pouplation
+Rce_BlkNH,16,Winterville,2031,count,Black non-Hispanic pouplation
+Rce_Hisp,1,Alps Road,358,count,Hispanic/Latinx population
+Rce_Hisp,2,Barnett Shoals,663,count,Hispanic/Latinx population
+Rce_Hisp,3,Barrow,1457,count,Hispanic/Latinx population
+Rce_Hisp,4,Choice Zone-West,2174,count,Hispanic/Latinx population
+Rce_Hisp,5,Chase Street,664,count,Hispanic/Latinx population
+Rce_Hisp,6,Cleveland Road,765,count,Hispanic/Latinx population
+Rce_Hisp,7,Fowler Drive,1404,count,Hispanic/Latinx population
+Rce_Hisp,8,Gaines,83,count,Hispanic/Latinx population
+Rce_Hisp,9,Howard B Stroud,420,count,Hispanic/Latinx population
+Rce_Hisp,10,Judia Jackson Harris,1795,count,Hispanic/Latinx population
+Rce_Hisp,11,Choice Zone-East,310,count,Hispanic/Latinx population
+Rce_Hisp,12,Oglethorpe,997,count,Hispanic/Latinx population
+Rce_Hisp,13,Timothy Rd.,523,count,Hispanic/Latinx population
+Rce_Hisp,14,Whit Davis,475,count,Hispanic/Latinx population
+Rce_Hisp,15,Whitehead Rd.,1090,count,Hispanic/Latinx population
+Rce_Hisp,16,Winterville,485,count,Hispanic/Latinx population
+Rce_HPI,1,Alps Road,18,count,Hawaiian/Pacific Islander population
+Rce_HPI,2,Barnett Shoals,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,3,Barrow,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,4,Choice Zone-West,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,5,Chase Street,4,count,Hawaiian/Pacific Islander population
+Rce_HPI,6,Cleveland Road,10,count,Hawaiian/Pacific Islander population
+Rce_HPI,7,Fowler Drive,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,8,Gaines,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,9,Howard B Stroud,8,count,Hawaiian/Pacific Islander population
+Rce_HPI,10,Judia Jackson Harris,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,11,Choice Zone-East,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,12,Oglethorpe,9,count,Hawaiian/Pacific Islander population
+Rce_HPI,13,Timothy Rd.,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,14,Whit Davis,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,15,Whitehead Rd.,0,count,Hawaiian/Pacific Islander population
+Rce_HPI,16,Winterville,4,count,Hawaiian/Pacific Islander population
+Rce_OthNH,1,Alps Road,7,count,Other race non-Hispanic
+Rce_OthNH,2,Barnett Shoals,58,count,Other race non-Hispanic
+Rce_OthNH,3,Barrow,71,count,Other race non-Hispanic
+Rce_OthNH,4,Choice Zone-West,0,count,Other race non-Hispanic
+Rce_OthNH,5,Chase Street,0,count,Other race non-Hispanic
+Rce_OthNH,6,Cleveland Road,0,count,Other race non-Hispanic
+Rce_OthNH,7,Fowler Drive,0,count,Other race non-Hispanic
+Rce_OthNH,8,Gaines,8,count,Other race non-Hispanic
+Rce_OthNH,9,Howard B Stroud,0,count,Other race non-Hispanic
+Rce_OthNH,10,Judia Jackson Harris,0,count,Other race non-Hispanic
+Rce_OthNH,11,Choice Zone-East,15,count,Other race non-Hispanic
+Rce_OthNH,12,Oglethorpe,0,count,Other race non-Hispanic
+Rce_OthNH,13,Timothy Rd.,60,count,Other race non-Hispanic
+Rce_OthNH,14,Whit Davis,3,count,Other race non-Hispanic
+Rce_OthNH,15,Whitehead Rd.,44,count,Other race non-Hispanic
+Rce_OthNH,16,Winterville,2,count,Other race non-Hispanic
+Rce_WhtNH,1,Alps Road,3438,count,White non-Hispanic population
+Rce_WhtNH,2,Barnett Shoals,7407,count,White non-Hispanic population
+Rce_WhtNH,3,Barrow,18244,count,White non-Hispanic population
+Rce_WhtNH,4,Choice Zone-West,1296,count,White non-Hispanic population
+Rce_WhtNH,5,Chase Street,4216,count,White non-Hispanic population
+Rce_WhtNH,6,Cleveland Road,2548,count,White non-Hispanic population
+Rce_WhtNH,7,Fowler Drive,1267,count,White non-Hispanic population
+Rce_WhtNH,8,Gaines,2786,count,White non-Hispanic population
+Rce_WhtNH,9,Howard B Stroud,3633,count,White non-Hispanic population
+Rce_WhtNH,10,Judia Jackson Harris,804,count,White non-Hispanic population
+Rce_WhtNH,11,Choice Zone-East,4090,count,White non-Hispanic population
+Rce_WhtNH,12,Oglethorpe,2688,count,White non-Hispanic population
+Rce_WhtNH,13,Timothy Rd.,7236,count,White non-Hispanic population
+Rce_WhtNH,14,Whit Davis,3746,count,White non-Hispanic population
+Rce_WhtNH,15,Whitehead Rd.,3089,count,White non-Hispanic population
+Rce_WhtNH,16,Winterville,3213,count,White non-Hispanic population
+Rent30,1,Alps Road,1230,count,Housing stressed: rent > 30% of income
+Rent30,2,Barnett Shoals,1592,count,Housing stressed: rent > 30% of income
+Rent30,3,Barrow,3274,count,Housing stressed: rent > 30% of income
+Rent30,4,Choice Zone-West,503,count,Housing stressed: rent > 30% of income
+Rent30,5,Chase Street,926,count,Housing stressed: rent > 30% of income
+Rent30,6,Cleveland Road,479,count,Housing stressed: rent > 30% of income
+Rent30,7,Fowler Drive,441,count,Housing stressed: rent > 30% of income
+Rent30,8,Gaines,1248,count,Housing stressed: rent > 30% of income
+Rent30,9,Howard B Stroud,1594,count,Housing stressed: rent > 30% of income
+Rent30,10,Judia Jackson Harris,194,count,Housing stressed: rent > 30% of income
+Rent30,11,Choice Zone-East,1165,count,Housing stressed: rent > 30% of income
+Rent30,12,Oglethorpe,506,count,Housing stressed: rent > 30% of income
+Rent30,13,Timothy Rd.,1249,count,Housing stressed: rent > 30% of income
+Rent30,14,Whit Davis,326,count,Housing stressed: rent > 30% of income
+Rent30,15,Whitehead Rd.,382,count,Housing stressed: rent > 30% of income
+Rent30,16,Winterville,413,count,Housing stressed: rent > 30% of income
+Sch_grad,1,Alps Road,222,count,Enrolled in grad school
+Sch_grad,2,Barnett Shoals,1008,count,Enrolled in grad school
+Sch_grad,3,Barrow,1817,count,Enrolled in grad school
+Sch_grad,4,Choice Zone-West,140,count,Enrolled in grad school
+Sch_grad,5,Chase Street,348,count,Enrolled in grad school
+Sch_grad,6,Cleveland Road,83,count,Enrolled in grad school
+Sch_grad,7,Fowler Drive,23,count,Enrolled in grad school
+Sch_grad,8,Gaines,491,count,Enrolled in grad school
+Sch_grad,9,Howard B Stroud,576,count,Enrolled in grad school
+Sch_grad,10,Judia Jackson Harris,7,count,Enrolled in grad school
+Sch_grad,11,Choice Zone-East,410,count,Enrolled in grad school
+Sch_grad,12,Oglethorpe,68,count,Enrolled in grad school
+Sch_grad,13,Timothy Rd.,852,count,Enrolled in grad school
+Sch_grad,14,Whit Davis,289,count,Enrolled in grad school
+Sch_grad,15,Whitehead Rd.,163,count,Enrolled in grad school
+Sch_grad,16,Winterville,324,count,Enrolled in grad school
+Sch_Kpre,1,Alps Road,143,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,2,Barnett Shoals,187,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,3,Barrow,277,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,4,Choice Zone-West,220,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,5,Chase Street,218,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,6,Cleveland Road,284,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,7,Fowler Drive,194,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,8,Gaines,77,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,9,Howard B Stroud,24,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,10,Judia Jackson Harris,184,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,11,Choice Zone-East,82,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,12,Oglethorpe,160,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,13,Timothy Rd.,213,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,14,Whit Davis,162,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,15,Whitehead Rd.,126,count,Enrolled in nursery school and kindergarten
+Sch_Kpre,16,Winterville,107,count,Enrolled in nursery school and kindergarten
+Sch_ugrad,1,Alps Road,553,count,Total in undergraduate
+Sch_ugrad,2,Barnett Shoals,2941,count,Total in undergraduate
+Sch_ugrad,3,Barrow,15134,count,Total in undergraduate
+Sch_ugrad,4,Choice Zone-West,140,count,Total in undergraduate
+Sch_ugrad,5,Chase Street,821,count,Total in undergraduate
+Sch_ugrad,6,Cleveland Road,189,count,Total in undergraduate
+Sch_ugrad,7,Fowler Drive,290,count,Total in undergraduate
+Sch_ugrad,8,Gaines,803,count,Total in undergraduate
+Sch_ugrad,9,Howard B Stroud,2424,count,Total in undergraduate
+Sch_ugrad,10,Judia Jackson Harris,165,count,Total in undergraduate
+Sch_ugrad,11,Choice Zone-East,585,count,Total in undergraduate
+Sch_ugrad,12,Oglethorpe,213,count,Total in undergraduate
+Sch_ugrad,13,Timothy Rd.,1343,count,Total in undergraduate
+Sch_ugrad,14,Whit Davis,400,count,Total in undergraduate
+Sch_ugrad,15,Whitehead Rd.,269,count,Total in undergraduate
+Sch_ugrad,16,Winterville,182,count,Total in undergraduate
+Trn_car,1,Alps Road,2263,count,"Commute: used car, truck, or van alone"
+Trn_car,2,Barnett Shoals,4870,count,"Commute: used car, truck, or van alone"
+Trn_car,3,Barrow,5153,count,"Commute: used car, truck, or van alone"
+Trn_car,4,Choice Zone-West,2016,count,"Commute: used car, truck, or van alone"
+Trn_car,5,Chase Street,2374,count,"Commute: used car, truck, or van alone"
+Trn_car,6,Cleveland Road,1903,count,"Commute: used car, truck, or van alone"
+Trn_car,7,Fowler Drive,1925,count,"Commute: used car, truck, or van alone"
+Trn_car,8,Gaines,2239,count,"Commute: used car, truck, or van alone"
+Trn_car,9,Howard B Stroud,2009,count,"Commute: used car, truck, or van alone"
+Trn_car,10,Judia Jackson Harris,1263,count,"Commute: used car, truck, or van alone"
+Trn_car,11,Choice Zone-East,2766,count,"Commute: used car, truck, or van alone"
+Trn_car,12,Oglethorpe,2021,count,"Commute: used car, truck, or van alone"
+Trn_car,13,Timothy Rd.,4487,count,"Commute: used car, truck, or van alone"
+Trn_car,14,Whit Davis,2598,count,"Commute: used car, truck, or van alone"
+Trn_car,15,Whitehead Rd.,2376,count,"Commute: used car, truck, or van alone"
+Trn_car,16,Winterville,2322,count,"Commute: used car, truck, or van alone"
+Trn_carpool,1,Alps Road,298,count,Commute: carpooled in car
+Trn_carpool,2,Barnett Shoals,333,count,Commute: carpooled in car
+Trn_carpool,3,Barrow,415,count,Commute: carpooled in car
+Trn_carpool,4,Choice Zone-West,258,count,Commute: carpooled in car
+Trn_carpool,5,Chase Street,255,count,Commute: carpooled in car
+Trn_carpool,6,Cleveland Road,329,count,Commute: carpooled in car
+Trn_carpool,7,Fowler Drive,428,count,Commute: carpooled in car
+Trn_carpool,8,Gaines,214,count,Commute: carpooled in car
+Trn_carpool,9,Howard B Stroud,101,count,Commute: carpooled in car
+Trn_carpool,10,Judia Jackson Harris,242,count,Commute: carpooled in car
+Trn_carpool,11,Choice Zone-East,499,count,Commute: carpooled in car
+Trn_carpool,12,Oglethorpe,291,count,Commute: carpooled in car
+Trn_carpool,13,Timothy Rd.,433,count,Commute: carpooled in car
+Trn_carpool,14,Whit Davis,323,count,Commute: carpooled in car
+Trn_carpool,15,Whitehead Rd.,166,count,Commute: carpooled in car
+Trn_carpool,16,Winterville,358,count,Commute: carpooled in car
+Trn_home,1,Alps Road,289,count,Commute: Worked at home
+Trn_home,2,Barnett Shoals,285,count,Commute: Worked at home
+Trn_home,3,Barrow,810,count,Commute: Worked at home
+Trn_home,4,Choice Zone-West,184,count,Commute: Worked at home
+Trn_home,5,Chase Street,313,count,Commute: Worked at home
+Trn_home,6,Cleveland Road,280,count,Commute: Worked at home
+Trn_home,7,Fowler Drive,130,count,Commute: Worked at home
+Trn_home,8,Gaines,159,count,Commute: Worked at home
+Trn_home,9,Howard B Stroud,72,count,Commute: Worked at home
+Trn_home,10,Judia Jackson Harris,39,count,Commute: Worked at home
+Trn_home,11,Choice Zone-East,255,count,Commute: Worked at home
+Trn_home,12,Oglethorpe,253,count,Commute: Worked at home
+Trn_home,13,Timothy Rd.,713,count,Commute: Worked at home
+Trn_home,14,Whit Davis,377,count,Commute: Worked at home
+Trn_home,15,Whitehead Rd.,150,count,Commute: Worked at home
+Trn_home,16,Winterville,85,count,Commute: Worked at home
+Trn_noveh,1,Alps Road,344,count,Commute: no available vehicle
+Trn_noveh,2,Barnett Shoals,127,count,Commute: no available vehicle
+Trn_noveh,3,Barrow,411,count,Commute: no available vehicle
+Trn_noveh,4,Choice Zone-West,122,count,Commute: no available vehicle
+Trn_noveh,5,Chase Street,170,count,Commute: no available vehicle
+Trn_noveh,6,Cleveland Road,108,count,Commute: no available vehicle
+Trn_noveh,7,Fowler Drive,66,count,Commute: no available vehicle
+Trn_noveh,8,Gaines,615,count,Commute: no available vehicle
+Trn_noveh,9,Howard B Stroud,390,count,Commute: no available vehicle
+Trn_noveh,10,Judia Jackson Harris,19,count,Commute: no available vehicle
+Trn_noveh,11,Choice Zone-East,203,count,Commute: no available vehicle
+Trn_noveh,12,Oglethorpe,121,count,Commute: no available vehicle
+Trn_noveh,13,Timothy Rd.,38,count,Commute: no available vehicle
+Trn_noveh,14,Whit Davis,38,count,Commute: no available vehicle
+Trn_noveh,15,Whitehead Rd.,123,count,Commute: no available vehicle
+Trn_noveh,16,Winterville,61,count,Commute: no available vehicle
+Trn_pub,1,Alps Road,61,count,Commute: used public transit
+Trn_pub,2,Barnett Shoals,220,count,Commute: used public transit
+Trn_pub,3,Barrow,482,count,Commute: used public transit
+Trn_pub,4,Choice Zone-West,33,count,Commute: used public transit
+Trn_pub,5,Chase Street,129,count,Commute: used public transit
+Trn_pub,6,Cleveland Road,78,count,Commute: used public transit
+Trn_pub,7,Fowler Drive,0,count,Commute: used public transit
+Trn_pub,8,Gaines,76,count,Commute: used public transit
+Trn_pub,9,Howard B Stroud,247,count,Commute: used public transit
+Trn_pub,10,Judia Jackson Harris,0,count,Commute: used public transit
+Trn_pub,11,Choice Zone-East,57,count,Commute: used public transit
+Trn_pub,12,Oglethorpe,101,count,Commute: used public transit
+Trn_pub,13,Timothy Rd.,20,count,Commute: used public transit
+Trn_pub,14,Whit Davis,72,count,Commute: used public transit
+Trn_pub,15,Whitehead Rd.,15,count,Commute: used public transit
+Trn_pub,16,Winterville,22,count,Commute: used public transit
+Trn_taxi,1,Alps Road,132,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,2,Barnett Shoals,103,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,3,Barrow,219,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,4,Choice Zone-West,0,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,5,Chase Street,245,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,6,Cleveland Road,103,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,7,Fowler Drive,18,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,8,Gaines,189,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,9,Howard B Stroud,112,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,10,Judia Jackson Harris,12,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,11,Choice Zone-East,70,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,12,Oglethorpe,66,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,13,Timothy Rd.,34,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,14,Whit Davis,49,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,15,Whitehead Rd.,0,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,16,Winterville,24,count,"Commute: other--taxi, motorcycle, or bicycle"
+Trn_walk,1,Alps Road,271,count,Walked to work
+Trn_walk,2,Barnett Shoals,31,count,Walked to work
+Trn_walk,3,Barrow,1031,count,Walked to work
+Trn_walk,4,Choice Zone-West,25,count,Walked to work
+Trn_walk,5,Chase Street,369,count,Walked to work
+Trn_walk,6,Cleveland Road,13,count,Walked to work
+Trn_walk,7,Fowler Drive,11,count,Walked to work
+Trn_walk,8,Gaines,484,count,Walked to work
+Trn_walk,9,Howard B Stroud,117,count,Walked to work
+Trn_walk,10,Judia Jackson Harris,3,count,Walked to work
+Trn_walk,11,Choice Zone-East,33,count,Walked to work
+Trn_walk,12,Oglethorpe,12,count,Walked to work
+Trn_walk,13,Timothy Rd.,0,count,Walked to work
+Trn_walk,14,Whit Davis,26,count,Walked to work
+Trn_walk,15,Whitehead Rd.,0,count,Walked to work
+Trn_walk,16,Winterville,67,count,Walked to work
+Ed_totpop,1,Alps Road,4486,count,Total pop for education (>age 25)
+Ed_totpop,2,Barnett Shoals,5943,count,Total pop for education (>age 25)
+Ed_totpop,3,Barrow,7418,count,Total pop for education (>age 25)
+Ed_totpop,4,Choice Zone-West,3401,count,Total pop for education (>age 25)
+Ed_totpop,5,Chase Street,4423,count,Total pop for education (>age 25)
+Ed_totpop,6,Cleveland Road,3694,count,Total pop for education (>age 25)
+Ed_totpop,7,Fowler Drive,3500,count,Total pop for education (>age 25)
+Ed_totpop,8,Gaines,4204,count,Total pop for education (>age 25)
+Ed_totpop,9,Howard B Stroud,2954,count,Total pop for education (>age 25)
+Ed_totpop,10,Judia Jackson Harris,2537,count,Total pop for education (>age 25)
+Ed_totpop,11,Choice Zone-East,4315,count,Total pop for education (>age 25)
+Ed_totpop,12,Oglethorpe,3845,count,Total pop for education (>age 25)
+Ed_totpop,13,Timothy Rd.,7919,count,Total pop for education (>age 25)
+Ed_totpop,14,Whit Davis,4452,count,Total pop for education (>age 25)
+Ed_totpop,15,Whitehead Rd.,4451,count,Total pop for education (>age 25)
+Ed_totpop,16,Winterville,4495,count,Total pop for education (>age 25)
+Ed_totpop2,1,Alps Road,4486,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,2,Barnett Shoals,5943,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,3,Barrow,7418,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,4,Choice Zone-West,3401,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,5,Chase Street,4423,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,6,Cleveland Road,3694,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,7,Fowler Drive,3500,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,8,Gaines,4204,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,9,Howard B Stroud,2954,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,10,Judia Jackson Harris,2537,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,11,Choice Zone-East,4315,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,12,Oglethorpe,3845,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,13,Timothy Rd.,7919,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,14,Whit Davis,4452,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,15,Whitehead Rd.,4451,count,Total population for ed table pt. 2 (higher ed)
+Ed_totpop2,16,Winterville,4495,count,Total population for ed table pt. 2 (higher ed)
+Empl_total,1,Alps Road,4441,count,Total pop for education (>age 25)
+Empl_total,2,Barnett Shoals,8897,count,Total pop for education (>age 25)
+Empl_total,3,Barrow,22860,count,Total pop for education (>age 25)
+Empl_total,4,Choice Zone-West,3338,count,Total pop for education (>age 25)
+Empl_total,5,Chase Street,4969,count,Total pop for education (>age 25)
+Empl_total,6,Cleveland Road,3326,count,Total pop for education (>age 25)
+Empl_total,7,Fowler Drive,3470,count,Total pop for education (>age 25)
+Empl_total,8,Gaines,4866,count,Total pop for education (>age 25)
+Empl_total,9,Howard B Stroud,5128,count,Total pop for education (>age 25)
+Empl_total,10,Judia Jackson Harris,2308,count,Total pop for education (>age 25)
+Empl_total,11,Choice Zone-East,4752,count,Total pop for education (>age 25)
+Empl_total,12,Oglethorpe,3350,count,Total pop for education (>age 25)
+Empl_total,13,Timothy Rd.,7202,count,Total pop for education (>age 25)
+Empl_total,14,Whit Davis,4080,count,Total pop for education (>age 25)
+Empl_total,15,Whitehead Rd.,3837,count,Total pop for education (>age 25)
+Empl_total,16,Winterville,3923,count,Total pop for education (>age 25)
+HousPop,1,Alps Road,6810,count,Total pop for housing
+HousPop,2,Barnett Shoals,12098,count,Total pop for housing
+HousPop,3,Barrow,15415,count,Total pop for housing
+HousPop,4,Choice Zone-West,5670,count,Total pop for housing
+HousPop,5,Chase Street,6463,count,Total pop for housing
+HousPop,6,Cleveland Road,5340,count,Total pop for housing
+HousPop,7,Fowler Drive,5084,count,Total pop for housing
+HousPop,8,Gaines,6929,count,Total pop for housing
+HousPop,9,Howard B Stroud,6314,count,Total pop for housing
+HousPop,10,Judia Jackson Harris,3818,count,Total pop for housing
+HousPop,11,Choice Zone-East,6515,count,Total pop for housing
+HousPop,12,Oglethorpe,5422,count,Total pop for housing
+HousPop,13,Timothy Rd.,10806,count,Total pop for housing
+HousPop,14,Whit Davis,6433,count,Total pop for housing
+HousPop,15,Whitehead Rd.,6473,count,Total pop for housing
+HousPop,16,Winterville,5924,count,Total pop for housing
+HousUnits,1,Alps Road,3494,count,Population for education (>age 25)
+HousUnits,2,Barnett Shoals,5082,count,Population for education (>age 25)
+HousUnits,3,Barrow,7939,count,Population for education (>age 25)
+HousUnits,4,Choice Zone-West,2056,count,Population for education (>age 25)
+HousUnits,5,Chase Street,3371,count,Population for education (>age 25)
+HousUnits,6,Cleveland Road,2299,count,Population for education (>age 25)
+HousUnits,7,Fowler Drive,2085,count,Population for education (>age 25)
+HousUnits,8,Gaines,3689,count,Population for education (>age 25)
+HousUnits,9,Howard B Stroud,3111,count,Population for education (>age 25)
+HousUnits,10,Judia Jackson Harris,1539,count,Population for education (>age 25)
+HousUnits,11,Choice Zone-East,3325,count,Population for education (>age 25)
+HousUnits,12,Oglethorpe,2342,count,Population for education (>age 25)
+HousUnits,13,Timothy Rd.,5280,count,Population for education (>age 25)
+HousUnits,14,Whit Davis,2565,count,Population for education (>age 25)
+HousUnits,15,Whitehead Rd.,2649,count,Population for education (>age 25)
+HousUnits,16,Winterville,2615,count,Population for education (>age 25)
+Inc_totpop,1,Alps Road,3348,count,Total pop for income
+Inc_totpop,2,Barnett Shoals,4650,count,Total pop for income
+Inc_totpop,3,Barrow,7188,count,Total pop for income
+Inc_totpop,4,Choice Zone-West,1996,count,Total pop for income
+Inc_totpop,5,Chase Street,3039,count,Total pop for income
+Inc_totpop,6,Cleveland Road,2250,count,Total pop for income
+Inc_totpop,7,Fowler Drive,1982,count,Total pop for income
+Inc_totpop,8,Gaines,3442,count,Total pop for income
+Inc_totpop,9,Howard B Stroud,2920,count,Total pop for income
+Inc_totpop,10,Judia Jackson Harris,1450,count,Total pop for income
+Inc_totpop,11,Choice Zone-East,3245,count,Total pop for income
+Inc_totpop,12,Oglethorpe,2243,count,Total pop for income
+Inc_totpop,13,Timothy Rd.,5037,count,Total pop for income
+Inc_totpop,14,Whit Davis,2535,count,Total pop for income
+Inc_totpop,15,Whitehead Rd.,2442,count,Total pop for income
+Inc_totpop,16,Winterville,2507,count,Total pop for income
+Ind_totpop,1,Alps Road,3397,count,Total population for industry
+Ind_totpop,2,Barnett Shoals,6051,count,Total population for industry
+Ind_totpop,3,Barrow,10375,count,Total population for industry
+Ind_totpop,4,Choice Zone-West,2591,count,Total population for industry
+Ind_totpop,5,Chase Street,3888,count,Total population for industry
+Ind_totpop,6,Cleveland Road,2818,count,Total population for industry
+Ind_totpop,7,Fowler Drive,2557,count,Total population for industry
+Ind_totpop,8,Gaines,3439,count,Total population for industry
+Ind_totpop,9,Howard B Stroud,2769,count,Total population for industry
+Ind_totpop,10,Judia Jackson Harris,1601,count,Total population for industry
+Ind_totpop,11,Choice Zone-East,3822,count,Total population for industry
+Ind_totpop,12,Oglethorpe,2814,count,Total population for industry
+Ind_totpop,13,Timothy Rd.,5762,count,Total population for industry
+Ind_totpop,14,Whit Davis,3494,count,Total population for industry
+Ind_totpop,15,Whitehead Rd.,2740,count,Total population for industry
+Ind_totpop,16,Winterville,2921,count,Total population for industry
+Inet_pop,1,Alps Road,3348,count,Total population for internet
+Inet_pop,2,Barnett Shoals,4650,count,Total population for internet
+Inet_pop,3,Barrow,7188,count,Total population for internet
+Inet_pop,4,Choice Zone-West,1996,count,Total population for internet
+Inet_pop,5,Chase Street,3039,count,Total population for internet
+Inet_pop,6,Cleveland Road,2250,count,Total population for internet
+Inet_pop,7,Fowler Drive,1982,count,Total population for internet
+Inet_pop,8,Gaines,3442,count,Total population for internet
+Inet_pop,9,Howard B Stroud,2920,count,Total population for internet
+Inet_pop,10,Judia Jackson Harris,1450,count,Total population for internet
+Inet_pop,11,Choice Zone-East,3245,count,Total population for internet
+Inet_pop,12,Oglethorpe,2243,count,Total population for internet
+Inet_pop,13,Timothy Rd.,5037,count,Total population for internet
+Inet_pop,14,Whit Davis,2535,count,Total population for internet
+Inet_pop,15,Whitehead Rd.,2442,count,Total population for internet
+Inet_pop,16,Winterville,2507,count,Total population for internet
+RentPop,1,Alps Road,2344,count,Total population for rent/income ratio
+RentPop,2,Barnett Shoals,3041,count,Total population for rent/income ratio
+RentPop,3,Barrow,5800,count,Total population for rent/income ratio
+RentPop,4,Choice Zone-West,781,count,Total population for rent/income ratio
+RentPop,5,Chase Street,1979,count,Total population for rent/income ratio
+RentPop,6,Cleveland Road,1256,count,Total population for rent/income ratio
+RentPop,7,Fowler Drive,901,count,Total population for rent/income ratio
+RentPop,8,Gaines,2586,count,Total population for rent/income ratio
+RentPop,9,Howard B Stroud,2427,count,Total population for rent/income ratio
+RentPop,10,Judia Jackson Harris,446,count,Total population for rent/income ratio
+RentPop,11,Choice Zone-East,2150,count,Total population for rent/income ratio
+RentPop,12,Oglethorpe,962,count,Total population for rent/income ratio
+RentPop,13,Timothy Rd.,2545,count,Total population for rent/income ratio
+RentPop,14,Whit Davis,844,count,Total population for rent/income ratio
+RentPop,15,Whitehead Rd.,810,count,Total population for rent/income ratio
+RentPop,16,Winterville,1017,count,Total population for rent/income ratio
+Sch_totpop,1,Alps Road,6771,count,Total population for education
+Sch_totpop,2,Barnett Shoals,11440,count,Total population for education
+Sch_totpop,3,Barrow,25084,count,Total population for education
+Sch_totpop,4,Choice Zone-West,5597,count,Total population for education
+Sch_totpop,5,Chase Street,6701,count,Total population for education
+Sch_totpop,6,Cleveland Road,5223,count,Total population for education
+Sch_totpop,7,Fowler Drive,4935,count,Total population for education
+Sch_totpop,8,Gaines,6742,count,Total population for education
+Sch_totpop,9,Howard B Stroud,6359,count,Total population for education
+Sch_totpop,10,Judia Jackson Harris,3556,count,Total population for education
+Sch_totpop,11,Choice Zone-East,6306,count,Total population for education
+Sch_totpop,12,Oglethorpe,5370,count,Total population for education
+Sch_totpop,13,Timothy Rd.,10594,count,Total population for education
+Sch_totpop,14,Whit Davis,6047,count,Total population for education
+Sch_totpop,15,Whitehead Rd.,6219,count,Total population for education
+Sch_totpop,16,Winterville,5845,count,Total population for education
+TotPop,1,Alps Road,7022,count,Total population estimate
+TotPop,2,Barnett Shoals,12102,count,Total population estimate
+TotPop,3,Barrow,25520,count,Total population estimate
+TotPop,4,Choice Zone-West,5752,count,Total population estimate
+TotPop,5,Chase Street,6920,count,Total population estimate
+TotPop,6,Cleveland Road,5371,count,Total population estimate
+TotPop,7,Fowler Drive,5086,count,Total population estimate
+TotPop,8,Gaines,6958,count,Total population estimate
+TotPop,9,Howard B Stroud,6472,count,Total population estimate
+TotPop,10,Judia Jackson Harris,3818,count,Total population estimate
+TotPop,11,Choice Zone-East,6517,count,Total population estimate
+TotPop,12,Oglethorpe,5538,count,Total population estimate
+TotPop,13,Timothy Rd.,10908,count,Total population estimate
+TotPop,14,Whit Davis,6442,count,Total population estimate
+TotPop,15,Whitehead Rd.,6473,count,Total population estimate
+TotPop,16,Winterville,6028,count,Total population estimate
+Trn_totpop,1,Alps Road,3314,count,Total population for means of transportation
+Trn_totpop,2,Barnett Shoals,5842,count,Total population for means of transportation
+Trn_totpop,3,Barrow,8110,count,Total population for means of transportation
+Trn_totpop,4,Choice Zone-West,2517,count,Total population for means of transportation
+Trn_totpop,5,Chase Street,3686,count,Total population for means of transportation
+Trn_totpop,6,Cleveland Road,2705,count,Total population for means of transportation
+Trn_totpop,7,Fowler Drive,2511,count,Total population for means of transportation
+Trn_totpop,8,Gaines,3360,count,Total population for means of transportation
+Trn_totpop,9,Howard B Stroud,2657,count,Total population for means of transportation
+Trn_totpop,10,Judia Jackson Harris,1559,count,Total population for means of transportation
+Trn_totpop,11,Choice Zone-East,3681,count,Total population for means of transportation
+Trn_totpop,12,Oglethorpe,2745,count,Total population for means of transportation
+Trn_totpop,13,Timothy Rd.,5688,count,Total population for means of transportation
+Trn_totpop,14,Whit Davis,3445,count,Total population for means of transportation
+Trn_totpop,15,Whitehead Rd.,2707,count,Total population for means of transportation
+Trn_totpop,16,Winterville,2877,count,Total population for means of transportation
+Age05,1,Alps Road,7.88,pct,Percent Age under 5 years
+Age05,2,Barnett Shoals,7.32,pct,Percent Age under 5 years
+Age05,3,Barrow,2.77,pct,Percent Age under 5 years
+Age05,4,Choice Zone-West,4.07,pct,Percent Age under 5 years
+Age05,5,Chase Street,5.95,pct,Percent Age under 5 years
+Age05,6,Cleveland Road,5.42,pct,Percent Age under 5 years
+Age05,7,Fowler Drive,5.58,pct,Percent Age under 5 years
+Age05,8,Gaines,4.66,pct,Percent Age under 5 years
+Age05,9,Howard B Stroud,2.9,pct,Percent Age under 5 years
+Age05,10,Judia Jackson Harris,10.24,pct,Percent Age under 5 years
+Age05,11,Choice Zone-East,3.85,pct,Percent Age under 5 years
+Age05,12,Oglethorpe,5.54,pct,Percent Age under 5 years
+Age05,13,Timothy Rd.,4.08,pct,Percent Age under 5 years
+Age05,14,Whit Davis,8.26,pct,Percent Age under 5 years
+Age05,15,Whitehead Rd.,6.15,pct,Percent Age under 5 years
+Age05,16,Winterville,5.24,pct,Percent Age under 5 years
+Age18_24,1,Alps Road,17.02,pct,Percent Age 18-24
+Age18_24,2,Barnett Shoals,33.35,pct,Percent Age 18-24
+Age18_24,3,Barrow,48.94,pct,Percent Age 18-24
+Age18_24,4,Choice Zone-West,9.42,pct,Percent Age 18-24
+Age18_24,5,Chase Street,17.49,pct,Percent Age 18-24
+Age18_24,6,Cleveland Road,6.98,pct,Percent Age 18-24
+Age18_24,7,Fowler Drive,9.83,pct,Percent Age 18-24
+Age18_24,8,Gaines,22.84,pct,Percent Age 18-24
+Age18_24,9,Howard B Stroud,47.9,pct,Percent Age 18-24
+Age18_24,10,Judia Jackson Harris,8.64,pct,Percent Age 18-24
+Age18_24,11,Choice Zone-East,23.15,pct,Percent Age 18-24
+Age18_24,12,Oglethorpe,6.61,pct,Percent Age 18-24
+Age18_24,13,Timothy Rd.,18.77,pct,Percent Age 18-24
+Age18_24,14,Whit Davis,8.83,pct,Percent Age 18-24
+Age18_24,15,Whitehead Rd.,2.95,pct,Percent Age 18-24
+Age18_24,16,Winterville,7.6,pct,Percent Age 18-24
+Age18_64,1,Alps Road,63.41,pct,Percent Age 18-64
+Age18_64,2,Barnett Shoals,73.53,pct,Percent Age 18-64
+Age18_64,3,Barrow,89.61,pct,Percent Age 18-64
+Age18_64,4,Choice Zone-West,58.41,pct,Percent Age 18-64
+Age18_64,5,Chase Street,72.47,pct,Percent Age 18-64
+Age18_64,6,Cleveland Road,62.04,pct,Percent Age 18-64
+Age18_64,7,Fowler Drive,68.27,pct,Percent Age 18-64
+Age18_64,8,Gaines,70.19,pct,Percent Age 18-64
+Age18_64,9,Howard B Stroud,81.63,pct,Percent Age 18-64
+Age18_64,10,Judia Jackson Harris,60.45,pct,Percent Age 18-64
+Age18_64,11,Choice Zone-East,73.13,pct,Percent Age 18-64
+Age18_64,12,Oglethorpe,60.74,pct,Percent Age 18-64
+Age18_64,13,Timothy Rd.,66.11,pct,Percent Age 18-64
+Age18_64,14,Whit Davis,63.4,pct,Percent Age 18-64
+Age18_64,15,Whitehead Rd.,59.28,pct,Percent Age 18-64
+Age18_64,16,Winterville,66.42,pct,Percent Age 18-64
+AgeO65,1,Alps Road,15.84,pct,Percent Age 65 and older
+AgeO65,2,Barnett Shoals,7.91,pct,Percent Age 65 and older
+AgeO65,3,Barrow,3.97,pct,Percent Age 65 and older
+AgeO65,4,Choice Zone-West,10.08,pct,Percent Age 65 and older
+AgeO65,5,Chase Street,8.6,pct,Percent Age 65 and older
+AgeO65,6,Cleveland Road,12.21,pct,Percent Age 65 and older
+AgeO65,7,Fowler Drive,9.1,pct,Percent Age 65 and older
+AgeO65,8,Gaines,11.61,pct,Percent Age 65 and older
+AgeO65,9,Howard B Stroud,8.65,pct,Percent Age 65 and older
+AgeO65,10,Judia Jackson Harris,12.57,pct,Percent Age 65 and older
+AgeO65,11,Choice Zone-East,12.81,pct,Percent Age 65 and older
+AgeO65,12,Oglethorpe,14.54,pct,Percent Age 65 and older
+AgeO65,13,Timothy Rd.,22.01,pct,Percent Age 65 and older
+AgeO65,14,Whit Davis,14.11,pct,Percent Age 65 and older
+AgeO65,15,Whitehead Rd.,12.73,pct,Percent Age 65 and older
+AgeO65,16,Winterville,14.66,pct,Percent Age 65 and older
+AgeU18,1,Alps Road,20.73,pct,Percent Age under 18
+AgeU18,2,Barnett Shoals,18.57,pct,Percent Age under 18
+AgeU18,3,Barrow,6.42,pct,Percent Age under 18
+AgeU18,4,Choice Zone-West,31.5,pct,Percent Age under 18
+AgeU18,5,Chase Street,18.93,pct,Percent Age under 18
+AgeU18,6,Cleveland Road,25.75,pct,Percent Age under 18
+AgeU18,7,Fowler Drive,22.63,pct,Percent Age under 18
+AgeU18,8,Gaines,18.21,pct,Percent Age under 18
+AgeU18,9,Howard B Stroud,9.72,pct,Percent Age under 18
+AgeU18,10,Judia Jackson Harris,26.98,pct,Percent Age under 18
+AgeU18,11,Choice Zone-East,14.06,pct,Percent Age under 18
+AgeU18,12,Oglethorpe,24.72,pct,Percent Age under 18
+AgeU18,13,Timothy Rd.,11.88,pct,Percent Age under 18
+AgeU18,14,Whit Davis,22.49,pct,Percent Age under 18
+AgeU18,15,Whitehead Rd.,27.99,pct,Percent Age under 18
+AgeU18,16,Winterville,18.91,pct,Percent Age under 18
+Ed_ba,1,Alps Road,23.92,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,2,Barnett Shoals,28.27,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,3,Barrow,33.77,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,4,Choice Zone-West,7.82,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,5,Chase Street,24.64,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,6,Cleveland Road,23.63,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,7,Fowler Drive,7.37,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,8,Gaines,21.55,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,9,Howard B Stroud,25.66,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,10,Judia Jackson Harris,6.35,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,11,Choice Zone-East,23.01,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,12,Oglethorpe,20.03,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,13,Timothy Rd.,26.73,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,14,Whit Davis,22.6,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,15,Whitehead Rd.,17.28,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_ba,16,Winterville,19.98,pct,Percent Highest educational attainment: Bachelor's degree
+Ed_hsgrad,1,Alps Road,19.35,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,2,Barnett Shoals,12.27,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,3,Barrow,8.21,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,4,Choice Zone-West,31.99,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,5,Chase Street,15.74,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,6,Cleveland Road,16.19,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,7,Fowler Drive,35.49,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,8,Gaines,25.26,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,9,Howard B Stroud,28.98,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,10,Judia Jackson Harris,32.24,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,11,Choice Zone-East,18.86,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,12,Oglethorpe,19.97,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,13,Timothy Rd.,17.25,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,14,Whit Davis,15.5,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,15,Whitehead Rd.,24.31,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_hsgrad,16,Winterville,22.76,pct,Percent Highest educational attainment: High school diploma or GED
+Ed_lesshs,1,Alps Road,10.28,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,2,Barnett Shoals,4.75,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,3,Barrow,3.09,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,4,Choice Zone-West,22.32,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,5,Chase Street,8.14,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,6,Cleveland Road,13.21,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,7,Fowler Drive,17.26,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,8,Gaines,18.65,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,9,Howard B Stroud,16.11,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,10,Judia Jackson Harris,23.65,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,11,Choice Zone-East,6.4,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,12,Oglethorpe,16.12,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,13,Timothy Rd.,4.84,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,14,Whit Davis,3.68,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,15,Whitehead Rd.,10.78,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_lesshs,16,Winterville,13.93,pct,Percent Highest educational attainment: Less than high school graduate
+Ed_ma,1,Alps Road,12.19,pct,Percent Highest educational attainment: MA degree
+Ed_ma,2,Barnett Shoals,18.73,pct,Percent Highest educational attainment: MA degree
+Ed_ma,3,Barrow,21.03,pct,Percent Highest educational attainment: MA degree
+Ed_ma,4,Choice Zone-West,15.85,pct,Percent Highest educational attainment: MA degree
+Ed_ma,5,Chase Street,15.94,pct,Percent Highest educational attainment: MA degree
+Ed_ma,6,Cleveland Road,17.46,pct,Percent Highest educational attainment: MA degree
+Ed_ma,7,Fowler Drive,8.29,pct,Percent Highest educational attainment: MA degree
+Ed_ma,8,Gaines,7.42,pct,Percent Highest educational attainment: MA degree
+Ed_ma,9,Howard B Stroud,2.81,pct,Percent Highest educational attainment: MA degree
+Ed_ma,10,Judia Jackson Harris,4.02,pct,Percent Highest educational attainment: MA degree
+Ed_ma,11,Choice Zone-East,10.45,pct,Percent Highest educational attainment: MA degree
+Ed_ma,12,Oglethorpe,16.33,pct,Percent Highest educational attainment: MA degree
+Ed_ma,13,Timothy Rd.,16.49,pct,Percent Highest educational attainment: MA degree
+Ed_ma,14,Whit Davis,19.92,pct,Percent Highest educational attainment: MA degree
+Ed_ma,15,Whitehead Rd.,14.49,pct,Percent Highest educational attainment: MA degree
+Ed_ma,16,Winterville,9.05,pct,Percent Highest educational attainment: MA degree
+Ed_prof_doc,1,Alps Road,11.39,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,2,Barnett Shoals,12.12,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,3,Barrow,19.33,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,4,Choice Zone-West,2.59,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,5,Chase Street,13.32,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,6,Cleveland Road,5.52,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,7,Fowler Drive,0.83,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,8,Gaines,3.28,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,9,Howard B Stroud,1.62,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,10,Judia Jackson Harris,1.73,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,11,Choice Zone-East,10.36,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,12,Oglethorpe,4.06,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,13,Timothy Rd.,10.37,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,14,Whit Davis,13.41,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,15,Whitehead Rd.,4.09,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_prof_doc,16,Winterville,7.16,pct,Percent Highest educational attainment: Professional degree/Doctorate
+Ed_somecol,1,Alps Road,22.87,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,2,Barnett Shoals,23.86,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,3,Barrow,14.57,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,4,Choice Zone-West,19.46,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,5,Chase Street,22.22,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,6,Cleveland Road,23.98,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,7,Fowler Drive,30.8,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,8,Gaines,23.83,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,9,Howard B Stroud,24.81,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,10,Judia Jackson Harris,32.01,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,11,Choice Zone-East,30.92,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,12,Oglethorpe,23.49,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,13,Timothy Rd.,24.32,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,14,Whit Davis,24.84,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,15,Whitehead Rd.,29.05,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Ed_somecol,16,Winterville,27.12,pct,Percent Highest educational attainment: Some college or Associate's Degree
+Empl_labor,1,Alps Road,77.37,pct,Percent Population in labor force
+Empl_labor,2,Barnett Shoals,68.16,pct,Percent Population in labor force
+Empl_labor,3,Barrow,48.55,pct,Percent Population in labor force
+Empl_labor,4,Choice Zone-West,79.51,pct,Percent Population in labor force
+Empl_labor,5,Chase Street,79.07,pct,Percent Population in labor force
+Empl_labor,6,Cleveland Road,85.72,pct,Percent Population in labor force
+Empl_labor,7,Fowler Drive,75.07,pct,Percent Population in labor force
+Empl_labor,8,Gaines,73.63,pct,Percent Population in labor force
+Empl_labor,9,Howard B Stroud,54.43,pct,Percent Population in labor force
+Empl_labor,10,Judia Jackson Harris,69.54,pct,Percent Population in labor force
+Empl_labor,11,Choice Zone-East,80.3,pct,Percent Population in labor force
+Empl_labor,12,Oglethorpe,85.01,pct,Percent Population in labor force
+Empl_labor,13,Timothy Rd.,78.17,pct,Percent Population in labor force
+Empl_labor,14,Whit Davis,82.82,pct,Percent Population in labor force
+Empl_labor,15,Whitehead Rd.,67.24,pct,Percent Population in labor force
+Empl_labor,16,Winterville,73.29,pct,Percent Population in labor force
+Empl_unemp,1,Alps Road,5.31,pct,Percent Population unemployed
+Empl_unemp,2,Barnett Shoals,3.07,pct,Percent Population unemployed
+Empl_unemp,3,Barrow,4.33,pct,Percent Population unemployed
+Empl_unemp,4,Choice Zone-West,7.43,pct,Percent Population unemployed
+Empl_unemp,5,Chase Street,3.9,pct,Percent Population unemployed
+Empl_unemp,6,Cleveland Road,4.42,pct,Percent Population unemployed
+Empl_unemp,7,Fowler Drive,4.01,pct,Percent Population unemployed
+Empl_unemp,8,Gaines,4.95,pct,Percent Population unemployed
+Empl_unemp,9,Howard B Stroud,2.65,pct,Percent Population unemployed
+Empl_unemp,10,Judia Jackson Harris,3.6,pct,Percent Population unemployed
+Empl_unemp,11,Choice Zone-East,3.56,pct,Percent Population unemployed
+Empl_unemp,12,Oglethorpe,5.13,pct,Percent Population unemployed
+Empl_unemp,13,Timothy Rd.,2.43,pct,Percent Population unemployed
+Empl_unemp,14,Whit Davis,3.43,pct,Percent Population unemployed
+Empl_unemp,15,Whitehead Rd.,2.92,pct,Percent Population unemployed
+Empl_unemp,16,Winterville,2.5,pct,Percent Population unemployed
+HInsur_FBNat,1,Alps Road,1.67,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,2,Barnett Shoals,2.25,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,3,Barrow,3.01,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,4,Choice Zone-West,2.26,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,5,Chase Street,2.59,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,6,Cleveland Road,3.59,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,7,Fowler Drive,2.16,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,8,Gaines,0.88,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,9,Howard B Stroud,2.01,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,10,Judia Jackson Harris,1.02,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,11,Choice Zone-East,3.05,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,12,Oglethorpe,5.02,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,13,Timothy Rd.,3.25,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,14,Whit Davis,2.9,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,15,Whitehead Rd.,4.02,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNat,16,Winterville,1.46,pct,Percent Has health insurance foreign born and naturalized
+HInsur_FBNC,1,Alps Road,3.57,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,2,Barnett Shoals,6.23,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,3,Barrow,4.93,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,4,Choice Zone-West,1.13,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,5,Chase Street,2.04,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,6,Cleveland Road,2.38,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,7,Fowler Drive,4.09,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,8,Gaines,1.01,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,9,Howard B Stroud,1.22,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,10,Judia Jackson Harris,7.28,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,11,Choice Zone-East,4.11,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,12,Oglethorpe,1.23,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,13,Timothy Rd.,3.38,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,14,Whit Davis,1.82,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,15,Whitehead Rd.,7.82,pct,Percent Has health insurance foreign born non-citizen
+HInsur_FBNC,16,Winterville,3.43,pct,Percent Has health insurance foreign born non-citizen
+HInsur_Nat,1,Alps Road,84.69,pct,Percent Has health insurance native born
+HInsur_Nat,2,Barnett Shoals,84.84,pct,Percent Has health insurance native born
+HInsur_Nat,3,Barrow,84.31,pct,Percent Has health insurance native born
+HInsur_Nat,4,Choice Zone-West,66.43,pct,Percent Has health insurance native born
+HInsur_Nat,5,Chase Street,80.48,pct,Percent Has health insurance native born
+HInsur_Nat,6,Cleveland Road,77.06,pct,Percent Has health insurance native born
+HInsur_Nat,7,Fowler Drive,69.25,pct,Percent Has health insurance native born
+HInsur_Nat,8,Gaines,83.49,pct,Percent Has health insurance native born
+HInsur_Nat,9,Howard B Stroud,80.02,pct,Percent Has health insurance native born
+HInsur_Nat,10,Judia Jackson Harris,64.75,pct,Percent Has health insurance native born
+HInsur_Nat,11,Choice Zone-East,81.54,pct,Percent Has health insurance native born
+HInsur_Nat,12,Oglethorpe,72.44,pct,Percent Has health insurance native born
+HInsur_Nat,13,Timothy Rd.,81.88,pct,Percent Has health insurance native born
+HInsur_Nat,14,Whit Davis,88.87,pct,Percent Has health insurance native born
+HInsur_Nat,15,Whitehead Rd.,79.67,pct,Percent Has health insurance native born
+HInsur_Nat,16,Winterville,82.66,pct,Percent Has health insurance native born
+HousOwn,1,Alps Road,32.8,pct,Percent Population in owner occupied housing
+HousOwn,2,Barnett Shoals,33.76,pct,Percent Population in owner occupied housing
+HousOwn,3,Barrow,20.77,pct,Percent Population in owner occupied housing
+HousOwn,4,Choice Zone-West,59.26,pct,Percent Population in owner occupied housing
+HousOwn,5,Chase Street,34.5,pct,Percent Population in owner occupied housing
+HousOwn,6,Cleveland Road,47.1,pct,Percent Population in owner occupied housing
+HousOwn,7,Fowler Drive,55.63,pct,Percent Population in owner occupied housing
+HousOwn,8,Gaines,25.04,pct,Percent Population in owner occupied housing
+HousOwn,9,Howard B Stroud,14.29,pct,Percent Population in owner occupied housing
+HousOwn,10,Judia Jackson Harris,68.31,pct,Percent Population in owner occupied housing
+HousOwn,11,Choice Zone-East,37.94,pct,Percent Population in owner occupied housing
+HousOwn,12,Oglethorpe,55.33,pct,Percent Population in owner occupied housing
+HousOwn,13,Timothy Rd.,51.59,pct,Percent Population in owner occupied housing
+HousOwn,14,Whit Davis,67.14,pct,Percent Population in owner occupied housing
+HousOwn,15,Whitehead Rd.,68.59,pct,Percent Population in owner occupied housing
+HousOwn,16,Winterville,66.86,pct,Percent Population in owner occupied housing
+HousRent,1,Alps Road,67.2,pct,Percent Population in renter occupied housing
+HousRent,2,Barnett Shoals,66.24,pct,Percent Population in renter occupied housing
+HousRent,3,Barrow,79.23,pct,Percent Population in renter occupied housing
+HousRent,4,Choice Zone-West,40.74,pct,Percent Population in renter occupied housing
+HousRent,5,Chase Street,65.51,pct,Percent Population in renter occupied housing
+HousRent,6,Cleveland Road,52.88,pct,Percent Population in renter occupied housing
+HousRent,7,Fowler Drive,44.37,pct,Percent Population in renter occupied housing
+HousRent,8,Gaines,74.96,pct,Percent Population in renter occupied housing
+HousRent,9,Howard B Stroud,85.71,pct,Percent Population in renter occupied housing
+HousRent,10,Judia Jackson Harris,31.69,pct,Percent Population in renter occupied housing
+HousRent,11,Choice Zone-East,62.06,pct,Percent Population in renter occupied housing
+HousRent,12,Oglethorpe,44.67,pct,Percent Population in renter occupied housing
+HousRent,13,Timothy Rd.,48.41,pct,Percent Population in renter occupied housing
+HousRent,14,Whit Davis,32.88,pct,Percent Population in renter occupied housing
+HousRent,15,Whitehead Rd.,31.41,pct,Percent Population in renter occupied housing
+HousRent,16,Winterville,33.14,pct,Percent Population in renter occupied housing
+Inc_10K,1,Alps Road,18.61,pct,"Percent Household income < $10,000"
+Inc_10K,2,Barnett Shoals,14.67,pct,"Percent Household income < $10,000"
+Inc_10K,3,Barrow,23.34,pct,"Percent Household income < $10,000"
+Inc_10K,4,Choice Zone-West,5.51,pct,"Percent Household income < $10,000"
+Inc_10K,5,Chase Street,12.27,pct,"Percent Household income < $10,000"
+Inc_10K,6,Cleveland Road,4.22,pct,"Percent Household income < $10,000"
+Inc_10K,7,Fowler Drive,3.03,pct,"Percent Household income < $10,000"
+Inc_10K,8,Gaines,15.6,pct,"Percent Household income < $10,000"
+Inc_10K,9,Howard B Stroud,28.22,pct,"Percent Household income < $10,000"
+Inc_10K,10,Judia Jackson Harris,2.14,pct,"Percent Household income < $10,000"
+Inc_10K,11,Choice Zone-East,9.74,pct,"Percent Household income < $10,000"
+Inc_10K,12,Oglethorpe,5.13,pct,"Percent Household income < $10,000"
+Inc_10K,13,Timothy Rd.,7.21,pct,"Percent Household income < $10,000"
+Inc_10K,14,Whit Davis,5.09,pct,"Percent Household income < $10,000"
+Inc_10K,15,Whitehead Rd.,7.45,pct,"Percent Household income < $10,000"
+Inc_10K,16,Winterville,8.02,pct,"Percent Household income < $10,000"
+Inc_200K,1,Alps Road,8.06,pct,"Percent Household income > $200,000"
+Inc_200K,2,Barnett Shoals,2.67,pct,"Percent Household income > $200,000"
+Inc_200K,3,Barrow,5.77,pct,"Percent Household income > $200,000"
+Inc_200K,4,Choice Zone-West,2.91,pct,"Percent Household income > $200,000"
+Inc_200K,5,Chase Street,7.01,pct,"Percent Household income > $200,000"
+Inc_200K,6,Cleveland Road,3.87,pct,"Percent Household income > $200,000"
+Inc_200K,7,Fowler Drive,0.25,pct,"Percent Household income > $200,000"
+Inc_200K,8,Gaines,1.1,pct,"Percent Household income > $200,000"
+Inc_200K,9,Howard B Stroud,0.03,pct,"Percent Household income > $200,000"
+Inc_200K,10,Judia Jackson Harris,0.07,pct,"Percent Household income > $200,000"
+Inc_200K,11,Choice Zone-East,1.69,pct,"Percent Household income > $200,000"
+Inc_200K,12,Oglethorpe,5.53,pct,"Percent Household income > $200,000"
+Inc_200K,13,Timothy Rd.,5.66,pct,"Percent Household income > $200,000"
+Inc_200K,14,Whit Davis,3.83,pct,"Percent Household income > $200,000"
+Inc_200K,15,Whitehead Rd.,3.36,pct,"Percent Household income > $200,000"
+Inc_200K,16,Winterville,1.76,pct,"Percent Household income > $200,000"
+Inc100K_149K,1,Alps Road,11.92,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,2,Barnett Shoals,11.25,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,3,Barrow,9.15,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,4,Choice Zone-West,7.57,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,5,Chase Street,10.17,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,6,Cleveland Road,11.33,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,7,Fowler Drive,5.85,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,8,Gaines,2.79,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,9,Howard B Stroud,3.66,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,10,Judia Jackson Harris,5.66,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,11,Choice Zone-East,9.46,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,12,Oglethorpe,11.23,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,13,Timothy Rd.,12.29,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,14,Whit Davis,22.56,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,15,Whitehead Rd.,21.7,pct,"Percent Household income $100,000 - $149,999"
+Inc100K_149K,16,Winterville,12.09,pct,"Percent Household income $100,000 - $149,999"
+Inc10K_24K,1,Alps Road,25.6,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,2,Barnett Shoals,19.05,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,3,Barrow,22.97,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,4,Choice Zone-West,23,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,5,Chase Street,20.07,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,6,Cleveland Road,12.36,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,7,Fowler Drive,26.94,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,8,Gaines,32.98,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,9,Howard B Stroud,35.38,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,10,Judia Jackson Harris,33.31,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,11,Choice Zone-East,20.99,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,12,Oglethorpe,17.57,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,13,Timothy Rd.,15.98,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,14,Whit Davis,9.23,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,15,Whitehead Rd.,8.76,pct,"Percent Household income $10,000 - $24,999"
+Inc10K_24K,16,Winterville,15.92,pct,"Percent Household income $10,000 - $24,999"
+Inc150K_199K,1,Alps Road,4.15,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,2,Barnett Shoals,3.63,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,3,Barrow,3.98,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,4,Choice Zone-West,6.71,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,5,Chase Street,6.52,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,6,Cleveland Road,4.31,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,7,Fowler Drive,0.91,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,8,Gaines,0.61,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,9,Howard B Stroud,0.03,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,10,Judia Jackson Harris,0.34,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,11,Choice Zone-East,4.16,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,12,Oglethorpe,4.28,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,13,Timothy Rd.,8.4,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,14,Whit Davis,9.11,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,15,Whitehead Rd.,2.95,pct,"Percent Houshold income $150,000 - $199,999"
+Inc150K_199K,16,Winterville,6.46,pct,"Percent Houshold income $150,000 - $199,999"
+Inc25K_49K,1,Alps Road,17.17,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,2,Barnett Shoals,24.22,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,3,Barrow,17.93,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,4,Choice Zone-West,32.21,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,5,Chase Street,23.53,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,6,Cleveland Road,23.29,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,7,Fowler Drive,36.83,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,8,Gaines,29.17,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,9,Howard B Stroud,17.6,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,10,Judia Jackson Harris,28.21,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,11,Choice Zone-East,30.6,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,12,Oglethorpe,25.14,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,13,Timothy Rd.,22.67,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,14,Whit Davis,18.93,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,15,Whitehead Rd.,26.82,pct,"Percent Household income $25,000 - $49,999"
+Inc25K_49K,16,Winterville,24.41,pct,"Percent Household income $25,000 - $49,999"
+Inc50K_74K,1,Alps Road,9.23,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,2,Barnett Shoals,12.67,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,3,Barrow,10.41,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,4,Choice Zone-West,11.87,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,5,Chase Street,13.13,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,6,Cleveland Road,24.4,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,7,Fowler Drive,13.37,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,8,Gaines,12.38,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,9,Howard B Stroud,14.55,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,10,Judia Jackson Harris,13.79,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,11,Choice Zone-East,13.44,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,12,Oglethorpe,21.67,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,13,Timothy Rd.,18.76,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,14,Whit Davis,15.62,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,15,Whitehead Rd.,17.44,pct,"Percent Household income $50,000 - $74,999"
+Inc50K_74K,16,Winterville,17.03,pct,"Percent Household income $50,000 - $74,999"
+Inc75K_99K,1,Alps Road,5.26,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,2,Barnett Shoals,11.81,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,3,Barrow,6.46,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,4,Choice Zone-West,10.22,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,5,Chase Street,7.24,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,6,Cleveland Road,16.22,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,7,Fowler Drive,12.87,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,8,Gaines,5.4,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,9,Howard B Stroud,0.48,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,10,Judia Jackson Harris,16.41,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,11,Choice Zone-East,9.89,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,12,Oglethorpe,9.45,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,13,Timothy Rd.,9.05,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,14,Whit Davis,15.58,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,15,Whitehead Rd.,11.51,pct,"Percent Houshold income $75,000 - $99,999"
+Inc75K_99K,16,Winterville,14.28,pct,"Percent Houshold income $75,000 - $99,999"
+Ind_ag,1,Alps Road,0.18,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,2,Barnett Shoals,1.26,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,3,Barrow,0.27,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,4,Choice Zone-West,0.73,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,5,Chase Street,0.36,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,6,Cleveland Road,0,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,7,Fowler Drive,0.59,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,8,Gaines,0.52,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,9,Howard B Stroud,0.22,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,10,Judia Jackson Harris,2.62,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,11,Choice Zone-East,0.63,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,12,Oglethorpe,0,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,13,Timothy Rd.,0.62,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,14,Whit Davis,0.52,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,15,Whitehead Rd.,0.66,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_ag,16,Winterville,0.14,pct,"Percent Population employed in agriculture, forestry, fishing, and hunting"
+Ind_arts,1,Alps Road,15.19,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,2,Barnett Shoals,11.98,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,3,Barrow,21.76,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,4,Choice Zone-West,11.58,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,5,Chase Street,22.56,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,6,Cleveland Road,8.34,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,7,Fowler Drive,11.38,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,8,Gaines,15.85,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,9,Howard B Stroud,15.82,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,10,Judia Jackson Harris,10.74,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,11,Choice Zone-East,13.97,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,12,Oglethorpe,12.62,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,13,Timothy Rd.,10.86,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,14,Whit Davis,6.24,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,15,Whitehead Rd.,6.31,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_arts,16,Winterville,12.8,pct,"Percent Population employed in arts, entertainment, and recreation"
+Ind_const,1,Alps Road,1.56,pct,Percent Population employed in construction
+Ind_const,2,Barnett Shoals,3.98,pct,Percent Population employed in construction
+Ind_const,3,Barrow,1.89,pct,Percent Population employed in construction
+Ind_const,4,Choice Zone-West,6.64,pct,Percent Population employed in construction
+Ind_const,5,Chase Street,2.8,pct,Percent Population employed in construction
+Ind_const,6,Cleveland Road,4.22,pct,Percent Population employed in construction
+Ind_const,7,Fowler Drive,6.02,pct,Percent Population employed in construction
+Ind_const,8,Gaines,2.62,pct,Percent Population employed in construction
+Ind_const,9,Howard B Stroud,0.87,pct,Percent Population employed in construction
+Ind_const,10,Judia Jackson Harris,11.87,pct,Percent Population employed in construction
+Ind_const,11,Choice Zone-East,2.12,pct,Percent Population employed in construction
+Ind_const,12,Oglethorpe,3.3,pct,Percent Population employed in construction
+Ind_const,13,Timothy Rd.,2.38,pct,Percent Population employed in construction
+Ind_const,14,Whit Davis,4.26,pct,Percent Population employed in construction
+Ind_const,15,Whitehead Rd.,8.36,pct,Percent Population employed in construction
+Ind_const,16,Winterville,3.12,pct,Percent Population employed in construction
+Ind_edhlth,1,Alps Road,30.44,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,2,Barnett Shoals,40.54,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,3,Barrow,40.07,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,4,Choice Zone-West,21.92,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,5,Chase Street,33.95,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,6,Cleveland Road,33.14,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,7,Fowler Drive,18.34,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,8,Gaines,28.64,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,9,Howard B Stroud,28.57,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,10,Judia Jackson Harris,16.49,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,11,Choice Zone-East,36.19,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,12,Oglethorpe,32.13,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,13,Timothy Rd.,33.17,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,14,Whit Davis,37.66,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,15,Whitehead Rd.,40.4,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_edhlth,16,Winterville,36.29,pct,"Percent Population employed in educational services, health care, or social assistance"
+Ind_finan,1,Alps Road,5.86,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,2,Barnett Shoals,3.59,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,3,Barrow,4.4,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,4,Choice Zone-West,1.58,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,5,Chase Street,3.27,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,6,Cleveland Road,5.32,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,7,Fowler Drive,2.46,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,8,Gaines,1.54,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,9,Howard B Stroud,5.67,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,10,Judia Jackson Harris,4.06,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,11,Choice Zone-East,1.07,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,12,Oglethorpe,4.58,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,13,Timothy Rd.,4.74,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,14,Whit Davis,2.95,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,15,Whitehead Rd.,6.9,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_finan,16,Winterville,1.64,pct,"Percent Population employed in finance, insurance, and real estate"
+Ind_info,1,Alps Road,0.68,pct,Percent Population employed in information
+Ind_info,2,Barnett Shoals,1.26,pct,Percent Population employed in information
+Ind_info,3,Barrow,2.25,pct,Percent Population employed in information
+Ind_info,4,Choice Zone-West,0.62,pct,Percent Population employed in information
+Ind_info,5,Chase Street,2.91,pct,Percent Population employed in information
+Ind_info,6,Cleveland Road,2.52,pct,Percent Population employed in information
+Ind_info,7,Fowler Drive,0.39,pct,Percent Population employed in information
+Ind_info,8,Gaines,1.25,pct,Percent Population employed in information
+Ind_info,9,Howard B Stroud,0.76,pct,Percent Population employed in information
+Ind_info,10,Judia Jackson Harris,0.19,pct,Percent Population employed in information
+Ind_info,11,Choice Zone-East,0.05,pct,Percent Population employed in information
+Ind_info,12,Oglethorpe,2.42,pct,Percent Population employed in information
+Ind_info,13,Timothy Rd.,1.46,pct,Percent Population employed in information
+Ind_info,14,Whit Davis,0.37,pct,Percent Population employed in information
+Ind_info,15,Whitehead Rd.,0,pct,Percent Population employed in information
+Ind_info,16,Winterville,0.45,pct,Percent Population employed in information
+Ind_manf,1,Alps Road,12.22,pct,Percent Population employed in manufacturing
+Ind_manf,2,Barnett Shoals,6.63,pct,Percent Population employed in manufacturing
+Ind_manf,3,Barrow,3.17,pct,Percent Population employed in manufacturing
+Ind_manf,4,Choice Zone-West,22.46,pct,Percent Population employed in manufacturing
+Ind_manf,5,Chase Street,9.39,pct,Percent Population employed in manufacturing
+Ind_manf,6,Cleveland Road,7.06,pct,Percent Population employed in manufacturing
+Ind_manf,7,Fowler Drive,12.24,pct,Percent Population employed in manufacturing
+Ind_manf,8,Gaines,9.01,pct,Percent Population employed in manufacturing
+Ind_manf,9,Howard B Stroud,8.7,pct,Percent Population employed in manufacturing
+Ind_manf,10,Judia Jackson Harris,10.87,pct,Percent Population employed in manufacturing
+Ind_manf,11,Choice Zone-East,5.34,pct,Percent Population employed in manufacturing
+Ind_manf,12,Oglethorpe,8.21,pct,Percent Population employed in manufacturing
+Ind_manf,13,Timothy Rd.,4.08,pct,Percent Population employed in manufacturing
+Ind_manf,14,Whit Davis,9.53,pct,Percent Population employed in manufacturing
+Ind_manf,15,Whitehead Rd.,6.93,pct,Percent Population employed in manufacturing
+Ind_manf,16,Winterville,9.07,pct,Percent Population employed in manufacturing
+Ind_other,1,Alps Road,3.77,pct,Percent Population employed in other services
+Ind_other,2,Barnett Shoals,3.31,pct,Percent Population employed in other services
+Ind_other,3,Barrow,3.79,pct,Percent Population employed in other services
+Ind_other,4,Choice Zone-West,6.18,pct,Percent Population employed in other services
+Ind_other,5,Chase Street,3.29,pct,Percent Population employed in other services
+Ind_other,6,Cleveland Road,4.44,pct,Percent Population employed in other services
+Ind_other,7,Fowler Drive,4.18,pct,Percent Population employed in other services
+Ind_other,8,Gaines,7.01,pct,Percent Population employed in other services
+Ind_other,9,Howard B Stroud,9.03,pct,Percent Population employed in other services
+Ind_other,10,Judia Jackson Harris,2.62,pct,Percent Population employed in other services
+Ind_other,11,Choice Zone-East,3.95,pct,Percent Population employed in other services
+Ind_other,12,Oglethorpe,5.61,pct,Percent Population employed in other services
+Ind_other,13,Timothy Rd.,3.73,pct,Percent Population employed in other services
+Ind_other,14,Whit Davis,2.63,pct,Percent Population employed in other services
+Ind_other,15,Whitehead Rd.,4.01,pct,Percent Population employed in other services
+Ind_other,16,Winterville,4.07,pct,Percent Population employed in other services
+Ind_prof,1,Alps Road,9.71,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,2,Barnett Shoals,9.39,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,3,Barrow,9.69,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,4,Choice Zone-West,8.88,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,5,Chase Street,9.03,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,6,Cleveland Road,10.15,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,7,Fowler Drive,10.05,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,8,Gaines,13.81,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,9,Howard B Stroud,10.69,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,10,Judia Jackson Harris,11.56,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,11,Choice Zone-East,15.41,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,12,Oglethorpe,13.4,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,13,Timothy Rd.,10.78,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,14,Whit Davis,12.94,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,15,Whitehead Rd.,7.37,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_prof,16,Winterville,7.63,pct,"Percent Population employed in professional, scientific and management, administration, or waste services"
+Ind_pubad,1,Alps Road,3.41,pct,Percent Population employed in public administration
+Ind_pubad,2,Barnett Shoals,2.28,pct,Percent Population employed in public administration
+Ind_pubad,3,Barrow,1.7,pct,Percent Population employed in public administration
+Ind_pubad,4,Choice Zone-West,3.9,pct,Percent Population employed in public administration
+Ind_pubad,5,Chase Street,2.24,pct,Percent Population employed in public administration
+Ind_pubad,6,Cleveland Road,4.12,pct,Percent Population employed in public administration
+Ind_pubad,7,Fowler Drive,5.01,pct,Percent Population employed in public administration
+Ind_pubad,8,Gaines,1.45,pct,Percent Population employed in public administration
+Ind_pubad,9,Howard B Stroud,7.58,pct,Percent Population employed in public administration
+Ind_pubad,10,Judia Jackson Harris,6.31,pct,Percent Population employed in public administration
+Ind_pubad,11,Choice Zone-East,2.41,pct,Percent Population employed in public administration
+Ind_pubad,12,Oglethorpe,2.59,pct,Percent Population employed in public administration
+Ind_pubad,13,Timothy Rd.,4.17,pct,Percent Population employed in public administration
+Ind_pubad,14,Whit Davis,2.49,pct,Percent Population employed in public administration
+Ind_pubad,15,Whitehead Rd.,4.31,pct,Percent Population employed in public administration
+Ind_pubad,16,Winterville,2.6,pct,Percent Population employed in public administration
+Ind_retail,1,Alps Road,13.07,pct,Percent Population employed in retail
+Ind_retail,2,Barnett Shoals,9.83,pct,Percent Population employed in retail
+Ind_retail,3,Barrow,8.63,pct,Percent Population employed in retail
+Ind_retail,4,Choice Zone-West,10.34,pct,Percent Population employed in retail
+Ind_retail,5,Chase Street,6.46,pct,Percent Population employed in retail
+Ind_retail,6,Cleveland Road,14.73,pct,Percent Population employed in retail
+Ind_retail,7,Fowler Drive,22.06,pct,Percent Population employed in retail
+Ind_retail,8,Gaines,10.21,pct,Percent Population employed in retail
+Ind_retail,9,Howard B Stroud,7.87,pct,Percent Population employed in retail
+Ind_retail,10,Judia Jackson Harris,12.12,pct,Percent Population employed in retail
+Ind_retail,11,Choice Zone-East,11.85,pct,Percent Population employed in retail
+Ind_retail,12,Oglethorpe,8.85,pct,Percent Population employed in retail
+Ind_retail,13,Timothy Rd.,17.96,pct,Percent Population employed in retail
+Ind_retail,14,Whit Davis,9.36,pct,Percent Population employed in retail
+Ind_retail,15,Whitehead Rd.,11.35,pct,Percent Population employed in retail
+Ind_retail,16,Winterville,14.45,pct,Percent Population employed in retail
+Ind_trans,1,Alps Road,2.88,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,2,Barnett Shoals,3.22,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,3,Barrow,1.87,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,4,Choice Zone-West,4.55,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,5,Chase Street,2.26,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,6,Cleveland Road,1.45,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,7,Fowler Drive,5.63,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,8,Gaines,5.84,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,9,Howard B Stroud,3.25,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,10,Judia Jackson Harris,8.81,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,11,Choice Zone-East,2.41,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,12,Oglethorpe,1.24,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,13,Timothy Rd.,4.11,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,14,Whit Davis,7.96,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,15,Whitehead Rd.,1.42,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_trans,16,Winterville,6.4,pct,"Percent Population employed in transportation, warehousing, and utilites"
+Ind_whlsl,1,Alps Road,1,pct,Percent Population employed in wholesale trade
+Ind_whlsl,2,Barnett Shoals,2.74,pct,Percent Population employed in wholesale trade
+Ind_whlsl,3,Barrow,0.52,pct,Percent Population employed in wholesale trade
+Ind_whlsl,4,Choice Zone-West,0.69,pct,Percent Population employed in wholesale trade
+Ind_whlsl,5,Chase Street,1.49,pct,Percent Population employed in wholesale trade
+Ind_whlsl,6,Cleveland Road,4.54,pct,Percent Population employed in wholesale trade
+Ind_whlsl,7,Fowler Drive,1.64,pct,Percent Population employed in wholesale trade
+Ind_whlsl,8,Gaines,2.27,pct,Percent Population employed in wholesale trade
+Ind_whlsl,9,Howard B Stroud,0.98,pct,Percent Population employed in wholesale trade
+Ind_whlsl,10,Judia Jackson Harris,1.81,pct,Percent Population employed in wholesale trade
+Ind_whlsl,11,Choice Zone-East,4.55,pct,Percent Population employed in wholesale trade
+Ind_whlsl,12,Oglethorpe,5.12,pct,Percent Population employed in wholesale trade
+Ind_whlsl,13,Timothy Rd.,1.91,pct,Percent Population employed in wholesale trade
+Ind_whlsl,14,Whit Davis,3.09,pct,Percent Population employed in wholesale trade
+Ind_whlsl,15,Whitehead Rd.,1.97,pct,Percent Population employed in wholesale trade
+Ind_whlsl,16,Winterville,1.3,pct,Percent Population employed in wholesale trade
+Inet_any,1,Alps Road,80.82,pct,Percent Internet: households with any subscription
+Inet_any,2,Barnett Shoals,90.8,pct,Percent Internet: households with any subscription
+Inet_any,3,Barrow,85.95,pct,Percent Internet: households with any subscription
+Inet_any,4,Choice Zone-West,85.77,pct,Percent Internet: households with any subscription
+Inet_any,5,Chase Street,86.28,pct,Percent Internet: households with any subscription
+Inet_any,6,Cleveland Road,88.71,pct,Percent Internet: households with any subscription
+Inet_any,7,Fowler Drive,81.58,pct,Percent Internet: households with any subscription
+Inet_any,8,Gaines,75.22,pct,Percent Internet: households with any subscription
+Inet_any,9,Howard B Stroud,77.02,pct,Percent Internet: households with any subscription
+Inet_any,10,Judia Jackson Harris,81.17,pct,Percent Internet: households with any subscription
+Inet_any,11,Choice Zone-East,94.36,pct,Percent Internet: households with any subscription
+Inet_any,12,Oglethorpe,86.22,pct,Percent Internet: households with any subscription
+Inet_any,13,Timothy Rd.,91.62,pct,Percent Internet: households with any subscription
+Inet_any,14,Whit Davis,96.25,pct,Percent Internet: households with any subscription
+Inet_any,15,Whitehead Rd.,88.86,pct,Percent Internet: households with any subscription
+Inet_any,16,Winterville,88.43,pct,Percent Internet: households with any subscription
+Inet_broad,1,Alps Road,61.74,pct,Percent Internet: households with broadband
+Inet_broad,2,Barnett Shoals,82.37,pct,Percent Internet: households with broadband
+Inet_broad,3,Barrow,77.31,pct,Percent Internet: households with broadband
+Inet_broad,4,Choice Zone-West,73.95,pct,Percent Internet: households with broadband
+Inet_broad,5,Chase Street,72.72,pct,Percent Internet: households with broadband
+Inet_broad,6,Cleveland Road,76.98,pct,Percent Internet: households with broadband
+Inet_broad,7,Fowler Drive,61.81,pct,Percent Internet: households with broadband
+Inet_broad,8,Gaines,63.54,pct,Percent Internet: households with broadband
+Inet_broad,9,Howard B Stroud,67.88,pct,Percent Internet: households with broadband
+Inet_broad,10,Judia Jackson Harris,64.76,pct,Percent Internet: households with broadband
+Inet_broad,11,Choice Zone-East,79.91,pct,Percent Internet: households with broadband
+Inet_broad,12,Oglethorpe,77.53,pct,Percent Internet: households with broadband
+Inet_broad,13,Timothy Rd.,79.09,pct,Percent Internet: households with broadband
+Inet_broad,14,Whit Davis,87.46,pct,Percent Internet: households with broadband
+Inet_broad,15,Whitehead Rd.,68.35,pct,Percent Internet: households with broadband
+Inet_broad,16,Winterville,76.63,pct,Percent Internet: households with broadband
+Pov_Ov65,1,Alps Road,15.1,pct,Percent Poverty over 65
+Pov_Ov65,2,Barnett Shoals,7.91,pct,Percent Poverty over 65
+Pov_Ov65,3,Barrow,3.97,pct,Percent Poverty over 65
+Pov_Ov65,4,Choice Zone-West,8.69,pct,Percent Poverty over 65
+Pov_Ov65,5,Chase Street,8.25,pct,Percent Poverty over 65
+Pov_Ov65,6,Cleveland Road,11.8,pct,Percent Poverty over 65
+Pov_Ov65,7,Fowler Drive,9.1,pct,Percent Poverty over 65
+Pov_Ov65,8,Gaines,11.61,pct,Percent Poverty over 65
+Pov_Ov65,9,Howard B Stroud,8.62,pct,Percent Poverty over 65
+Pov_Ov65,10,Judia Jackson Harris,12.57,pct,Percent Poverty over 65
+Pov_Ov65,11,Choice Zone-East,12.81,pct,Percent Poverty over 65
+Pov_Ov65,12,Oglethorpe,12.75,pct,Percent Poverty over 65
+Pov_Ov65,13,Timothy Rd.,21.35,pct,Percent Poverty over 65
+Pov_Ov65,14,Whit Davis,14.11,pct,Percent Poverty over 65
+Pov_Ov65,15,Whitehead Rd.,12.73,pct,Percent Poverty over 65
+Pov_Ov65,16,Winterville,14.25,pct,Percent Poverty over 65
+Pov_Und18,1,Alps Road,20.26,pct,Percent Poverty under 18
+Pov_Und18,2,Barnett Shoals,18.57,pct,Percent Poverty under 18
+Pov_Und18,3,Barrow,6.27,pct,Percent Poverty under 18
+Pov_Und18,4,Choice Zone-West,30.72,pct,Percent Poverty under 18
+Pov_Und18,5,Chase Street,18.61,pct,Percent Poverty under 18
+Pov_Und18,6,Cleveland Road,25.75,pct,Percent Poverty under 18
+Pov_Und18,7,Fowler Drive,22.63,pct,Percent Poverty under 18
+Pov_Und18,8,Gaines,18.21,pct,Percent Poverty under 18
+Pov_Und18,9,Howard B Stroud,9.72,pct,Percent Poverty under 18
+Pov_Und18,10,Judia Jackson Harris,26.98,pct,Percent Poverty under 18
+Pov_Und18,11,Choice Zone-East,14.06,pct,Percent Poverty under 18
+Pov_Und18,12,Oglethorpe,24.72,pct,Percent Poverty under 18
+Pov_Und18,13,Timothy Rd.,11.88,pct,Percent Poverty under 18
+Pov_Und18,14,Whit Davis,22.49,pct,Percent Poverty under 18
+Pov_Und18,15,Whitehead Rd.,27.07,pct,Percent Poverty under 18
+Pov_Und18,16,Winterville,18.91,pct,Percent Poverty under 18
+Rce_AI,1,Alps Road,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,2,Barnett Shoals,0.07,pct,Percent American Indian/non-Hispanic population
+Rce_AI,3,Barrow,0.02,pct,Percent American Indian/non-Hispanic population
+Rce_AI,4,Choice Zone-West,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,5,Chase Street,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,6,Cleveland Road,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,7,Fowler Drive,0.29,pct,Percent American Indian/non-Hispanic population
+Rce_AI,8,Gaines,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,9,Howard B Stroud,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,10,Judia Jackson Harris,0.13,pct,Percent American Indian/non-Hispanic population
+Rce_AI,11,Choice Zone-East,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,12,Oglethorpe,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,13,Timothy Rd.,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,14,Whit Davis,0.03,pct,Percent American Indian/non-Hispanic population
+Rce_AI,15,Whitehead Rd.,0,pct,Percent American Indian/non-Hispanic population
+Rce_AI,16,Winterville,0,pct,Percent American Indian/non-Hispanic population
+Rce_AsnNH,1,Alps Road,4.06,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,2,Barnett Shoals,7.22,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,3,Barrow,8.77,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,4,Choice Zone-West,0,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,5,Chase Street,1.81,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,6,Cleveland Road,2.27,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,7,Fowler Drive,0,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,8,Gaines,1.91,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,9,Howard B Stroud,3.24,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,10,Judia Jackson Harris,0,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,11,Choice Zone-East,2.12,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,12,Oglethorpe,1.93,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,13,Timothy Rd.,3.01,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,14,Whit Davis,0.73,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,15,Whitehead Rd.,2.44,pct,Percent Asian non-Hispanic population
+Rce_AsnNH,16,Winterville,2.69,pct,Percent Asian non-Hispanic population
+Rce_BlkNH,1,Alps Road,40.42,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,2,Barnett Shoals,24.13,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,3,Barrow,11.14,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,4,Choice Zone-West,36.47,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,5,Chase Street,24.75,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,6,Cleveland Road,33.51,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,7,Fowler Drive,46.32,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,8,Gaines,53.65,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,9,Howard B Stroud,32.12,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,10,Judia Jackson Harris,31.46,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,11,Choice Zone-East,26.82,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,12,Oglethorpe,29.69,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,13,Timothy Rd.,23.37,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,14,Whit Davis,33.36,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,15,Whitehead Rd.,28.67,pct,Percent Black non-Hispanic pouplation
+Rce_BlkNH,16,Winterville,33.69,pct,Percent Black non-Hispanic pouplation
+Rce_Hisp,1,Alps Road,5.1,pct,Percent Hispanic/Latinx population
+Rce_Hisp,2,Barnett Shoals,5.48,pct,Percent Hispanic/Latinx population
+Rce_Hisp,3,Barrow,5.71,pct,Percent Hispanic/Latinx population
+Rce_Hisp,4,Choice Zone-West,37.8,pct,Percent Hispanic/Latinx population
+Rce_Hisp,5,Chase Street,9.6,pct,Percent Hispanic/Latinx population
+Rce_Hisp,6,Cleveland Road,14.24,pct,Percent Hispanic/Latinx population
+Rce_Hisp,7,Fowler Drive,27.61,pct,Percent Hispanic/Latinx population
+Rce_Hisp,8,Gaines,1.19,pct,Percent Hispanic/Latinx population
+Rce_Hisp,9,Howard B Stroud,6.49,pct,Percent Hispanic/Latinx population
+Rce_Hisp,10,Judia Jackson Harris,47.01,pct,Percent Hispanic/Latinx population
+Rce_Hisp,11,Choice Zone-East,4.76,pct,Percent Hispanic/Latinx population
+Rce_Hisp,12,Oglethorpe,18,pct,Percent Hispanic/Latinx population
+Rce_Hisp,13,Timothy Rd.,4.79,pct,Percent Hispanic/Latinx population
+Rce_Hisp,14,Whit Davis,7.37,pct,Percent Hispanic/Latinx population
+Rce_Hisp,15,Whitehead Rd.,16.84,pct,Percent Hispanic/Latinx population
+Rce_Hisp,16,Winterville,8.05,pct,Percent Hispanic/Latinx population
+Rce_HPI,1,Alps Road,0.26,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,2,Barnett Shoals,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,3,Barrow,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,4,Choice Zone-West,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,5,Chase Street,0.06,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,6,Cleveland Road,0.19,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,7,Fowler Drive,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,8,Gaines,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,9,Howard B Stroud,0.12,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,10,Judia Jackson Harris,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,11,Choice Zone-East,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,12,Oglethorpe,0.16,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,13,Timothy Rd.,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,14,Whit Davis,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,15,Whitehead Rd.,0,pct,Percent Hawaiian/Pacific Islander population
+Rce_HPI,16,Winterville,0.07,pct,Percent Hawaiian/Pacific Islander population
+Rce_OthNH,1,Alps Road,0.1,pct,Percent Other race non-Hispanic
+Rce_OthNH,2,Barnett Shoals,0.48,pct,Percent Other race non-Hispanic
+Rce_OthNH,3,Barrow,0.28,pct,Percent Other race non-Hispanic
+Rce_OthNH,4,Choice Zone-West,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,5,Chase Street,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,6,Cleveland Road,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,7,Fowler Drive,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,8,Gaines,0.11,pct,Percent Other race non-Hispanic
+Rce_OthNH,9,Howard B Stroud,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,10,Judia Jackson Harris,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,11,Choice Zone-East,0.23,pct,Percent Other race non-Hispanic
+Rce_OthNH,12,Oglethorpe,0,pct,Percent Other race non-Hispanic
+Rce_OthNH,13,Timothy Rd.,0.55,pct,Percent Other race non-Hispanic
+Rce_OthNH,14,Whit Davis,0.05,pct,Percent Other race non-Hispanic
+Rce_OthNH,15,Whitehead Rd.,0.68,pct,Percent Other race non-Hispanic
+Rce_OthNH,16,Winterville,0.03,pct,Percent Other race non-Hispanic
+Rce_WhtNH,1,Alps Road,48.96,pct,Percent White non-Hispanic population
+Rce_WhtNH,2,Barnett Shoals,61.2,pct,Percent White non-Hispanic population
+Rce_WhtNH,3,Barrow,71.49,pct,Percent White non-Hispanic population
+Rce_WhtNH,4,Choice Zone-West,22.53,pct,Percent White non-Hispanic population
+Rce_WhtNH,5,Chase Street,60.92,pct,Percent White non-Hispanic population
+Rce_WhtNH,6,Cleveland Road,47.44,pct,Percent White non-Hispanic population
+Rce_WhtNH,7,Fowler Drive,24.91,pct,Percent White non-Hispanic population
+Rce_WhtNH,8,Gaines,40.04,pct,Percent White non-Hispanic population
+Rce_WhtNH,9,Howard B Stroud,56.13,pct,Percent White non-Hispanic population
+Rce_WhtNH,10,Judia Jackson Harris,21.06,pct,Percent White non-Hispanic population
+Rce_WhtNH,11,Choice Zone-East,62.76,pct,Percent White non-Hispanic population
+Rce_WhtNH,12,Oglethorpe,48.54,pct,Percent White non-Hispanic population
+Rce_WhtNH,13,Timothy Rd.,66.34,pct,Percent White non-Hispanic population
+Rce_WhtNH,14,Whit Davis,58.15,pct,Percent White non-Hispanic population
+Rce_WhtNH,15,Whitehead Rd.,47.72,pct,Percent White non-Hispanic population
+Rce_WhtNH,16,Winterville,53.3,pct,Percent White non-Hispanic population
+Rent30,1,Alps Road,52.47,pct,Percent Housing stressed: rent > 30% of income
+Rent30,2,Barnett Shoals,52.35,pct,Percent Housing stressed: rent > 30% of income
+Rent30,3,Barrow,56.45,pct,Percent Housing stressed: rent > 30% of income
+Rent30,4,Choice Zone-West,64.4,pct,Percent Housing stressed: rent > 30% of income
+Rent30,5,Chase Street,46.79,pct,Percent Housing stressed: rent > 30% of income
+Rent30,6,Cleveland Road,38.14,pct,Percent Housing stressed: rent > 30% of income
+Rent30,7,Fowler Drive,48.95,pct,Percent Housing stressed: rent > 30% of income
+Rent30,8,Gaines,48.26,pct,Percent Housing stressed: rent > 30% of income
+Rent30,9,Howard B Stroud,65.68,pct,Percent Housing stressed: rent > 30% of income
+Rent30,10,Judia Jackson Harris,43.5,pct,Percent Housing stressed: rent > 30% of income
+Rent30,11,Choice Zone-East,54.19,pct,Percent Housing stressed: rent > 30% of income
+Rent30,12,Oglethorpe,52.6,pct,Percent Housing stressed: rent > 30% of income
+Rent30,13,Timothy Rd.,49.08,pct,Percent Housing stressed: rent > 30% of income
+Rent30,14,Whit Davis,38.63,pct,Percent Housing stressed: rent > 30% of income
+Rent30,15,Whitehead Rd.,47.16,pct,Percent Housing stressed: rent > 30% of income
+Rent30,16,Winterville,40.61,pct,Percent Housing stressed: rent > 30% of income
+Sch_grad,1,Alps Road,3.28,pct,Percent Enrolled in grad school
+Sch_grad,2,Barnett Shoals,8.81,pct,Percent Enrolled in grad school
+Sch_grad,3,Barrow,7.24,pct,Percent Enrolled in grad school
+Sch_grad,4,Choice Zone-West,2.5,pct,Percent Enrolled in grad school
+Sch_grad,5,Chase Street,5.19,pct,Percent Enrolled in grad school
+Sch_grad,6,Cleveland Road,1.59,pct,Percent Enrolled in grad school
+Sch_grad,7,Fowler Drive,0.47,pct,Percent Enrolled in grad school
+Sch_grad,8,Gaines,7.28,pct,Percent Enrolled in grad school
+Sch_grad,9,Howard B Stroud,9.06,pct,Percent Enrolled in grad school
+Sch_grad,10,Judia Jackson Harris,0.2,pct,Percent Enrolled in grad school
+Sch_grad,11,Choice Zone-East,6.5,pct,Percent Enrolled in grad school
+Sch_grad,12,Oglethorpe,1.27,pct,Percent Enrolled in grad school
+Sch_grad,13,Timothy Rd.,8.04,pct,Percent Enrolled in grad school
+Sch_grad,14,Whit Davis,4.78,pct,Percent Enrolled in grad school
+Sch_grad,15,Whitehead Rd.,2.62,pct,Percent Enrolled in grad school
+Sch_grad,16,Winterville,5.54,pct,Percent Enrolled in grad school
+Sch_Kpre,1,Alps Road,2.11,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,2,Barnett Shoals,1.63,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,3,Barrow,1.1,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,4,Choice Zone-West,3.93,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,5,Chase Street,3.25,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,6,Cleveland Road,5.44,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,7,Fowler Drive,3.93,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,8,Gaines,1.14,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,9,Howard B Stroud,0.38,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,10,Judia Jackson Harris,5.17,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,11,Choice Zone-East,1.3,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,12,Oglethorpe,2.98,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,13,Timothy Rd.,2.01,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,14,Whit Davis,2.68,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,15,Whitehead Rd.,2.03,pct,Percent Enrolled in nursery school and kindergarten
+Sch_Kpre,16,Winterville,1.83,pct,Percent Enrolled in nursery school and kindergarten
+Sch_ugrad,1,Alps Road,8.17,pct,Percent Total in undergraduate
+Sch_ugrad,2,Barnett Shoals,25.71,pct,Percent Total in undergraduate
+Sch_ugrad,3,Barrow,60.33,pct,Percent Total in undergraduate
+Sch_ugrad,4,Choice Zone-West,2.5,pct,Percent Total in undergraduate
+Sch_ugrad,5,Chase Street,12.25,pct,Percent Total in undergraduate
+Sch_ugrad,6,Cleveland Road,3.62,pct,Percent Total in undergraduate
+Sch_ugrad,7,Fowler Drive,5.88,pct,Percent Total in undergraduate
+Sch_ugrad,8,Gaines,11.91,pct,Percent Total in undergraduate
+Sch_ugrad,9,Howard B Stroud,38.12,pct,Percent Total in undergraduate
+Sch_ugrad,10,Judia Jackson Harris,4.64,pct,Percent Total in undergraduate
+Sch_ugrad,11,Choice Zone-East,9.28,pct,Percent Total in undergraduate
+Sch_ugrad,12,Oglethorpe,3.97,pct,Percent Total in undergraduate
+Sch_ugrad,13,Timothy Rd.,12.68,pct,Percent Total in undergraduate
+Sch_ugrad,14,Whit Davis,6.61,pct,Percent Total in undergraduate
+Sch_ugrad,15,Whitehead Rd.,4.33,pct,Percent Total in undergraduate
+Sch_ugrad,16,Winterville,3.11,pct,Percent Total in undergraduate
+Trn_car,1,Alps Road,68.29,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,2,Barnett Shoals,83.36,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,3,Barrow,63.54,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,4,Choice Zone-West,80.1,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,5,Chase Street,64.41,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,6,Cleveland Road,70.35,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,7,Fowler Drive,76.66,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,8,Gaines,66.64,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,9,Howard B Stroud,75.61,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,10,Judia Jackson Harris,81.01,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,11,Choice Zone-East,75.14,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,12,Oglethorpe,73.62,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,13,Timothy Rd.,78.89,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,14,Whit Davis,75.41,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,15,Whitehead Rd.,87.77,pct,"Percent Commute: used car, truck, or van alone"
+Trn_car,16,Winterville,80.71,pct,"Percent Commute: used car, truck, or van alone"
+Trn_carpool,1,Alps Road,8.99,pct,Percent Commute: carpooled in car
+Trn_carpool,2,Barnett Shoals,5.7,pct,Percent Commute: carpooled in car
+Trn_carpool,3,Barrow,5.12,pct,Percent Commute: carpooled in car
+Trn_carpool,4,Choice Zone-West,10.25,pct,Percent Commute: carpooled in car
+Trn_carpool,5,Chase Street,6.92,pct,Percent Commute: carpooled in car
+Trn_carpool,6,Cleveland Road,12.16,pct,Percent Commute: carpooled in car
+Trn_carpool,7,Fowler Drive,17.05,pct,Percent Commute: carpooled in car
+Trn_carpool,8,Gaines,6.37,pct,Percent Commute: carpooled in car
+Trn_carpool,9,Howard B Stroud,3.8,pct,Percent Commute: carpooled in car
+Trn_carpool,10,Judia Jackson Harris,15.52,pct,Percent Commute: carpooled in car
+Trn_carpool,11,Choice Zone-East,13.56,pct,Percent Commute: carpooled in car
+Trn_carpool,12,Oglethorpe,10.6,pct,Percent Commute: carpooled in car
+Trn_carpool,13,Timothy Rd.,7.61,pct,Percent Commute: carpooled in car
+Trn_carpool,14,Whit Davis,9.38,pct,Percent Commute: carpooled in car
+Trn_carpool,15,Whitehead Rd.,6.13,pct,Percent Commute: carpooled in car
+Trn_carpool,16,Winterville,12.44,pct,Percent Commute: carpooled in car
+Trn_home,1,Alps Road,8.72,pct,Percent Commute: Worked at home
+Trn_home,2,Barnett Shoals,4.88,pct,Percent Commute: Worked at home
+Trn_home,3,Barrow,9.99,pct,Percent Commute: Worked at home
+Trn_home,4,Choice Zone-West,7.31,pct,Percent Commute: Worked at home
+Trn_home,5,Chase Street,8.49,pct,Percent Commute: Worked at home
+Trn_home,6,Cleveland Road,10.35,pct,Percent Commute: Worked at home
+Trn_home,7,Fowler Drive,5.18,pct,Percent Commute: Worked at home
+Trn_home,8,Gaines,4.73,pct,Percent Commute: Worked at home
+Trn_home,9,Howard B Stroud,2.71,pct,Percent Commute: Worked at home
+Trn_home,10,Judia Jackson Harris,2.5,pct,Percent Commute: Worked at home
+Trn_home,11,Choice Zone-East,6.93,pct,Percent Commute: Worked at home
+Trn_home,12,Oglethorpe,9.22,pct,Percent Commute: Worked at home
+Trn_home,13,Timothy Rd.,12.54,pct,Percent Commute: Worked at home
+Trn_home,14,Whit Davis,10.94,pct,Percent Commute: Worked at home
+Trn_home,15,Whitehead Rd.,5.54,pct,Percent Commute: Worked at home
+Trn_home,16,Winterville,2.95,pct,Percent Commute: Worked at home
+Trn_noveh,1,Alps Road,10.38,pct,Percent Commute: no available vehicle
+Trn_noveh,2,Barnett Shoals,2.17,pct,Percent Commute: no available vehicle
+Trn_noveh,3,Barrow,5.07,pct,Percent Commute: no available vehicle
+Trn_noveh,4,Choice Zone-West,4.85,pct,Percent Commute: no available vehicle
+Trn_noveh,5,Chase Street,4.61,pct,Percent Commute: no available vehicle
+Trn_noveh,6,Cleveland Road,3.99,pct,Percent Commute: no available vehicle
+Trn_noveh,7,Fowler Drive,2.63,pct,Percent Commute: no available vehicle
+Trn_noveh,8,Gaines,18.3,pct,Percent Commute: no available vehicle
+Trn_noveh,9,Howard B Stroud,14.68,pct,Percent Commute: no available vehicle
+Trn_noveh,10,Judia Jackson Harris,1.22,pct,Percent Commute: no available vehicle
+Trn_noveh,11,Choice Zone-East,5.51,pct,Percent Commute: no available vehicle
+Trn_noveh,12,Oglethorpe,4.41,pct,Percent Commute: no available vehicle
+Trn_noveh,13,Timothy Rd.,0.67,pct,Percent Commute: no available vehicle
+Trn_noveh,14,Whit Davis,1.1,pct,Percent Commute: no available vehicle
+Trn_noveh,15,Whitehead Rd.,4.54,pct,Percent Commute: no available vehicle
+Trn_noveh,16,Winterville,2.12,pct,Percent Commute: no available vehicle
+Trn_pub,1,Alps Road,1.84,pct,Percent Commute: used public transit
+Trn_pub,2,Barnett Shoals,3.77,pct,Percent Commute: used public transit
+Trn_pub,3,Barrow,5.94,pct,Percent Commute: used public transit
+Trn_pub,4,Choice Zone-West,1.31,pct,Percent Commute: used public transit
+Trn_pub,5,Chase Street,3.5,pct,Percent Commute: used public transit
+Trn_pub,6,Cleveland Road,2.88,pct,Percent Commute: used public transit
+Trn_pub,7,Fowler Drive,0,pct,Percent Commute: used public transit
+Trn_pub,8,Gaines,2.26,pct,Percent Commute: used public transit
+Trn_pub,9,Howard B Stroud,9.3,pct,Percent Commute: used public transit
+Trn_pub,10,Judia Jackson Harris,0,pct,Percent Commute: used public transit
+Trn_pub,11,Choice Zone-East,1.55,pct,Percent Commute: used public transit
+Trn_pub,12,Oglethorpe,3.68,pct,Percent Commute: used public transit
+Trn_pub,13,Timothy Rd.,0.35,pct,Percent Commute: used public transit
+Trn_pub,14,Whit Davis,2.09,pct,Percent Commute: used public transit
+Trn_pub,15,Whitehead Rd.,0.55,pct,Percent Commute: used public transit
+Trn_pub,16,Winterville,0.76,pct,Percent Commute: used public transit
+Trn_taxi,1,Alps Road,3.98,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,2,Barnett Shoals,1.76,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,3,Barrow,2.7,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,4,Choice Zone-West,0,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,5,Chase Street,6.65,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,6,Cleveland Road,3.81,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,7,Fowler Drive,0.72,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,8,Gaines,5.62,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,9,Howard B Stroud,4.22,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,10,Judia Jackson Harris,0.77,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,11,Choice Zone-East,1.9,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,12,Oglethorpe,2.4,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,13,Timothy Rd.,0.6,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,14,Whit Davis,1.42,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,15,Whitehead Rd.,0,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_taxi,16,Winterville,0.83,pct,"Percent Commute: other--taxi, motorcycle, or bicycle"
+Trn_walk,1,Alps Road,8.18,pct,Percent Walked to work
+Trn_walk,2,Barnett Shoals,0.53,pct,Percent Walked to work
+Trn_walk,3,Barrow,12.71,pct,Percent Walked to work
+Trn_walk,4,Choice Zone-West,0.99,pct,Percent Walked to work
+Trn_walk,5,Chase Street,10.01,pct,Percent Walked to work
+Trn_walk,6,Cleveland Road,0.48,pct,Percent Walked to work
+Trn_walk,7,Fowler Drive,0.44,pct,Percent Walked to work
+Trn_walk,8,Gaines,14.4,pct,Percent Walked to work
+Trn_walk,9,Howard B Stroud,4.4,pct,Percent Walked to work
+Trn_walk,10,Judia Jackson Harris,0.19,pct,Percent Walked to work
+Trn_walk,11,Choice Zone-East,0.9,pct,Percent Walked to work
+Trn_walk,12,Oglethorpe,0.44,pct,Percent Walked to work
+Trn_walk,13,Timothy Rd.,0,pct,Percent Walked to work
+Trn_walk,14,Whit Davis,0.75,pct,Percent Walked to work
+Trn_walk,15,Whitehead Rd.,0,pct,Percent Walked to work
+Trn_walk,16,Winterville,2.33,pct,Percent Walked to work
